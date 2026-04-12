@@ -38,4 +38,4 @@ These pages are selective.
 They do not represent the full internal archive, draft history, or private working documents.  
 Only materials suitable for public release are included here.
 
-For dated issue-tracking notes, see the [log archive](../log/).
+For dated issue-tracking notes, see the [log archive](log/).
