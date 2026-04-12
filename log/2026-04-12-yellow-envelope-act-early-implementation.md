@@ -1,4 +1,4 @@
-# Yellow Envelope Act (Korea) — Early Implementation Tracking Note
+# Yellow Envelope Act (Korea): Early Implementation Tracking
 
 **Status:** Public tracking note  
 **Scope:** Early implementation only  
