@@ -1,0 +1,94 @@
+# Yellow Envelope Act (Korea) — Procedural Risk Brief
+
+**Status:** Public brief  
+**Last updated:** 2026-04-12 KST
+
+> This note is a public analytical brief, not a legal advisory document.  
+> It focuses on early implementation patterns and emerging procedural bottlenecks.
+
+---
+
+## Core point
+
+The main question is no longer whether the revised framework opened the door to bargaining with upstream actors in subcontracting structures.
+
+That opening already exists.
+
+The more immediate issue is **how that opening is being operationalized**: through what documents, what issue categories, what bargaining-unit decisions, and what procedural record.
+
+---
+
+## Why early implementation matters
+
+Early implementation often shapes later conflict more than abstract statutory wording does.
+
+In this case, the practical structure appears to be splitting into at least three separate questions:
+
+1. **whether upstream user status is recognized**
+2. **whether bargaining-unit separation is granted**
+3. **which issue areas are treated as actually covered**
+
+That distinction matters because user-status recognition does **not automatically** lead to a single bargaining structure or a stable negotiation path. :contentReference[oaicite:1]{index=1}
+
+---
+
+## What the early pattern suggests
+
+At this stage, the most important implementation risks appear to be procedural.
+
+Several early bottlenecks are already visible:
+
+- uncertainty over the scope of covered issues
+- conflict over bargaining-unit separation criteria
+- document-heavy disputes over contracts, staffing, safety, and operational control
+- concentration of early disputes into labour-board procedures
+- downward transfer of uncertainty costs onto field actors
+
+This suggests that the problem is not simply delay.  
+It is a combination of **fast procedural activation**, **multi-layered conflict**, and **weak front-end standardization**. :contentReference[oaicite:2]{index=2}
+
+---
+
+## Why this is not just a legal-interpretation issue
+
+A narrow “for or against” reading misses the real implementation problem.
+
+Even if the legal opening remains intact, friction can escalate quickly where there is no stable front-end structure for:
+
+- issue classification
+- document standardization
+- reason-giving
+- parallel coordination
+- record-keeping
+
+In practice, this means uncertainty can be externalized into repeated disputes, defensive documentation, and prolonged procedural burden. :contentReference[oaicite:3]{index=3}
+
+---
+
+## Practical implication
+
+At this stage, the most useful policy question is not whether the opening should exist in the abstract.
+
+It is whether implementation can be made more manageable through procedural design.
+
+The most plausible direction is not rollback, but **operational refinement**.  
+That includes earlier issue-fixing, clearer separation criteria, more standardized document handling, and stronger front-end coordination mechanisms. :contentReference[oaicite:4]{index=4}
+
+---
+
+## What to watch next
+
+The next important signals are:
+
+- whether early decisions begin to converge into a more stable pattern
+- how bargaining-unit separation standards are actually applied
+- whether issue-specific recognition remains narrow or expands
+- whether review-stage procedures reduce or intensify uncertainty
+- whether implementation costs continue to be pushed downward
+
+---
+
+## Related note
+
+For a dated tracking page on the same issue, see:  
+[Yellow Envelope Act — Early Implementation Tracking Note](../log/2026-04-12-yellow-envelope-act-early-implementation.md)
