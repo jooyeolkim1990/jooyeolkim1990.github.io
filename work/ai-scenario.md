@@ -1,4 +1,4 @@
-# AI After Leakage: Three Order Scenarios for a Diffusive General-Purpose Technology
+# AI After Leakage: Three Order Scenarios
 
 **Status:** Public analytical note  
 **Last updated:** 2026-04-12 KST
