@@ -30,13 +30,11 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
   A framework on how decision environments are structured before choice begins.  
   [Read](work/feasible-set-governance.md)
 
-<!-- Keep these hidden until the files actually exist.
 - **AI Scenario**
   [Read](work/ai-scenario.md)
 
 - **AI Responsibility**
   [Read](work/ai-responsibility.md)
--->
 
 ---
 
