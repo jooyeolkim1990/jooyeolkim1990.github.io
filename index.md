@@ -34,8 +34,8 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
   A short analytical note on diffusion, chokepoints, and post-containment AI order.  
   [Read](work/ai-scenario.md)
 
-- **AI Safety Rhetoric: Self-Binding or Blame Shield?**
-  A note on how frontier AI companies govern through public language.
+- **AI Safety Rhetoric: Self-Binding or Blame Shield?**  
+  A note on how frontier AI companies govern through public language.  
   [Read](work/ai-responsibility.md)
 
 ---
