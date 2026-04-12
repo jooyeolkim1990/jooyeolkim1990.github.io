@@ -1,4 +1,4 @@
-# AI Safety Rhetoric and Self-Binding: How Frontier AI Companies Govern Through Public Language
+# AI Safety Rhetoric: Self-Binding or Blame Shield?
 
 **Status:** Public analytical note  
 **Last updated:** 2026-04-12 KST
