@@ -9,7 +9,7 @@ Where the **log** tracks developing issues in time, **work** holds more structur
 
 ## Featured brief
 
-- **Yellow Envelope Act (Korea) — Procedural Risk Brief**  
+- **Yellow Envelope Act (Korea): Early Procedural Risk**  
   A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
   [Read](work/yellow-envelope-act-procedural-risk-brief.md)
 
@@ -17,17 +17,17 @@ Where the **log** tracks developing issues in time, **work** holds more structur
 
 ## Framework pages
 
-- **Feasible-Set Governance**  
+- **Feasible-Set Governance: Framework Overview**  
   A framework for analyzing how decision environments are structured before choice begins.  
   [Read](work/feasible-set-governance.md)
 
-<!-- Restore these only when the files actually exist.
-- **AI Scenario**
-  [Read](ai-scenario.md)
+- **AI After Leakage: Three Order Scenarios**  
+  A short analytical note on AI diffusion, leakage, and post-containment order formation.  
+  [Read](work/ai-scenario.md)
 
-- **AI Responsibility**
-  [Read](ai-responsibility.md)
--->
+- **AI Safety Rhetoric: Self-Binding or Blame Shield?**  
+  A note on how frontier AI firms govern through public language and public commitments.  
+  [Read](work/ai-responsibility.md)
 
 ---
 
