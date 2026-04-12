@@ -1,35 +1,63 @@
 # About
 
-I am an independent researcher working on AI governance, platform systems, labor, and institutional change.
+I am an independent researcher working on governance, institutional response, platform power, labour restructuring, and AI-related analytical frameworks.
 
-My work focuses on how technological systems reshape access, responsibility, power, and decision environments. I develop analytical frameworks and use them to interpret emerging cases, policy debates, and strategic shifts in the governance of advanced technologies.
+This site has a narrow purpose:
 
-## Main Interests
+- to publish **selected public-facing framework pages**
+- to maintain **time-stamped analytical logs** on current issues
+- to provide a compact record of how particular arguments and observations developed over time
 
-- AI governance and frontier model politics  
-- Platform power, access, and control  
-- Labor restructuring and technological transition  
-- Institutional design and responsibility allocation  
-- Strategic analysis of emerging technological order  
+---
 
-## What I Produce
+## What this site is
 
-- Policy memos  
-- Strategic analytical notes  
-- Conceptual frameworks  
-- Case-based governance analysis  
-- Research synthesis and literature mapping  
+This is a public analytical workspace.
 
-## Working Style
+It is designed to hold two kinds of material:
 
-I prefer clear conceptual structure, explicit analytical criteria, and close attention to how responsibility, incentives, and governance mechanisms are actually arranged in practice.
+1. **Selected work**  
+   Short framework pages and public-facing notes that are relatively stable.
 
-## Current Direction
+2. **Logs**  
+   Time-stamped notes tracking emerging issues, early-stage interpretations, and observable institutional patterns.
 
-This site is part of an ongoing effort to build a public-facing portfolio of independent analytical work in AI governance and adjacent institutional domains.
+---
 
-## Navigation
+## What this site is not
 
-- [Home](index.md)
-- [Work](work.md)
-- [Contact](contact.md)
+This site is **not**:
+
+- a legal advisory service
+- a formal policy institution
+- a breaking-news outlet
+- a complete archive of all my work
+
+Some materials remain private, incomplete, or internal.  
+Only selected items are made public here.
+
+---
+
+## Current areas of focus
+
+- governance and institutional response
+- platform power and responsibility structures
+- labour, burden transfer, and restructuring
+- AI governance and classification problems
+- public analytical tracking of fast-moving issues
+
+---
+
+## Why timestamps matter here
+
+For current issues, timing matters.
+
+Where appropriate, pages on this site are dated and updated so that readers can see **when an observation was made**, **what was known at that point**, and **how later developments changed the picture**.
+
+That function is especially important for early-stage policy and governance tracking.
+
+---
+
+## Contact
+
+For contact information, see [contact.md](contact.md).
