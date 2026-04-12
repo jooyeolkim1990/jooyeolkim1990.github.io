@@ -11,7 +11,7 @@ Where the **log** tracks developing issues in time, **work** holds more structur
 
 - **Yellow Envelope Act (Korea) — Procedural Risk Brief**  
   A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
-  [Read](yellow-envelope-act-procedural-risk-brief.md)
+  [Read](work/yellow-envelope-act-procedural-risk-brief.md)
 
 ---
 
@@ -19,7 +19,7 @@ Where the **log** tracks developing issues in time, **work** holds more structur
 
 - **Feasible-Set Governance**  
   A framework for analyzing how decision environments are structured before choice begins.  
-  [Read](feasible-set-governance.md)
+  [Read](work/feasible-set-governance.md)
 
 <!-- Restore these only when the files actually exist.
 - **AI Scenario**
