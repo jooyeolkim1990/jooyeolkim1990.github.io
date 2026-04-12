@@ -29,6 +29,10 @@ Where the **log** tracks developing issues in time, **work** holds more structur
   A note on how frontier AI firms govern through public language and public commitments.  
   [Read](work/ai-responsibility.md)
 
+- **Editorial Pitch Archive**  
+  A compact record of submitted, expired, rejected, and unplaced essay pitches.  
+  [Read](work/pitch-archive.md)
+
 ---
 
 ## Note on scope
