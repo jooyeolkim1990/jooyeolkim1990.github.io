@@ -1,4 +1,4 @@
-# Feasible Set Governance (FSG)
+# Feasible-Set Governance: Framework Overview
 
 A cross-domain governance framework for analyzing not only how people choose, but how the candidate universe from which they choose is structured in advance.
 
