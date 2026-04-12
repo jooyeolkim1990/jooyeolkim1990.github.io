@@ -1,42 +1,41 @@
 # Work
 
-This page collects selected analytical work across frameworks, memos, and case-based notes.
+Selected public-facing framework pages and short analytical briefs.
 
-## Selected Analytical Work
+This section contains more stable pages than the log archive.  
+Where the **log** tracks developing issues in time, **work** holds more structured summaries, framework pages, and compact public briefs.
 
-### 1. AI Scenario
-A strategic note on how the AI technical and governance landscape may evolve, with attention to chokepoints, diffusion, access control, and the likely structure of the emerging AI order.
+---
 
-[Read](work/ai-scenario.md)
+## Featured brief
 
-### 2. AI Responsibility
-A comparative analytical note on how major AI companies appear to understand the AI landscape, where they locate bottlenecks and governance risks, and how they may be positioning themselves in relation to responsibility, access, and strategic control.
+- **Yellow Envelope Act (Korea) — Procedural Risk Brief**  
+  A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
+  [Read](yellow-envelope-act-procedural-risk-brief.md)
 
-[Read](work/ai-responsibility.md)
+---
 
-### 3. Feasible Set Governance (FSG)
-A higher-order analytical framework for examining who structures the feasible set within which bounded actors make decisions, whose goals it reflects, and how affected actors can or cannot perceive, refuse, exit, or contest it.
+## Framework pages
 
-[Read](work/feasible-set-governance.md)
+- **Feasible-Set Governance**  
+  A framework for analyzing how decision environments are structured before choice begins.  
+  [Read](feasible-set-governance.md)
 
-## Ongoing Categories
+<!-- Restore these only when the files actually exist.
+- **AI Scenario**
+  [Read](ai-scenario.md)
 
-### Frameworks
-Conceptual tools for analyzing governance, responsibility, access, and structured decision environments.
+- **AI Responsibility**
+  [Read](ai-responsibility.md)
+-->
 
-### Memos
-Shorter analytical documents on policy, strategy, and institutional change.
+---
 
-### Cases
-Applied notes showing how analytical frameworks operate in concrete cases.
+## Note on scope
 
-### Logs
-Structured analytical snapshots and archive notes used to support ongoing work.
+These pages are selective.
 
-[View Log Archive](log/index.md)
+They do not represent the full internal archive, draft history, or private working documents.  
+Only materials suitable for public release are included here.
 
-## Navigation
-
-- [Home](index.md)
-- [About](about.md)
-- [Contact](contact.md)
+For dated issue-tracking notes, see the [log archive](../log/).
