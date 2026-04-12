@@ -18,7 +18,7 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ## Latest tracking note
 
-- **Yellow Envelope Act (Korea) — Early Implementation Tracking Note**  
+- **Yellow Envelope Act (Korea) — Early Implementation Tracking**  
   *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
   [Open note](log/2026-04-12-yellow-envelope-act-early-implementation.md)
 
@@ -26,14 +26,16 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ## Selected work
 
-- **Feasible-Set Governance**  
+- **Feasible-Set Governance: Framework Overview**  
   A framework on how decision environments are structured before choice begins.  
   [Read](work/feasible-set-governance.md)
 
-- **AI Scenario**
+- **AI After Leakage: Three Order Scenarios**
+  A short analytical note on diffusion, chokepoints, and post-containment AI order.  
   [Read](work/ai-scenario.md)
 
-- **AI Responsibility**
+- **AI Safety Rhetoric: Self-Binding or Blame Shield?**
+  A note on how frontier AI companies govern through public language.
   [Read](work/ai-responsibility.md)
 
 ---
