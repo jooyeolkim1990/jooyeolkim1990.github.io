@@ -1,4 +1,4 @@
-# Yellow Envelope Act (Korea) — Procedural Risk Brief
+# Yellow Envelope Act (Korea): Early Procedural Risk
 
 **Status:** Public brief  
 **Last updated:** 2026-04-12 KST
