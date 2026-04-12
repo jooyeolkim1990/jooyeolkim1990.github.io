@@ -28,7 +28,7 @@ In this case, the practical structure appears to be splitting into at least thre
 2. **whether bargaining-unit separation is granted**
 3. **which issue areas are treated as actually covered**
 
-That distinction matters because user-status recognition does **not automatically** lead to a single bargaining structure or a stable negotiation path. :contentReference[oaicite:1]{index=1}
+That distinction matters because user-status recognition does **not automatically** lead to a single bargaining structure or a stable negotiation path. 
 
 ---
 
@@ -45,7 +45,7 @@ Several early bottlenecks are already visible:
 - downward transfer of uncertainty costs onto field actors
 
 This suggests that the problem is not simply delay.  
-It is a combination of **fast procedural activation**, **multi-layered conflict**, and **weak front-end standardization**. :contentReference[oaicite:2]{index=2}
+It is a combination of **fast procedural activation**, **multi-layered conflict**, and **weak front-end standardization**.
 
 ---
 
@@ -61,7 +61,7 @@ Even if the legal opening remains intact, friction can escalate quickly where th
 - parallel coordination
 - record-keeping
 
-In practice, this means uncertainty can be externalized into repeated disputes, defensive documentation, and prolonged procedural burden. :contentReference[oaicite:3]{index=3}
+In practice, this means uncertainty can be externalized into repeated disputes, defensive documentation, and prolonged procedural burden. 
 
 ---
 
@@ -72,7 +72,7 @@ At this stage, the most useful policy question is not whether the opening should
 It is whether implementation can be made more manageable through procedural design.
 
 The most plausible direction is not rollback, but **operational refinement**.  
-That includes earlier issue-fixing, clearer separation criteria, more standardized document handling, and stronger front-end coordination mechanisms. :contentReference[oaicite:4]{index=4}
+That includes earlier issue-fixing, clearer separation criteria, more standardized document handling, and stronger front-end coordination mechanisms. 
 
 ---
 
