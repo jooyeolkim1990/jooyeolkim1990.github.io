@@ -1,11 +1,12 @@
 # Analytical Log Archive
 
-This archive contains structured observation notes, templates, and dated analytical entries.
+This archive contains dated analytical notes, tracking pages, and selected observation records.
 
-These logs support the analytical work presented elsewhere on this site. They are not the main entry point of the portfolio, but part of the underlying research process.
+These logs are part of the public analytical record of the site. They are not identical to the more stable framework and brief pages collected under Work.
 
 ## Logs
 
+- [2026-04-12 — Yellow Envelope Act (Korea): Early Implementation Tracking Note](2026-04-12-yellow-envelope-act-early-implementation.md)
 - [2026-01-28 — template](2026-01-28-template.md)
 
 ## Navigation
