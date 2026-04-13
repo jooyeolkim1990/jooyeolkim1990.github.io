@@ -1,5 +1,7 @@
 # Work
 
+This page gathers selected public briefs, analytical notes, and framework-based work. For a quick overview, start with [Selected Work](selected-work.md). For collaboration or commissioned brief inquiries, see [Work With Me](work-with-me.md).
+
 Selected public-facing framework pages and short analytical briefs.
 
 This section contains more stable pages than the log archive.  
