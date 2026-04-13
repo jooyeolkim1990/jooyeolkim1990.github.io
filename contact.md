@@ -1,6 +1,6 @@
 # Contact
 
-For inquiries related to analytical notes, framework pages, or selected public briefs:
+For commissioned briefs, research collaboration, media inquiries, or invited conversations, contact:
 
 - Email: jooyeolkim1990@gmail.com
 - GitHub: https://github.com/jooyeolkim1990
