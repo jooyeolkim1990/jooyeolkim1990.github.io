@@ -88,7 +88,8 @@ The next important signals are:
 
 ---
 
-## Related note
+## Related notes
 
-For a dated tracking page on the same issue, see:  
-[Yellow Envelope Act — Early Implementation Tracking Note](../log/2026-04-12-yellow-envelope-act-early-implementation.md)
+For dated tracking pages on the same issue, see:  
+- [Yellow Envelope Act — Early Implementation Tracking Note](../log/2026-04-12-yellow-envelope-act-early-implementation.md)  
+- [Yellow Envelope Act — Implementation Update](../log/2026-04-13-yellow-envelope-act-implementation-update.md)
