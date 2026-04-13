@@ -7,7 +7,9 @@ These logs are part of the public analytical record of the site. They are not id
 ## Logs
 
 - [2026-04-12 — Yellow Envelope Act (Korea): Early Implementation Tracking](2026-04-12-yellow-envelope-act-early-implementation.md)
-  
+
+- [2026-04-13 — OpenAI Industrial Policy Outreach: Early Access-Structure Tracking](2026-04-13-openai-industrial-policy-outreach.md)
+
 ## Templates
 
 - [2026-01-28 — Log Template](2026-01-28-template.md)
