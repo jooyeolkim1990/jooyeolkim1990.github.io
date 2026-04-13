@@ -16,7 +16,7 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ---
 
-## Latest tracking note
+## Recent tracking note
 
 - **Yellow Envelope Act (Korea): Early Implementation Tracking**  
   *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
@@ -25,6 +25,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 - **Yellow Envelope Act (Korea): Implementation Update**  
   *First reported denial, procedural limitation of recognized user status, and growing front-end bottlenecks in early implementation.*  
   [Open note](log/2026-04-13-yellow-envelope-act-implementation-update.md)
+
+- **OpenAI Industrial Policy Outreach: Early Access-Structure Tracking**  
+  *Public tracking note on whether public consultation language leads to visible access rules, selection criteria, and accountable participation pathways.*  
+  [Open note](log/2026-04-13-openai-industrial-policy-outreach.md)
 
 ---
 
