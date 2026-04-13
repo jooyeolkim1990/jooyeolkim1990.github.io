@@ -1,15 +1,15 @@
 # Work
 
-This page gathers selected public briefs, analytical notes, and framework-based work. For a quick overview, start with [Selected Work](selected-work.md). For collaboration or commissioned brief inquiries, see [Work With Me](work-with-me.md).
+This page gathers selected public briefs, analytical notes, and framework-based work.
 
-Selected public-facing framework pages and short analytical briefs.
+The aim is not to dump a full internal archive, but to keep a readable public surface built around compact pages that can be linked, shared, and updated over time.
 
-This section contains more stable pages than the log archive.  
-Where the **log** tracks developing issues in time, **work** holds more structured summaries, framework pages, and compact public briefs.
+For a quicker overview, start with [Selected Work](selected-work.md).  
+For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-me.md).
 
 ---
 
-## Featured brief
+## Featured pages
 
 - **Yellow Envelope Act (Korea): Early Procedural Risk**  
   A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
