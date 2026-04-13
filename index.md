@@ -16,7 +16,7 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ---
 
-## Recent tracking note
+## Recent tracking notes
 
 - **Yellow Envelope Act (Korea): Early Implementation Tracking**  
   *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
