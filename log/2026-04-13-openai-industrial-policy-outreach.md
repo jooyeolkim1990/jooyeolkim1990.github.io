@@ -1,4 +1,4 @@
-# OpenAI Industrial Policy Outreach: Open Participation, Closed Influence?
+# OpenAI Industrial Policy Outreach: Early Access-Structure Tracking
 
 **Status:** Public tracking note  
 **Scope:** Early-stage public outreach and access structure only  
