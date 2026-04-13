@@ -31,11 +31,12 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A note on how frontier AI firms govern through public language and public commitments.  
   [Read](work/ai-responsibility.md)
 
-- **Editorial Pitch Archive**  
-  A compact record of submitted, expired, rejected, and unplaced essay pitches.  
-  [Read](work/pitch-archive.md)
-
 ---
+
+## Archive / background
+
+- [Editorial Pitch Archive](pitch-archive.md)  
+  A background page collecting selected pitch history and routing attempts.
 
 ## Note on scope
 
