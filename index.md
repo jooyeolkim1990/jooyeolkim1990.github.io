@@ -22,6 +22,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
   *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
   [Open note](log/2026-04-12-yellow-envelope-act-early-implementation.md)
 
+- **Yellow Envelope Act (Korea): Implementation Update**  
+  *First reported denial, procedural limitation of recognized user status, and growing front-end bottlenecks in early implementation.*  
+  [Open note](log/2026-04-13-yellow-envelope-act-implementation-update.md)
+
 ---
 
 ## Selected work
