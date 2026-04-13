@@ -63,3 +63,6 @@ It is a compact public workspace for **selected analytical notes**, **framework 
 More background: [About](about.md)
 
 Contact: [Contact](contact.md)
+
+- [Selected Work](selected-work.md)
+- [Work With Me](work-with-me.md)
