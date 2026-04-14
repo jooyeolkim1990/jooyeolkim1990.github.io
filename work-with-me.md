@@ -52,6 +52,9 @@ Depending on the case, I can help produce:
 - [AI Safety Rhetoric: Self-Binding or Blame Shield?](work/ai-responsibility.md)  
   A governance-oriented note on whether safety language descends into real operational constraints.
 
+- [Agentic AI Authority Cutoff Review](work/agentic-authority-cutoff-review.md)  
+  A governance review on when execution-capable AI systems should remain read-only, stay gated, or be frozen before authority expansion.
+
 - [Feasible-Set Governance: Framework Overview](work/feasible-set-governance.md)  
   A framework page on how candidate sets are structured before choice begins.
 
