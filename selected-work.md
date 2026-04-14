@@ -30,6 +30,16 @@ A governance-oriented note on whether frontier AI companies’ public safety lan
 
 ---
 
+## AI governance / authority review
+
+### Agentic AI Authority Cutoff Review
+A governance review for deciding when an AI system should remain read-only, stay gated, or be frozen before authority expansion. It is built around delegated authority, irreversible actions, shutdown tiers, containment, and accountability binding.
+
+**Useful for:** governance, legal, trust and safety, product-risk audiences  
+[Read](work/agentic-authority-cutoff-review.md)
+
+---
+
 ## Framework-based work
 
 ### Feasible-Set Governance: Framework Overview
