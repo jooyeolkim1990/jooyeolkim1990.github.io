@@ -58,16 +58,6 @@ A governance and product-risk review for child-facing conversational systems, AI
 
 ---
 
-## Forthcoming
-
-### Stop–Go Threshold Protocol for Agentic Automation Delegation
-A pre-delegation cutoff tool for deciding whether an AI system can be granted one more step of operational authority.
-
-### When AI Stops Being “Just a Tool”
-A human-centered note on category instability in companion and child-facing AI systems.
-
----
-
 ## More
 
 For a broader list of public pages, see [Work](work.md).  
