@@ -61,16 +61,6 @@ Depending on the case, I can help produce:
 - [When Child-Facing AI Stops Being “Just a Toy”](work/child-facing-conversational-ai-risk.md)  
   A governance and product-risk review for child-facing conversational systems and companion-style interactive products.
 
-## Forthcoming pages
-
-These are likely to be developed into outward-facing pages next:
-
-- **Stop–Go Threshold Protocol for Agentic Automation Delegation**  
-  A pre-delegation cutoff tool for deciding whether an AI system should be granted one more step of operational authority.
-
-- **When AI Stops Being “Just a Tool”**  
-  A human-centered note on category instability in companion and child-facing AI systems.
-
 ## Contact
 
 For commissioned briefs, research collaboration, media inquiries, or invited conversations, contact:
