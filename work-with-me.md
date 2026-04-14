@@ -58,6 +58,9 @@ Depending on the case, I can help produce:
 - [Feasible-Set Governance: Framework Overview](work/feasible-set-governance.md)  
   A framework page on how candidate sets are structured before choice begins.
 
+- [When Child-Facing AI Stops Being “Just a Toy”](work/child-facing-conversational-ai-risk.md)  
+  A governance and product-risk review for child-facing conversational systems and companion-style interactive products.
+
 ## Forthcoming pages
 
 These are likely to be developed into outward-facing pages next:
