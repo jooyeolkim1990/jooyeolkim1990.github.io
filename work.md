@@ -31,6 +31,20 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A note on how frontier AI firms govern through public language and public commitments.  
   [Read](work/ai-responsibility.md)
 
+## Child-Facing / Companion AI Risk
+
+- [When Child-Facing AI Stops Being “Just a Toy”](work/child-facing-conversational-ai-risk.md)  
+  A governance and product-risk review for child-facing conversational systems, AI-enabled toys, and companion-style interactive products.
+
+- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](work/ai-toys-regulatory-trend-update.md)  
+  A short trend note on the policy, regulatory, and market direction surrounding AI-enabled toys and child-facing conversational products.
+
+- [Conversational AI Harm: Governance Trend Update](work/conversational-ai-harm-governance-trend.md)  
+  A short trend note on how conversational-AI-linked harm claims have become more socially and institutionally legible as a governance problem.
+
+- [O3M: Framework Overview](work/o3m-framework-overview.md)  
+  A human-centered framework for understanding how repeated interaction makes older AI categories unstable.
+
 ---
 
 ## Agentic AI governance
