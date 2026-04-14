@@ -33,6 +33,22 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ---
 
+## Agentic AI governance
+
+- [Agentic AI Authority Cutoff Review](work/agentic-authority-cutoff-review.md)  
+  A governance review for deciding when an AI system should remain read-only, stay gated, or be frozen before authority expansion.
+
+- [Stop–Go Threshold Protocol for Agentic Automation Delegation](work/stop-go-threshold-protocol.md)  
+  A rule-based protocol for deciding whether an AI system should be granted one more step of delegated authority.
+
+- [Minimal Control Checklist for Execution-Capable AI Agents](work/minimal-control-checklist.md)  
+  A minimum control gate for reviewing whether execution-capable systems should remain limited, gated, or frozen.
+
+- [Deployment Review Form for Execution-Capable AI Agents](work/deployment-review-form.md)  
+  A structured review form for documenting delegation-stage, control, containment, and stop/go decisions.
+
+---
+
 ## Archive / background
 
 - [Editorial Pitch Archive](pitch-archive.md)  
