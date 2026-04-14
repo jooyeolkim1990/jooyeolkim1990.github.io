@@ -48,6 +48,14 @@ A framework page on how candidate sets are structured before choice begins. It s
 **Useful for:** research teams, governance audiences, concept-driven readers  
 [Read](work/feasible-set-governance.md)
 
+## AI product risk / governance
+
+### When Child-Facing AI Stops Being “Just a Toy”
+A governance and product-risk review for child-facing conversational systems, AI-enabled toys, and companion-style interactive products. It focuses on classification gap, companion drift, child-specific vulnerability, and product-liability exposure.
+
+**Useful for:** product, legal, governance, and trust-and-safety audiences  
+[Read](work/child-facing-conversational-ai-risk.md)
+
 ---
 
 ## Forthcoming
