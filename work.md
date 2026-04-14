@@ -65,7 +65,7 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ## Archive / background
 
-- [Editorial Pitch Archive](pitch-archive.md)  
+- [Editorial Pitch Archive](work/pitch-archive.md)  
   A background page collecting selected pitch history and routing attempts.
 
 ## Note on scope
