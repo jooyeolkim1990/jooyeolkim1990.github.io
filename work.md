@@ -31,6 +31,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A note on how frontier AI firms govern through public language and public commitments.  
   [Read](work/ai-responsibility.md)
 
+- **When Information Feels Incomplete**  
+  A short note on AI as an access layer, and how information can become absent in practice before users ever ask why.  
+  [Read](work/when-information-feels-incomplete.md)
+
 ## Child-Facing / Companion AI Risk
 
 - [When Child-Facing AI Stops Being “Just a Toy”](work/child-facing-conversational-ai-risk.md)  
@@ -48,6 +52,9 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 ---
 
 ## Agentic AI governance
+
+- [Delegation Without Responsibility](work/delegation-without-responsibility.md)  
+  A short note on wearable and screenless AI, and why the central risk is delegated action without a clear accountability framework.
 
 - [Agentic AI Authority Cutoff Review](work/agentic-authority-cutoff-review.md)  
   A governance review for deciding when an AI system should remain read-only, stay gated, or be frozen before authority expansion.
