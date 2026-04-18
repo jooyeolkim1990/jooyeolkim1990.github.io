@@ -174,6 +174,16 @@ Open participation is visible; influence structure is not yet visible enough.
 
 ---
 
+## Update (2026-04-18 KST)
+
+As of 2026-04-18 (KST), no response has been received to the inquiry sent on 2026-04-13.
+
+Given that it is currently the weekend in the United States, this is not yet treated as a finalized non-response. The next meaningful observation point is after business hours on Monday, 2026-04-20 (U.S. time).
+
+The case therefore remains in a pending state. The gap between publicly visible participation channels and the still-unclear structure of access and influence remains analytically relevant, but no definitive conclusion is drawn from response behavior yet.
+
+---
+
 ## What to watch next
 
 The next update should track only a few concrete items:
@@ -189,3 +199,4 @@ The next update should track only a few concrete items:
 ## Update log
 
 - **2026-04-13** — Initial public tracking note posted; inquiry sent to OpenAI policy feedback address.
+- **2026-04-18** — No response received as of 2026-04-18 KST; case remains pending, with the next observation point set after U.S. business hours on 2026-04-20.
