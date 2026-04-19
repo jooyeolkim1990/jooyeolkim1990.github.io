@@ -35,6 +35,13 @@ Some of these ideas may later be rewritten, reframed, or published elsewhere.
 - **Status:** Expired / deadline notice sent
 - **Note:** Retains value as a sharper institutional or labor commentary piece.
 
+
+### When Systems Stop Absorbing Their Own Risk
+- **Target:** Jacobin
+- **Date:** 2026-01-16
+- **Status:** Unplaced / publicly released here after follow-up on 2026-02-18
+- **Note:** Publicly released later as an essay on displaced accountability, automation, and downward risk transfer.
+
 ### Responsibility & AI (wearables angle)
 - **Target:** Lawfare
 - **Date:** 2026-01-19
