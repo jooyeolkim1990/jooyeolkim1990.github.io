@@ -22,6 +22,14 @@ A public analytical note on post-diffusion order after frontier-model leakage. T
 **Useful for:** AI governance audiences, research teams, journalists  
 [Read](work/ai-scenario.md)
 
+
+### When Systems Stop Absorbing Their Own Risk
+A public essay arguing that what is often framed as “tech backlash” is better understood as a politics of displaced accountability: visible anger produced when systems make consequential decisions while pushing responsibility out of reach.
+
+**Useful for:** journalists, editors, governance audiences, political-economy readers  
+[Read](work/when-systems-stop-absorbing-their-own-risk.md)
+
+
 ### AI Safety Rhetoric: Self-Binding or Blame Shield?
 A governance-oriented note on whether frontier AI companies’ public safety language actually descends into access rules, operational constraints, and responsibility-bearing commitments.
 

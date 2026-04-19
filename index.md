@@ -46,6 +46,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
   A note on how frontier AI companies govern through public language.  
   [Read](work/ai-responsibility.md)
 
+- **When Systems Stop Absorbing Their Own Risk**  
+  A public essay on displaced accountability, risk transfer, and the politics often misdescribed as “tech backlash.”  
+  [Read](work/when-systems-stop-absorbing-their-own-risk.md)
+
 ---
 
 ## Log archive

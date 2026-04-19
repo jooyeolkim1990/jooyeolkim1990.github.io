@@ -31,6 +31,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A note on how frontier AI firms govern through public language and public commitments.  
   [Read](work/ai-responsibility.md)
 
+- **When Systems Stop Absorbing Their Own Risk**  
+  A public essay on displaced accountability, downward risk transfer, and why so-called “tech backlash” often attaches to visible targets when responsibility becomes unreachable.  
+  [Read](work/when-systems-stop-absorbing-their-own-risk.md)
+
 - **When Information Feels Incomplete**  
   A short note on AI as an access layer, and how information can become absent in practice before users ever ask why.  
   [Read](work/when-information-feels-incomplete.md)
