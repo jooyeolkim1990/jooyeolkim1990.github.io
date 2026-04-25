@@ -2,7 +2,7 @@
 
 **Status:** Public tracking note  
 **Scope:** Early-stage public outreach and access structure only  
-**Last updated:** 2026-04-18 KST
+**Last updated:** 2026-04-26 KST
 
 > This page is a public analytical tracking note, not an insider account or a motive-reading exercise.  
 > It treats OpenAI’s April 2026 industrial-policy outreach as a governance case: the question is not whether the rhetoric sounds responsible, but whether public consultation language descends into visible operational pathways, access criteria, and responsibility-bearing commitments.
@@ -184,6 +184,20 @@ The case therefore remains in a pending state. The gap between publicly visible 
 
 ---
 
+## Update (2026-04-24 KST)
+
+As of 2026-04-24 (KST), no response has been received to the inquiry sent on 2026-04-13, despite multiple U.S. business days having passed.
+
+In addition, a basic external visibility check (e.g., search results within the past week) yields no independent operational information about the May OpenAI Workshop beyond the original policy document and secondary summaries. There are no observable details regarding access pathways, participant selection, agenda, or event structure.
+
+At this point, the case is no longer treated as a pending delay. It is reclassified as a non-response observation combined with external non-visibility of operational structure.
+
+This does not establish intent or bad faith. However, it provides an observable instance where a publicly declared participation channel and event reference do not translate into a legible or responsive operational layer.
+
+The analytical focus therefore shifts from under-specification to partial non-activation of the response and visibility structure.
+
+---
+
 ## What to watch next
 
 The next update should track only a few concrete items:
@@ -200,3 +214,4 @@ The next update should track only a few concrete items:
 
 - **2026-04-13** — Initial public tracking note posted; inquiry sent to OpenAI policy feedback address.
 - **2026-04-18** — No response received as of 2026-04-18 KST; case remains pending, with the next observation point set after U.S. business hours on 2026-04-20.
+- **2026-04-24** — No response received after multiple U.S. business days; no independent operational trace of the workshop observed; case reclassified as non-response with external non-visibility.
