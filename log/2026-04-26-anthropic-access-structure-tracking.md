@@ -431,6 +431,9 @@ Moral branding is visible; consumer access is elastic; frontier access is partne
 
 - **2026-04-26** — Initial public tracking note drafted. Case opened as an access-structure tracking note focused on moral branding, consumer usage-limit legibility, Claude Code product incidents, Department of War ethics dispute, Project Glasswing / Mythos partner gating, and IPO/infrastructure pressure as an amplifier rather than root cause.
 - **2026-04-26** — Added policy-language drift layer. RSP v3.1 is now treated as part of the access-structure case because it reframes unilateral self-binding into a distinction among company plans, industry-wide recommendations, public goals, Risk Reports, and externally reviewed risk-benefit reasoning.
+- **2026-04-26** — Korean press reaction (Financial News).
+  Project Glasswing exclusion was framed as a national cybersecurity and supply-chain risk, with emphasis on a “golden time” for response and the risk of being outside a partner-gated security-access network.  
+  This is an early public instance of partner-gated safety being translated into national access anxiety.
 
 ---
 
