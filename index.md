@@ -18,6 +18,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ## Recent tracking notes
 
+- **Anthropic Access-Structure Tracking**  
+  *Public tracking note on moral branding, elastic consumer access, usage-limit legibility, and partner-gated frontier capability.*  
+  [Open note](log/2026-04-26-anthropic-access-structure-tracking.md)
+
 - **Yellow Envelope Act (Korea): Early Implementation Tracking**  
   *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
   [Open note](log/2026-04-12-yellow-envelope-act-early-implementation.md)
@@ -33,6 +37,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 ---
 
 ## Selected work
+
+- **Moral AI, Gated Access**  
+  A case essay and companion tracking note on Anthropic’s moral branding, usage-limit opacity, and partner-gated frontier capability.  
+  [Read essay](work/moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
 
 - **Feasible-Set Governance: Framework Overview**  
   A framework on how decision environments are structured before choice begins.  

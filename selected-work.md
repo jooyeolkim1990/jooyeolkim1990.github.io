@@ -36,6 +36,13 @@ A governance-oriented note on whether frontier AI companies’ public safety lan
 **Useful for:** governance researchers, journalists, policy audiences  
 [Read](work/ai-responsibility.md)
 
+
+### Moral AI, Gated Access
+A case essay and companion tracking note on Anthropic’s moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.
+
+**Useful for:** AI governance researchers, journalists, policy audiences  
+[Read essay](work/moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
+
 ---
 
 ## AI governance / authority review

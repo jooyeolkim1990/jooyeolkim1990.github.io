@@ -31,6 +31,11 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A note on how frontier AI firms govern through public language and public commitments.  
   [Read](work/ai-responsibility.md)
 
+- **Moral AI, Gated Access**  
+  A case essay on Anthropic’s moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.  
+  Companion tracking note: [Anthropic Access-Structure Tracking](log/2026-04-26-anthropic-access-structure-tracking.md)  
+  [Read](work/moral-ai-gated-access.md)
+
 - **When Systems Stop Absorbing Their Own Risk**  
   A public essay on displaced accountability, downward risk transfer, and why so-called “tech backlash” often attaches to visible targets when responsibility becomes unreachable.  
   [Read](work/when-systems-stop-absorbing-their-own-risk.md)

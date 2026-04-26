@@ -1,0 +1,71 @@
+diff -ru /mnt/data/origrepo/jooyeolkim1990.github.io-main/index.md /mnt/data/sitework/jooyeolkim1990.github.io-main/index.md
+--- /mnt/data/origrepo/jooyeolkim1990.github.io-main/index.md	2026-04-25 21:22:46.000000000 +0000
++++ /mnt/data/sitework/jooyeolkim1990.github.io-main/index.md	2026-04-26 13:32:10.011483375 +0000
+@@ -18,6 +18,10 @@
+ 
+ ## Recent tracking notes
+ 
++- **Anthropic Access-Structure Tracking**  
++  *Public tracking note on moral branding, elastic consumer access, usage-limit legibility, and partner-gated frontier capability.*  
++  [Open note](log/2026-04-26-anthropic-access-structure-tracking.md)
++
+ - **Yellow Envelope Act (Korea): Early Implementation Tracking**  
+   *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
+   [Open note](log/2026-04-12-yellow-envelope-act-early-implementation.md)
+@@ -34,6 +38,10 @@
+ 
+ ## Selected work
+ 
++- **Moral AI, Gated Access**  
++  A case essay and companion tracking note on Anthropic’s moral branding, usage-limit opacity, and partner-gated frontier capability.  
++  [Read essay](work/moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
++
+ - **Feasible-Set Governance: Framework Overview**  
+   A framework on how decision environments are structured before choice begins.  
+   [Read](work/feasible-set-governance.md)
+Only in /mnt/data/sitework/jooyeolkim1990.github.io-main/log: 2026-04-26-anthropic-access-structure-tracking.md
+diff -ru /mnt/data/origrepo/jooyeolkim1990.github.io-main/log/index.md /mnt/data/sitework/jooyeolkim1990.github.io-main/log/index.md
+--- /mnt/data/origrepo/jooyeolkim1990.github.io-main/log/index.md	2026-04-25 21:22:46.000000000 +0000
++++ /mnt/data/sitework/jooyeolkim1990.github.io-main/log/index.md	2026-04-26 13:32:10.012657517 +0000
+@@ -6,6 +6,8 @@
+ 
+ ## Logs
+ 
++- [2026-04-26 — Anthropic Access-Structure Tracking](2026-04-26-anthropic-access-structure-tracking.md)
++
+ - [2026-04-13 — Yellow Envelope Act (Korea): Implementation Update](2026-04-13-yellow-envelope-act-implementation-update.md)
+ 
+ - [2026-04-13 — OpenAI Industrial Policy Outreach: Early Access-Structure Tracking](2026-04-13-openai-industrial-policy-outreach.md)
+diff -ru /mnt/data/origrepo/jooyeolkim1990.github.io-main/selected-work.md /mnt/data/sitework/jooyeolkim1990.github.io-main/selected-work.md
+--- /mnt/data/origrepo/jooyeolkim1990.github.io-main/selected-work.md	2026-04-25 21:22:46.000000000 +0000
++++ /mnt/data/sitework/jooyeolkim1990.github.io-main/selected-work.md	2026-04-26 13:32:10.012309787 +0000
+@@ -36,6 +36,13 @@
+ **Useful for:** governance researchers, journalists, policy audiences  
+ [Read](work/ai-responsibility.md)
+ 
++
++### Moral AI, Gated Access
++A case essay and companion tracking note on Anthropic’s moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.
++
++**Useful for:** AI governance researchers, journalists, policy audiences  
++[Read essay](work/moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
++
+ ---
+ 
+ ## AI governance / authority review
+Only in /mnt/data/sitework/jooyeolkim1990.github.io-main/work: moral-ai-gated-access.md
+diff -ru /mnt/data/origrepo/jooyeolkim1990.github.io-main/work.md /mnt/data/sitework/jooyeolkim1990.github.io-main/work.md
+--- /mnt/data/origrepo/jooyeolkim1990.github.io-main/work.md	2026-04-25 21:22:46.000000000 +0000
++++ /mnt/data/sitework/jooyeolkim1990.github.io-main/work.md	2026-04-26 13:32:10.011910222 +0000
+@@ -31,6 +31,11 @@
+   A note on how frontier AI firms govern through public language and public commitments.  
+   [Read](work/ai-responsibility.md)
+ 
++- **Moral AI, Gated Access**  
++  A case essay on Anthropic’s moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.  
++  Companion tracking note: [Anthropic Access-Structure Tracking](log/2026-04-26-anthropic-access-structure-tracking.md)  
++  [Read](work/moral-ai-gated-access.md)
++
+ - **When Systems Stop Absorbing Their Own Risk**  
+   A public essay on displaced accountability, downward risk transfer, and why so-called “tech backlash” often attaches to visible targets when responsibility becomes unreachable.  
+   [Read](work/when-systems-stop-absorbing-their-own-risk.md)
