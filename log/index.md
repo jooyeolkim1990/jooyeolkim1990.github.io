@@ -6,6 +6,8 @@ These logs are part of the public analytical record of the site. They are not id
 
 ## Logs
 
+- [2026-04-26 — Anthropic Access-Structure Tracking](2026-04-26-anthropic-access-structure-tracking.md)
+
 - [2026-04-13 — Yellow Envelope Act (Korea): Implementation Update](2026-04-13-yellow-envelope-act-implementation-update.md)
 
 - [2026-04-13 — OpenAI Industrial Policy Outreach: Early Access-Structure Tracking](2026-04-13-openai-industrial-policy-outreach.md)
