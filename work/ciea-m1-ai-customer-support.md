@@ -5,7 +5,7 @@
 **Framework:** CIEA-M1 Customer-Facing Bottleneck Module  
 **Version:** v0.2 with visual embeds  
 **Case:** AI customer support in Korean public and financial service settings  
-**Purpose:** Demonstrate how the Center-Inference Evaluation Architecture (CIEA-M1) evaluates whether an apparent efficiency gain removes the real bottleneck or merely relocates it.
+**Purpose:** Demonstrate how CIEA-M1 tests whether apparent efficiency removes the real bottleneck or relocates it.
 
 ---
 
@@ -50,7 +50,7 @@ AI can help users ask a first question before they call an office. It can summar
 For low-risk orientation, that is real value.
 
 <figure>
-  <img src="../assets/ciea_m1_ai_customer_support/chart_03_moel_ai_laborlaw_daily_use_growth.png" alt="MOEL AI Labor Law Consultation daily use growth" width="720">
+  <img src="../assets/ciea_m1_ai_customer_support/chart_03_moel_ai_laborlaw_daily_use_growth.png" alt="MOEL AI Labor Law Consultation daily use growth" width="640">
   <figcaption><em>Surface claim example: reported daily-use growth for MOEL AI Labor Law Consultation.</em></figcaption>
 </figure>
 
@@ -176,12 +176,12 @@ The same report states that phone inflow to human counselors declined only sligh
 
 
 <figure>
-  <img src="../assets/ciea_m1_ai_customer_support/chart_01_moel_1350_chatbot_daily_average.png" alt="MOEL 1350 chatbot daily average consultations" width="720">
-  <figcaption><em>Reported daily-average consultation decline for the separate MOEL/1350 chatbot line.</em></figcaption>
+  <img src="../assets/ciea_m1_ai_customer_support/chart_01_moel_1350_chatbot_daily_average.png" alt="MOEL 1350 chatbot daily average consultations" width="640">
+  <figcaption><em>Reported decline in the separate MOEL/1350 chatbot line. This should not be merged with the AI Labor Law Consultation service.</em></figcaption>
 </figure>
 
 <figure>
-  <img src="../assets/ciea_m1_ai_customer_support/chart_02_moel_1350_chatbot_annual_cumulative.png" alt="MOEL 1350 chatbot annual cumulative consultations" width="720">
+  <img src="../assets/ciea_m1_ai_customer_support/chart_02_moel_1350_chatbot_annual_cumulative.png" alt="MOEL 1350 chatbot annual cumulative consultations" width="640">
   <figcaption><em>Reported annual cumulative consultation decline for the separate MOEL/1350 chatbot line.</em></figcaption>
 </figure>
 
@@ -269,7 +269,7 @@ A press report citing lawmaker-submitted/FSS-company material states that, as of
 
 
 <figure>
-  <img src="../assets/ciea_m1_ai_customer_support/chart_04_financial_callcenter_indirect_employment_ratios.png" alt="Financial call center indirect employment ratios" width="720">
+  <img src="../assets/ciea_m1_ai_customer_support/chart_04_financial_callcenter_indirect_employment_ratios.png" alt="Financial call center indirect employment ratios" width="640">
   <figcaption><em>Structural context: reported indirect-employment ratios in financial-sector call centers.</em></figcaption>
 </figure>
 
@@ -301,7 +301,7 @@ The cost of failure is distributed.
 ## 10. Mechanism map
 
 <figure>
-  <img src="../assets/ciea_m1_ai_customer_support/chart_05_surface_vs_counter_surface_visual.png" alt="CIEA-M1 surface claims versus counter-surfaces" width="760">
+  <img src="../assets/ciea_m1_ai_customer_support/chart_05_surface_vs_counter_surface_visual.png" alt="CIEA-M1 surface claims versus counter-surfaces" width="640">
   <figcaption><em>CIEA-M1 visual summary: a surface improvement is not interpretable until counter-surfaces are checked.</em></figcaption>
 </figure>
 
