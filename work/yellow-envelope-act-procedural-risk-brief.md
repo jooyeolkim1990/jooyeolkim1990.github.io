@@ -1,7 +1,7 @@
 # Yellow Envelope Act (Korea): Early Procedural Risk
 
 **Status:** Public brief  
-**Last updated:** 2026-04-12 KST
+**Last updated:** 2026-04-27 KST
 
 > This note is a public analytical brief, not a legal advisory document.  
 > It focuses on early implementation patterns and emerging procedural bottlenecks.
@@ -76,6 +76,18 @@ That includes earlier issue-fixing, clearer separation criteria, more standardiz
 
 ---
 
+## New complication after April 20
+
+The BGF Retail logistics dispute suggests that the implementation problem is not limited to ordinary subcontracting procedure.
+
+A fatal incident pushed a borderline case into public view and exposed an additional risk:
+**post-incident reframing of who is treated as clearly inside the legal opening and who is treated as outside or exceptional.**
+
+This does not erase the earlier procedural bottlenecks.
+It shows that weak front-end structure can combine with politically costly conflict to produce a second-order problem of boundary redrawing after the fact.
+
+---
+
 ## What to watch next
 
 The next important signals are:
@@ -93,3 +105,4 @@ The next important signals are:
 For dated tracking pages on the same issue, see:  
 - [Yellow Envelope Act — Early Implementation Tracking Note](../log/2026-04-12-yellow-envelope-act-early-implementation.md)  
 - [Yellow Envelope Act — Implementation Update](../log/2026-04-13-yellow-envelope-act-implementation-update.md)
+- [Yellow Envelope Act — BGF Retail, Fatal Incident, and Post-Incident Reframing](../log/2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
