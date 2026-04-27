@@ -18,6 +18,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ## Recent tracking notes
 
+- **Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing**  
+  *A public tracking note on the BGF Retail logistics dispute, the fatal incident of April 20, and the government’s shifting post-incident framing of borderline labour cases.*  
+  [Open note](log/2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
+
 - **Anthropic Access-Structure Tracking**  
   *Public tracking note on moral branding, elastic consumer access, usage-limit legibility, and partner-gated frontier capability.*  
   [Open note](log/2026-04-26-anthropic-access-structure-tracking.md)
