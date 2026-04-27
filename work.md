@@ -11,6 +11,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ## Featured pages
 
+- **Fast Answers, Slow Responsibility**  
+  A CIEA-M1 public sample on AI customer support, legal-effect limits, chatbot decline, and hidden interface costs.  
+  [Read](work/ciea-m1-ai-customer-support.md)
+
 - **Yellow Envelope Act (Korea): Early Procedural Risk**  
   A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
   [Read](work/yellow-envelope-act-procedural-risk-brief.md)

@@ -42,6 +42,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ## Selected work
 
+- **Fast Answers, Slow Responsibility**  
+  A CIEA-M1 public sample testing whether AI customer support removed the bottleneck or moved it into legal responsibility, human escalation, and frontline labor.  
+  [Read sample](work/ciea-m1-ai-customer-support.md)
+
 - **Moral AI, Gated Access**  
   A case essay and companion tracking note on Anthropic’s moral branding, usage-limit opacity, and partner-gated frontier capability.  
   [Read essay](work/moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)

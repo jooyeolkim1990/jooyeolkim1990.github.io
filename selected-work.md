@@ -16,6 +16,13 @@ A short policy brief on early implementation bottlenecks, user-status friction, 
 
 ## AI / platform governance
 
+### Fast Answers, Slow Responsibility
+A CIEA-M1 public sample testing whether AI customer support removes the real bottleneck or shifts it into risk classification, legal responsibility, human escalation, and frontline emotional labor.
+
+**Useful for:** AI governance, public-service design, customer-support automation, policy audiences  
+[Read](work/ciea-m1-ai-customer-support.md)
+
+
 ### AI After Leakage: Three Order Scenarios
 A public analytical note on post-diffusion order after frontier-model leakage. The note asks what kind of order emerges after partial diffusion rather than assuming that containment is the only meaningful question.
 
