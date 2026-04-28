@@ -43,22 +43,22 @@ Depending on the case, I can help produce:
 
 ## Selected current pages
 
-- [Yellow Envelope Act (Korea): Early Procedural Risk](work/yellow-envelope-act-procedural-risk-brief.md)  
+- [Yellow Envelope Act (Korea): Early Procedural Risk](briefs/policy/yellow-envelope-act-procedural-risk.md)  
   A short policy brief on early implementation bottlenecks, user-status friction, and procedural risk.
 
-- [AI After Leakage: Three Order Scenarios](work/ai-scenario.md)  
+- [AI After Leakage: Three Order Scenarios](briefs/ai-governance/ai-after-leakage.md)  
   A public analytical note on post-diffusion order after frontier-model leakage.
 
-- [AI Safety Rhetoric: Self-Binding or Blame Shield?](work/ai-responsibility.md)  
+- [AI Safety Rhetoric: Self-Binding or Blame Shield?](briefs/ai-governance/ai-safety-rhetoric.md)  
   A governance-oriented note on whether safety language descends into real operational constraints.
 
-- [Agentic AI Authority Cutoff Review](work/agentic-authority-cutoff-review.md)  
+- [Agentic AI Authority Cutoff Review](tools/agentic-ai/authority-cutoff-review.md)  
   A governance review on when execution-capable AI systems should remain read-only, stay gated, or be frozen before authority expansion.
 
-- [Feasible-Set Governance: Framework Overview](work/feasible-set-governance.md)  
+- [Feasible-Set Governance: Framework Overview](frameworks/feasible-set-governance.md)  
   A framework page on how candidate sets are structured before choice begins.
 
-- [When Child-Facing AI Stops Being “Just a Toy”](work/child-facing-conversational-ai-risk.md)  
+- [When Child-Facing AI Stops Being “Just a Toy”](briefs/ai-governance/child-facing-ai-risk.md)  
   A governance and product-risk review for child-facing conversational systems and companion-style interactive products.
 
 ## Contact

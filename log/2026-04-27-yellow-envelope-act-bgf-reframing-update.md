@@ -89,4 +89,4 @@ The next important signals are:
 
 - [Yellow Envelope Act — Early Implementation Tracking](2026-04-12-yellow-envelope-act-early-implementation.md)
 - [Yellow Envelope Act — Implementation Update](2026-04-13-yellow-envelope-act-implementation-update.md)
-- [Yellow Envelope Act — Early Procedural Risk](../work/yellow-envelope-act-procedural-risk-brief.md)
+- [Yellow Envelope Act — Early Procedural Risk](../briefs/policy/yellow-envelope-act-procedural-risk.md)

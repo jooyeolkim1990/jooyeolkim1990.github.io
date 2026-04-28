@@ -3,7 +3,7 @@
 **Status:** Public analytical tracking note  
 **Scope:** Moral branding, consumer access stability, usage-cap legibility, and partner-gated frontier access  
 **Last updated:** 2026-04-26 KST  
-**Companion essay:** [Moral AI, Gated Access](../work/moral-ai-gated-access.md)
+**Companion essay:** [Moral AI, Gated Access](../cases/anthropic-moral-ai-gated-access.md)
 
 This note serves as the public source ledger and updateable tracking file for the essay.
 
@@ -522,6 +522,6 @@ Moral branding is visible; consumer access is elastic; frontier access is partne
 
 ## Related notes
 
-- [AI After Leakage: Three Order Scenarios](../work/ai-scenario.md)  
-- [AI Safety Rhetoric: Self-Binding or Blame Shield?](../work/ai-responsibility.md)  
+- [AI After Leakage: Three Order Scenarios](../briefs/ai-governance/ai-after-leakage.md)  
+- [AI Safety Rhetoric: Self-Binding or Blame Shield?](../briefs/ai-governance/delegation-without-responsibility.md)  
 - [OpenAI Industrial Policy Outreach: Early Access-Structure Tracking](2026-04-13-openai-industrial-policy-outreach.md)

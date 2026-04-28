@@ -44,27 +44,27 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 - **Fast Answers, Slow Responsibility**  
   A CIEA-M1 public sample testing whether AI customer support removed the bottleneck or moved it into legal responsibility, human escalation, and frontline labor.  
-  [Read sample](work/ciea-m1-ai-customer-support.md)
+  [Read sample](ciea/cases/ai-customer-support-korea.md)
 
 - **Moral AI, Gated Access**  
   A case essay and companion tracking note on Anthropic’s moral branding, usage-limit opacity, and partner-gated frontier capability.  
-  [Read essay](work/moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
+  [Read essay](cases/anthropic-moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
 
 - **Feasible-Set Governance: Framework Overview**  
   A framework on how decision environments are structured before choice begins.  
-  [Read](work/feasible-set-governance.md)
+  [Read](frameworks/feasible-set-governance.md)
 
 - **AI After Leakage: Three Order Scenarios**
   A short analytical note on diffusion, chokepoints, and post-containment AI order.  
-  [Read](work/ai-scenario.md)
+  [Read](briefs/ai-governance/ai-after-leakage.md)
 
 - **AI Safety Rhetoric: Self-Binding or Blame Shield?**  
   A note on how frontier AI companies govern through public language.  
-  [Read](work/ai-responsibility.md)
+  [Read](briefs/ai-governance/ai-safety-rhetoric.md)
 
 - **When Systems Stop Absorbing Their Own Risk**  
   A public essay on displaced accountability, risk transfer, and the politics often misdescribed as “tech backlash.”  
-  [Read](work/when-systems-stop-absorbing-their-own-risk.md)
+  [Read](cases/systems-risk-absorption.md)
 
 ---
 
