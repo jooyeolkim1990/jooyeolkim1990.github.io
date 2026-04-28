@@ -1,7 +1,7 @@
 # CIEA Core
 ## Efficiency Claim Audit Architecture
 
-**Status:** Public v0.4.2 patch  
+**Status:** Public v0.4.2  
 **Type:** Practical audit engine  
 **Scope:** Performance claims, automation claims, cost-cutting claims, productivity claims, service-optimization claims, and AI-output claims.
 
@@ -120,7 +120,14 @@ Common routes:
 
 ## v0.4.2 automation patch
 
-This patch adds four audit concepts for AI automation and LLM-based productivity claims.
+This patch adds four cross-cutting audit concepts for AI automation and LLM-based productivity claims:
+
+- Output QA Displacement
+- Warranty Gap
+- Rollback Surface
+- Accountability Collateral
+
+A related interface-specific concept, **Reliance–Warranty Split**, is developed in CIEA-M1 and the Automation Quality Audit Extension.
 
 ### 1. Output QA Displacement
 

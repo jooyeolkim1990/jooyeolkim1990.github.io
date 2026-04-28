@@ -1,7 +1,7 @@
 # CIEA-M1
 ## Customer-Facing Bottleneck Module
 
-**Status:** Public v0.4.2 patch  
+**Status:** Public module v0.4.2  
 **Parent:** [CIEA Core](../core.md)  
 **Type:** Domain-specific audit module
 

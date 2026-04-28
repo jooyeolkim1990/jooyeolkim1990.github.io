@@ -18,12 +18,12 @@ Where did the excluded cost, burden, or responsibility go?
 Who must now verify, repair, roll back, or answer for the result?
 ```
 
-## Main sections
+## Public package
 
-- [CIEA Core](core.md)
-- [Automation Quality Audit Extension](automation-quality-audit.md)
-- [Modules](modules/)
-- [AI Customer Support Korea case](cases/ai-customer-support-korea.md)
+- [CIEA Core](core.md) — the common efficiency-claim audit engine.
+- [Automation Quality Audit Extension](automation-quality-audit.md) — a cross-cutting extension for AI and LLM productivity claims.
+- [Modules](modules/) — domain-specific application kits.
+- [AI Customer Support Korea case](cases/ai-customer-support-korea.md) — a public sample showing CIEA-M1 in use.
 
 ## Current module
 

@@ -1,7 +1,7 @@
 # CIEA Automation Quality Audit Extension
 ## Output Warranty, Rollback, and Accountability Counter-Surfaces
 
-**Status:** Public v0.4.2 patch  
+**Status:** Public extension v0.4.2  
 **Parent:** CIEA Core  
 **Type:** Cross-cutting extension for AI automation and LLM productivity claims  
 **Scope:** AI-generated answers, drafts, summaries, code, customer responses, operational recommendations, and other outputs that are presented as productivity or automation gains.

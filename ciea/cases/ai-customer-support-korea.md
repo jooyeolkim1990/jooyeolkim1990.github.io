@@ -1,7 +1,7 @@
 # Fast Answers, Slow Responsibility  
 ## Did AI Customer Support Remove the Bottleneck, or Move It?
 
-**Status:** Public sample / portfolio proof  
+**Status:** Public sample v0.2 / portfolio proof  
 **Framework:** CIEA-M1 Customer-Facing Bottleneck Module  
 **Version:** v0.2 with visual embeds  
 **Case:** AI customer support in Korean public and financial service settings  
@@ -134,7 +134,7 @@ The AI answer may be fast. The user’s risk classification is not.
 
 ---
 
-## 5. The interface creates reliance; the terms withdraw responsibility
+## 5. Reliance–Warranty Split: the interface creates reliance; the terms withdraw responsibility
 
 There is another layer.
 
@@ -145,6 +145,12 @@ But it is disclosed inside the terms.
 In the observed entry flow, the terms and required consent appear in scrollable boxes. The user can check consent and proceed without the interface requiring them to scroll to the end of the terms. The most important legal-boundary statements—no legal effect, not petition processing, verify important matters with 1350 or experts—are not foregrounded in the default visible entry view.
 
 This creates a second CIEA-M1 mechanism:
+
+### Reliance–Warranty Split
+
+The interface creates practical reliance while the responsibility layer withdraws legal effect and redirects important matters to human or professional verification.
+
+The case also shows a narrower UI problem:
 
 ### Terms-Visibility Gap
 
@@ -313,6 +319,8 @@ The cost of failure is distributed.
 | **Risk Classification Burden** | Risk judgment moves to the user. | Users must know whether an AI answer is safe to rely on. |
 | **Responsibility Externalization** | Accountability moves outside the AI answer. | Terms deny legal effect and redirect users to humans/institutions. |
 | **Terms-Visibility Gap** | Key limits move into low-salience terms. | Legal-effect limits exist but are not foregrounded in the entry flow. |
+| **Reliance–Warranty Split** | Practical reliance is created while warranty is weakened or withdrawn. | The AI counseling interface gives actionable guidance, while the terms deny legal effect and require human/professional verification. |
+| **Output QA Displacement** | Output-quality work moves to users, workers, or downstream experts. | Fast answers still require users, human counselors, labor offices, or experts to verify whether the guidance is safe to use. |
 | **Hidden Labor / Knowledge Extraction** | Worker knowledge moves into AI systems. | Consultation know-how and corrected data may train or improve AI. |
 | **Responsibility Fragmentation** | Accountability splits across organizations. | Principal firms, contractors, vendors, workers, and users absorb different parts of failure. |
 | **Organizational Analgesia** | Surface metrics reduce visible pain. | Usage, speed, or deflection can hide unresolved cases, abandonment, or worker burden. |
@@ -371,6 +379,8 @@ Before AI customer support is used to justify reduction of human counselors, CIE
 | Recontact rate | Detects unresolved or unclear answers. |
 | Abandonment / quiet-exit data | Detects hidden failure where users give up. |
 | Error and correction data | Shows what happens when AI gives wrong guidance. |
+| Output verification burden | Shows whether fast answers create hidden checking work for users, workers, or downstream experts. |
+| Warranty / legal-effect salience | Shows whether users understand the reliance boundary before acting. |
 | User comprehension data | Especially important for legal and multilingual support. |
 | Legal-effect and responsibility design | Determines whether answers are accountable. |
 | Worker workload after AI | Shows whether simple calls disappeared but complex work intensified. |
