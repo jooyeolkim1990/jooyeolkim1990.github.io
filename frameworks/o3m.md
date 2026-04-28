@@ -78,9 +78,9 @@ That is one reason these products can become harder to govern than their formal 
 
 ## Related pages
 
-- [When Child-Facing AI Stops Being “Just a Toy”](child-facing-conversational-ai-risk.md)
-- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](ai-toys-regulatory-trend-update.md)
-- [Conversational AI Harm: Governance Trend Update](conversational-ai-harm-governance-trend.md)
+- [When Child-Facing AI Stops Being “Just a Toy”](../briefs/ai-governance/child-facing-ai-risk.md)
+- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](../briefs/ai-governance/ai-toys-regulatory-trend.md)
+- [Conversational AI Harm: Governance Trend Update](../briefs/ai-governance/conversational-ai-harm-governance-trend.md)
 
 ## Bottom line
 

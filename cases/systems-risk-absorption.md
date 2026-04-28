@@ -66,6 +66,6 @@ The danger is not that people will reject technology outright. It is that, in th
 
 ## Related pages
 
-- [AI Safety Rhetoric: Self-Binding or Blame Shield?](ai-responsibility.md)
+- [AI Safety Rhetoric: Self-Binding or Blame Shield?](../briefs/ai-governance/ai-safety-rhetoric.md)
 - [OpenAI Industrial Policy Outreach: Early Access-Structure Tracking](../log/2026-04-13-openai-industrial-policy-outreach.md)
-- [Editorial Pitch Archive](pitch-archive.md)
+- [Editorial Pitch Archive](../archive/process/pitch-archive.md)

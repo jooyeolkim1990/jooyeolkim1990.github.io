@@ -182,7 +182,7 @@ A completed review should also be able to produce a **3–5 sentence legal-ready
 
 ## Related materials
 
-- [Agentic AI Authority Cutoff Review](agentic-authority-cutoff-review.md)
+- [Agentic AI Authority Cutoff Review](./authority-cutoff-review.md)
 - [Minimal Control Checklist](minimal-control-checklist.md)
 - [Deployment Review Form](deployment-review-form.md)
 

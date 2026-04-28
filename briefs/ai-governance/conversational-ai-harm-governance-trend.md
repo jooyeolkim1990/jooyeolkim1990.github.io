@@ -72,9 +72,9 @@ That means the governance issue is not just “bad outputs.” It is interaction
 
 ## Related pages
 
-- [When Child-Facing AI Stops Being “Just a Toy”](child-facing-conversational-ai-risk.md)
-- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](ai-toys-regulatory-trend-update.md)
-- [O3M: Framework Overview](o3m-framework-overview.md)
+- [When Child-Facing AI Stops Being “Just a Toy”](./child-facing-ai-risk.md)
+- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](./ai-toys-regulatory-trend.md)
+- [O3M: Framework Overview](../../frameworks/o3m.md)
 
 ## Bottom line
 

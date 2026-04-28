@@ -73,9 +73,9 @@ The product may still look like a toy on paper while behaving like something muc
 
 ## Related pages
 
-- [When Child-Facing AI Stops Being “Just a Toy”](child-facing-conversational-ai-risk.md)
+- [When Child-Facing AI Stops Being “Just a Toy”](./child-facing-ai-risk.md)
 - [Conversational AI Harm: Governance Trend Update](conversational-ai-harm-governance-trend.md)
-- [O3M: Framework Overview](o3m-framework-overview.md)
+- [O3M: Framework Overview](../../frameworks/o3m.md)
 
 ## Bottom line
 

@@ -156,7 +156,7 @@ A completed review should be able to generate a short written memo stating:
 
 ## Related materials
 
-- [Agentic AI Authority Cutoff Review](agentic-authority-cutoff-review.md)
+- [Agentic AI Authority Cutoff Review](./authority-cutoff-review.md)
 - [Stop–Go Threshold Protocol](stop-go-threshold-protocol.md)
 - [Deployment Review Form](deployment-review-form.md)
 

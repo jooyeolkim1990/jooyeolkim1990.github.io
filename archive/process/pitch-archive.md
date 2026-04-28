@@ -92,5 +92,5 @@ This archive is therefore kept as a working record of external contact and reusa
 ## Navigation
 
 - [Home](../index.md)
-- [Work](../work.md)
-- [Log](../log/)
+- [Work](../../work.md)
+- [Log](../../log/)

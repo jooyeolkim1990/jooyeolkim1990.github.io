@@ -84,9 +84,9 @@ This review is most useful for:
 
 ## Related pages
 
-- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](ai-toys-regulatory-trend-update.md)
+- [AI Toys & Child-Facing Conversational Systems: Regulatory Trend Update](./ai-toys-regulatory-trend.md)
 - [Conversational AI Harm: Governance Trend Update](conversational-ai-harm-governance-trend.md)
-- [O3M: Framework Overview](o3m-framework-overview.md)
+- [O3M: Framework Overview](../../frameworks/o3m.md)
 
 ## Bottom line
 

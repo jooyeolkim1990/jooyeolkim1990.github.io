@@ -103,6 +103,6 @@ The next important signals are:
 ## Related notes
 
 For dated tracking pages on the same issue, see:  
-- [Yellow Envelope Act — Early Implementation Tracking Note](../log/2026-04-12-yellow-envelope-act-early-implementation.md)  
-- [Yellow Envelope Act — Implementation Update](../log/2026-04-13-yellow-envelope-act-implementation-update.md)
-- [Yellow Envelope Act — BGF Retail, Fatal Incident, and Post-Incident Reframing](../log/2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
+- [Yellow Envelope Act — Early Implementation Tracking Note](../../log/2026-04-12-yellow-envelope-act-early-implementation.md)  
+- [Yellow Envelope Act — Implementation Update](../../log/2026-04-13-yellow-envelope-act-implementation-update.md)
+- [Yellow Envelope Act — BGF Retail, Fatal Incident, and Post-Incident Reframing](../../log/2026-04-27-yellow-envelope-act-bgf-reframing-update.md)

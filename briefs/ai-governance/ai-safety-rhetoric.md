@@ -189,4 +189,4 @@ That is the line separating governance language from governance constraint.
 ## Related note
 
 For a related note on diffusion, leakage, and post-containment order formation, see:  
-[AI After Leakage: Three Order Scenarios for a Diffusive General-Purpose Technology](ai-scenario.md)
+[AI After Leakage: Three Order Scenarios for a Diffusive General-Purpose Technology](./ai-after-leakage.md)

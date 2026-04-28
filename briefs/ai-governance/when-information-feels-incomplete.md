@@ -226,5 +226,5 @@ Quietly.
 ## Navigation
 
 - [Home](../index.md)
-- [Work](../work.md)
-- [Log](../log/)
+- [Work](../../work.md)
+- [Log](../../log/)

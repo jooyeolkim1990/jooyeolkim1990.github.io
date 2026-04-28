@@ -126,5 +126,5 @@ Until that question is addressed, the responsibility gap will continue to widen 
 ## Navigation
 
 - [Home](../index.md)
-- [Work](../work.md)
-- [Log](../log/)
+- [Work](../../work.md)
+- [Log](../../log/)

@@ -125,7 +125,7 @@ A completed review should be able to support a short written cutoff rationale an
 
 ## Related materials
 
-- [Agentic AI Authority Cutoff Review](agentic-authority-cutoff-review.md)
+- [Agentic AI Authority Cutoff Review](./authority-cutoff-review.md)
 - [Stop–Go Threshold Protocol](stop-go-threshold-protocol.md)
 - [Minimal Control Checklist](minimal-control-checklist.md)
 
