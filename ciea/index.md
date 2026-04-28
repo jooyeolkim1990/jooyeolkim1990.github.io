@@ -1,7 +1,7 @@
 # CIEA
 ## Core-Inference Evaluation Architecture
 
-CIEA is a practical audit architecture for testing whether an apparent improvement in a metric reflects real progress toward the underlying core, or merely displaces cost, responsibility, frustration, and long-term damage outside the decision table.
+CIEA is a practical audit architecture for testing whether an apparent improvement in a metric reflects real progress toward the underlying core, or merely displaces cost, responsibility, frustration, verification work, rollback burden, and long-term damage outside the decision table.
 
 ## Core idea
 
@@ -15,11 +15,13 @@ What was supposed to improve?
 What did the decision table count?
 What did it leave outside?
 Where did the excluded cost, burden, or responsibility go?
+Who must now verify, repair, roll back, or answer for the result?
 ```
 
 ## Main sections
 
-- [CIEA Core doorway](core.md)
+- [CIEA Core](core.md)
+- [Automation Quality Audit Extension](automation-quality-audit.md)
 - [Modules](modules/)
 - [AI Customer Support Korea case](cases/ai-customer-support-korea.md)
 
@@ -30,6 +32,19 @@ Where did the excluded cost, burden, or responsibility go?
 ## Current sample case
 
 - [Fast Answers, Slow Responsibility: Did AI Customer Support Remove the Bottleneck, or Move It?](cases/ai-customer-support-korea.md)
+
+## Relation to Stop–Go
+
+CIEA and Stop–Go answer different questions.
+
+| Tool | Question |
+|---|---|
+| **Stop–Go Threshold Protocol** | Should this system be delegated one more step of authority? |
+| **CIEA** | Did the claimed improvement actually improve the core, or did it move verification, rollback, and responsibility costs elsewhere? |
+
+Shorter:
+
+> Stop–Go asks whether automation should be allowed to act. CIEA asks whether automation actually improved anything after all excluded costs are counted.
 
 ## Related site sections
 

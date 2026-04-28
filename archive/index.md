@@ -10,3 +10,8 @@ Archive items are preserved for traceability, but they are not the primary portf
 - [Patch Archive](patches/)
 
 [Return to Start Here](../start-here.md)
+
+
+## Version notes
+
+- [CIEA v0.4.2 Patch Notes](versions/ciea-v0.4.2-patch-notes.md)

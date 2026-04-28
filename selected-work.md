@@ -22,6 +22,12 @@ A CIEA-M1 public sample testing whether AI customer support removes the real bot
 **Useful for:** AI governance, public-service design, customer-support automation, policy audiences  
 [Read](ciea/cases/ai-customer-support-korea.md)
 
+### CIEA Automation Quality Audit Extension
+A CIEA patch for auditing AI automation claims through output quality, warranty gap, verification burden, rollback cost, and accountability collateral.
+
+**Useful for:** AI governance, product-risk, enterprise automation, legal / trust-and-safety audiences  
+[Read](ciea/automation-quality-audit.md)
+
 
 ### AI After Leakage: Three Order Scenarios
 A public analytical note on post-diffusion order after frontier-model leakage. The note asks what kind of order emerges after partial diffusion rather than assuming that containment is the only meaningful question.

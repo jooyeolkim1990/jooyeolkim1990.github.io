@@ -8,6 +8,10 @@ The core stays lean. Modules carry domain-specific mechanisms, counter-surfaces,
 
 - [M1 — Customer-Facing Bottleneck Module](m1-customer-facing-bottlenecks.md)
 
+## Cross-cutting extension
+
+- [Automation Quality Audit Extension](../automation-quality-audit.md) — output warranty, verification burden, rollback, and accountability counter-surfaces for AI automation claims.
+
 ## Possible future modules
 
 - M2 — Workplace Performance Evaluation

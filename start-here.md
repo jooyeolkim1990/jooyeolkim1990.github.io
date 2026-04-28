@@ -11,7 +11,7 @@ The fastest path depends on what you want to inspect.
 
 ## If you want the framework layer
 
-- [CIEA](ciea/) — performance-claim audit architecture for testing whether better-looking metrics reflect real improvement or hidden displacement.
+- [CIEA](ciea/) — performance-claim audit architecture for testing whether better-looking metrics reflect real improvement or hidden displacement, including AI automation quality and rollback costs.
 - [Frameworks](frameworks/) — broader conceptual frameworks, including Feasible-Set Governance and O3M.
 
 ## If you want applied analysis

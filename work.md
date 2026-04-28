@@ -15,6 +15,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A CIEA-M1 public sample on AI customer support, legal-effect limits, chatbot decline, and hidden interface costs.  
   [Read](ciea/cases/ai-customer-support-korea.md)
 
+- **CIEA Automation Quality Audit Extension**  
+  A CIEA patch for testing whether AI automation reduced real work or moved verification, rollback, and responsibility costs outside the performance table.  
+  [Read](ciea/automation-quality-audit.md)
+
 - **Yellow Envelope Act (Korea): Early Procedural Risk**  
   A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
   [Read](briefs/policy/yellow-envelope-act-procedural-risk.md)
