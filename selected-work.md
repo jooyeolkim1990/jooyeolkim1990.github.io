@@ -89,4 +89,5 @@ A governance and product-risk review for child-facing conversational systems, AI
 ## More
 
 For a broader list of public pages, see [Work](work.md).  
+For accepted presentations and public identifiers, see [Public Record](cv.md).  
 For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-me.md).

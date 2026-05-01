@@ -6,6 +6,8 @@ These logs are part of the public analytical record of the site. They are not id
 
 ## Logs
 
+- [2026-05-01 — When Disconnection Is Not Exit: Authentication, Phone Access, and Digitally Imposed Availability](2026-05-01-digital-disconnection-authentication-access.md)
+
 - [2026-04-27 — Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing](2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
 
 - [2026-04-26 — Anthropic Access-Structure Tracking](2026-04-26-anthropic-access-structure-tracking.md)

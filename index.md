@@ -9,6 +9,7 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ## Current focus
 
+- Accepted and forthcoming conference presentations now listed under [Public Record](cv.md)
 - Early implementation tracking of major policy and governance changes
 - Platform governance, responsibility structures, and institutional response failure
 - Labour restructuring, burden transfer, and procedural risk
@@ -17,6 +18,10 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 ---
 
 ## Recent tracking notes
+
+- **When Disconnection Is Not Exit: Authentication, Phone Access, and Digitally Imposed Availability**  
+  *A public analytical log on smartphone-linked authentication as an infrastructure for everyday access, not merely a device of connection.*  
+  [Open note](log/2026-05-01-digital-disconnection-authentication-access.md)
 
 - **Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing**  
   *A public tracking note on the BGF Retail logistics dispute, the fatal incident of April 20, and the government’s shifting post-incident framing of borderline labour cases.*  
@@ -68,6 +73,13 @@ It combines **time-stamped tracking notes** on current issues with **selected fr
 
 ---
 
+## Public record
+
+For accepted / forthcoming conference presentations and public identifiers, see:  
+[Public Record](cv.md)
+
+---
+
 ## Log archive
 
 Time-stamped notes, issue tracking, and short analytical records.  
@@ -85,4 +97,5 @@ More background: [About](about.md)
 Contact: [Contact](contact.md)
 
 - [Selected Work](selected-work.md)
+- [Public Record](cv.md)
 - [Work With Me](work-with-me.md)

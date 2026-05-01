@@ -4,6 +4,8 @@ I am an independent researcher and analytical writer working on governance, plat
 
 My public work focuses on short analytical briefs, framework-based diagnostics, and readable notes that translate structural problems into compact, linkable formats.
 
+Selected work has been accepted for presentation at MCCT 2026, EASST 2026, and the ILERA Asian Regional Congress 2026. For accepted presentations and public identifiers, see [Public Record](cv.md).
+
 ## What I do
 
 - **Policy and governance briefs**  

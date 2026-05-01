@@ -14,5 +14,8 @@ Current areas of work include:
 
 This site is a public workspace for selected briefs, analytical notes, and timestamped logs. It is not a complete archive of everything I am working on, but a curated surface for public-facing pieces and ongoing lines of analysis.
 
+Selected work has been accepted for presentation at MCCT 2026, EASST 2026, and the ILERA Asian Regional Congress 2026.
+
 For a quick overview, start with [Selected Work](selected-work.md).  
+For accepted presentations and public identifiers, see [Public Record](cv.md).  
 For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-me.md).

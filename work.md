@@ -5,6 +5,7 @@ This page gathers selected public briefs, analytical notes, and framework-based 
 The aim is not to dump a full internal archive, but to keep a readable public surface built around compact pages that can be linked, shared, and updated over time.
 
 For a quicker overview, start with [Selected Work](selected-work.md).  
+For accepted presentations and public identifiers, see [Public Record](cv.md).  
 For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-me.md).
 
 ---

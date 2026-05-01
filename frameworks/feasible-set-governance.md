@@ -80,6 +80,7 @@ FSG can be applied across multiple domains, including:
 - labour-market narrowing and occupational filtering
 - asset access and accumulation paths
 - digitally structured connection and boundary environments
+- authentication-bound access infrastructures
 
 In this sense, FSG functions as a cross-domain scaffold rather than a single narrow theory tied to one field.
 
@@ -91,6 +92,7 @@ It should not yet be presented as a fully validated empirical model. The stronge
 
 ## Related Work
 
+- [When Disconnection Is Not Exit: Authentication, Phone Access, and Digitally Imposed Availability](../log/2026-05-01-digital-disconnection-authentication-access.md)
 - Adjacent literatures map
 - Initial case examples
 - Domain-specific extensions and related framework notes

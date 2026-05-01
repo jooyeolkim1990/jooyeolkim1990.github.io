@@ -7,6 +7,7 @@ The fastest path depends on what you want to inspect.
 ## If you want the main portfolio
 
 - [Selected Work](selected-work.md) — curated public pieces and proof-of-work.
+- [Public Record](cv.md) — accepted presentations, public identifiers, and current verification surface.
 - [Work With Me](work-with-me.md) — collaboration and applied analysis page.
 
 ## If you want the framework layer
