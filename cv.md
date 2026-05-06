@@ -14,6 +14,7 @@ Current focus areas include:
 
 - platform governance and visibility structures
 - AI governance and responsibility design
+- digital governance, legislation, and responsibility recovery
 - labour pressure, burden transfer, and institutional bottlenecks
 - feasible-set governance and access infrastructures
 - framework-based diagnostic writing
@@ -48,6 +49,12 @@ Paper accepted for presentation at EASST 2026, Kraków, Poland, 8–12 September
 **Kim, Jooyeol.** 2026. “Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.”  
 Accepted for oral presentation at the ILERA Asian Regional Congress 2026, Tokyo, Japan. Peer-reviewed abstract.  
 Final programme inclusion is subject to presenter registration.
+
+### EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026
+
+**Kim, Jooyeol.** 2026. “The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.”  
+Reflections/viewpoint paper accepted for presentation at EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, Governance, Digital Legislation & Policy Track, Athens, Greece.  
+Publication in the TU Delft OPEN Proceedings is eligible subject to camera-ready submission, formatting compliance, publication choice, and author registration.
 
 ---
 
