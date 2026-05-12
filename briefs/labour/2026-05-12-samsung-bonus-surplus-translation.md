@@ -181,5 +181,5 @@ This note is based on public reporting available as of 2026-05-12, including cov
 
 Key public references:
 
-- Yonhap News Agency, 2026-05-11, on Samsung Electronics post-mediation talks and the union's demand for bonus-cap abolition and a 15% operating-profit-linked bonus pool: https://www.yna.co.kr/view/AKR20260511059200003
-- Newsis, 2026-05-12, on concerns regarding labour-market dualisation and industry-wide bonus spillover: https://www.newsis.com/view/NISX20260512_0003626078
+- [Yonhap News Agency, 2026-05-11](https://www.yna.co.kr/view/AKR20260511059200003), on Samsung Electronics post-mediation talks and the union’s demand for bonus-cap abolition and a 15% operating-profit-linked bonus pool.
+- [Newsis, 2026-05-12](https://www.newsis.com/view/NISX20260512_0003626078), on concerns regarding labour-market dualisation and industry-wide bonus spillover.
