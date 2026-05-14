@@ -20,7 +20,7 @@ But that is also the problem.
 
 ## 1. The dispute is about the status of operating profit
 
-For the union, operating profit can appear to be the visible proof that workers contributed to extraordinary results. If the company produced exceptional profits, then a fixed profit-linked bonus formula may look like a demand for transparency, predictability, and recognition.
+For the publicly visible union-side position, operating profit can appear to be the visible proof that workers contributed to extraordinary results. If the company produced exceptional profits, then a fixed profit-linked bonus formula may look like a demand for transparency, predictability, and recognition.
 
 For the company, operating profit is not simply the product of one year of labour. In a semiconductor firm, a single year's operating profit reflects long investment cycles, past R&D, capital expenditure, market timing, customer contracts, exchange rates, supply-chain conditions, shareholder capital, and public infrastructure. A fixed share of operating profit may therefore offer transparency, but it also risks turning a volatile business outcome into a rigid compensation entitlement.
 
@@ -113,7 +113,7 @@ These are not soft substitutes for "real" compensation. They are different ways 
 
 For example, childcare support is not merely a perk. It reduces search costs, commuting friction, emergency-care anxiety, and household coordination burdens. Housing support is not merely generosity. It stabilizes everyday life and can make staying with the firm more attractive than moving for a marginally higher salary elsewhere.
 
-In this sense, life-infrastructure compensation can serve both sides.
+In this sense, life-infrastructure compensation can serve both sides. But this only works if such benefits are negotiated, portable where possible, and not used as a substitute for wage claims or as a mechanism of dependency.
 
 Workers receive stability that is actually felt in daily life.  
 The company gains retention, reduced turnover, and better preservation of skill and organizational memory.
@@ -181,5 +181,5 @@ This note is based on public reporting available as of 2026-05-12, including cov
 
 Key public references:
 
-- Yonhap News Agency, 2026-05-11, on Samsung Electronics post-mediation talks and the union's demand for bonus-cap abolition and a 15% operating-profit-linked bonus pool: https://www.yna.co.kr/view/AKR20260511059200003
-- Newsis, 2026-05-12, on concerns regarding labour-market dualisation and industry-wide bonus spillover: https://www.newsis.com/view/NISX20260512_0003626078
+- [Yonhap News Agency, 2026-05-11](https://www.yna.co.kr/view/AKR20260511059200003), on Samsung Electronics post-mediation talks and the union’s demand for bonus-cap abolition and a 15% operating-profit-linked bonus pool.
+- [Newsis, 2026-05-12](https://www.newsis.com/view/NISX20260512_0003626078), on concerns regarding labour-market dualisation and industry-wide bonus spillover.
