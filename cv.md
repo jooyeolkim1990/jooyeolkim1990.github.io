@@ -1,6 +1,6 @@
 # Public Record
 
-This page collects selected public identifiers, accepted conference presentations, and public proof-of-work.
+This page collects selected public identifiers, accepted conference work, and public proof-of-work.
 
 It is not a complete academic CV. It is a compact public record for readers who want to verify the current status of my work.
 
@@ -8,15 +8,16 @@ It is not a complete academic CV. It is a compact public record for readers who 
 
 ## Current position
 
-Independent researcher and analytical writer working on governance, platform systems, labour, and AI.
+Independent researcher and analytical writer working on governance, platform systems, labour, AI, and interaction-level repair.
 
 Current focus areas include:
 
-- platform governance and visibility structures
-- AI governance and responsibility design
-- digital governance, legislation, and responsibility recovery
+- AI-era selection, visibility, responsibility, and repair
+- addressability loss and procedural repair in AI-mediated consequential decisions
+- platform governance and access infrastructures
+- digital governance, legislation, and responsibility recoverability
 - labour pressure, burden transfer, and institutional bottlenecks
-- feasible-set governance and access infrastructures
+- feasible-set governance and structured decision environments
 - framework-based diagnostic writing
 
 ---
@@ -29,32 +30,43 @@ Current focus areas include:
 
 ---
 
-## Accepted / forthcoming conference presentations
+## Accepted / forthcoming conference work
 
-### Midlands Conference in Critical Thought 2026
+### HCII 2026 / Artificial Intelligence in HCI 2026
 
-**Kim, Jooyeol.** 2026. “Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.”  
-Accepted presentation, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21–22 May 2026.
-
-**Kim, Jooyeol.** 2026. “Managed Dissipation: Internalised Exit and Non-Eventful Collapse in Contemporary Societies.”  
-Accepted presentation, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21–22 May 2026.
+**Kim, Jooyeol.** 2026. “Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.”  
+Late Breaking Paper accepted for presentation at HCII 2026 / Artificial Intelligence in HCI 2026, Montreal, Canada.  
+Accepted for the Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.  
+[Public record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
 
 ### EASST 2026
 
 **Kim, Jooyeol.** 2026. “Participation as a Condition of Access: Platform Infrastructures and the Origins of Data Extraction.”  
-Paper accepted for presentation at EASST 2026, Kraków, Poland, 8–12 September 2026.
+Abstract accepted for presentation at EASST 2026, AGH University of Krakow, Kraków, Poland, 8–12 September 2026.  
+[Public record PDF](records/EASST_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
 
 ### ILERA Asian Regional Congress 2026
 
 **Kim, Jooyeol.** 2026. “Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.”  
 Accepted for oral presentation at the ILERA Asian Regional Congress 2026, Tokyo, Japan. Peer-reviewed abstract.  
-Final programme inclusion is subject to presenter registration.
+Final programme inclusion is subject to presenter registration.  
+[Public record PDF](records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf)
 
 ### EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026
 
 **Kim, Jooyeol.** 2026. “The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.”  
 Reflections/viewpoint paper accepted for presentation at EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, Governance, Digital Legislation & Policy Track, Athens, Greece.  
-Publication in the TU Delft OPEN Proceedings is eligible subject to camera-ready submission, formatting compliance, publication choice, and author registration.
+Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready submission, formatting compliance, publication choice, and author registration.  
+[Public record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
+
+### Midlands Conference in Critical Thought 2026
+
+**Kim, Jooyeol.** 2026. “Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.”  
+Accepted presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21–22 May 2026.  
+[Public record PDF](records/MCCT_2026_Stream6_Managed_Hegemony_Accepted_Presentation_Record_JooyeolKim.pdf)
+
+**Kim, Jooyeol.** 2026. “Managed Dissipation: Internalised Exit and Non-Eventful Collapse in Contemporary Societies.”  
+Accepted for MCCT 2026 Stream 11; participation status subject to presentation-format constraints.
 
 ---
 
