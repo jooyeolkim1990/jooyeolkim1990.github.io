@@ -1,19 +1,47 @@
 # Jooyeol Kim
 
-**Timestamped analytical logs and selected public briefs on governance, platform power, labour, and AI.**
+**Independent research on AI-era selection, visibility, responsibility, and repair.**
 
-This site is a public record of ongoing analytical work.  
-It combines **time-stamped tracking notes** on current issues with **selected framework pages and short public-facing briefs**.
+This site is a public research workbench for selected analytical notes, governance briefs, framework pages, and conference records.
+
+My current work has been accepted across 2026 venues in HCI/AI-HCI, STS, labour studies, digital government, and critical thought.
 
 ---
 
 ## Current focus
 
-- Accepted and forthcoming conference presentations now listed under [Public Record](cv.md)
-- Early implementation tracking of major policy and governance changes
-- Platform governance, responsibility structures, and institutional response failure
+- AI-era selection, visibility, responsibility, and repair
+- Addressability loss, procedural repair, and AI-mediated consequential decisions
+- Platform governance, access infrastructures, and institutional response failure
 - Labour restructuring, burden transfer, and procedural risk
-- AI governance, classification problems, and structured decision environments
+- Digital governance, responsibility recoverability, and contestability
+- Accepted 2026 work across HCII / AI-HCI, EASST, ILERA Asia, EGOV-CeDEM-ePart / IFIP EGOV, and MCCT
+
+---
+
+## 2026 accepted work
+
+- **HCII 2026 / Artificial Intelligence in HCI 2026**  
+  *Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.*  
+  Accepted late-breaking paper; Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.
+
+- **EASST 2026**  
+  *Participation as a Condition of Access: Platform Infrastructures and the Origins of Data Extraction.*  
+  Abstract accepted for presentation.
+
+- **ILERA Asian Regional Congress 2026**  
+  *Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.*  
+  Peer-reviewed abstract accepted for oral presentation.
+
+- **EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026**  
+  *The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.*  
+  Reflections/viewpoint paper accepted for presentation; eligible for TU Delft OPEN Proceedings subject to conference requirements.
+
+- **Midlands Conference in Critical Thought 2026**  
+  *Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.*  
+  Accepted presentation.
+
+[See Public Record](cv.md)
 
 ---
 
