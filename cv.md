@@ -61,7 +61,7 @@ Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready
 Accepted presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21–22 May 2026.
 
 **Kim, Jooyeol.** 2026. “Managed Dissipation: Internalised Exit and Non-Eventful Collapse in Contemporary Societies.”  
-Accepted for MCCT 2026 Stream 12; participation status subject to presentation-format constraints.
+Accepted for MCCT 2026 Stream 11; participation status subject to presentation-format constraints.
 
 ---
 
