@@ -23,23 +23,28 @@ My current work has been accepted across 2026 venues in HCI/AI-HCI, STS, labour 
 
 - **HCII 2026 / Artificial Intelligence in HCI 2026**  
   *Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.*  
-  Accepted late-breaking paper; Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.
+  Accepted late-breaking paper; Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.  
+  [Record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
 
 - **EASST 2026**  
   *Participation as a Condition of Access: Platform Infrastructures and the Origins of Data Extraction.*  
-  Abstract accepted for presentation.
+  Abstract accepted for presentation.  
+  [Record PDF](records/EASST_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
 
 - **ILERA Asian Regional Congress 2026**  
   *Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.*  
-  Peer-reviewed abstract accepted for oral presentation.
+  Peer-reviewed abstract accepted for oral presentation.  
+  [Record PDF](records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf)
 
 - **EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026**  
   *The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.*  
-  Reflections/viewpoint paper accepted for presentation; eligible for TU Delft OPEN Proceedings subject to conference requirements.
+  Reflections/viewpoint paper accepted for presentation; eligible for TU Delft OPEN Proceedings subject to conference requirements.  
+  [Record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
 
 - **Midlands Conference in Critical Thought 2026**  
   *Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.*  
-  Accepted presentation.
+  Accepted presentation.  
+  [Record PDF](records/MCCT_2026_Stream6_Managed_Hegemony_Accepted_Presentation_Record_JooyeolKim.pdf)
 
 [See Public Record](cv.md)
 
