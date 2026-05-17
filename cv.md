@@ -39,6 +39,13 @@ Late Breaking Paper accepted for presentation at HCII 2026 / Artificial Intellig
 Accepted for the Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.  
 [Public record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
 
+### BSA Work, Employment & Society Conference 2026
+
+**Kim, Jooyeol.** 2026. “Extended Life Courses, Structural Labour Pressure, and the Reabsorption of Time in the Polycrisis.”  
+Accepted for oral presentation at the BSA Work, Employment & Society Conference 2026, Open Stream, University of Bath, Bath, UK, 9–11 September 2026.  
+Final programme inclusion is subject to presenter registration.  
+[Public record PDF](records/BSA_WES_2026_Accepted_Oral_Presentation_Abstract_Record_JooyeolKim.pdf)
+
 ### EASST 2026
 
 **Kim, Jooyeol.** 2026. “Participation as a Condition of Access: Platform Infrastructures and the Origins of Data Extraction.”  
