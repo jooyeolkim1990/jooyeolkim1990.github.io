@@ -24,6 +24,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A short public-facing note on early implementation patterns, bargaining-unit separation, and procedural bottlenecks.  
   [Read](briefs/policy/yellow-envelope-act-procedural-risk.md)
 
+- **When Part-Time Work Stops Functioning as a Job**  
+  A public policy-framing sample on youth part-time labour shortages and the collapse of small job packages under short peak-time scheduling.  
+  [Read](briefs/labour/youth-part-time-job-package-collapse.md)
+
 ---
 
 ## Framework pages

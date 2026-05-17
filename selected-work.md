@@ -12,6 +12,12 @@ A short policy brief on early implementation bottlenecks, user-status friction, 
 **Useful for:** policy staff, journalists, civic organizations  
 [Read](briefs/policy/yellow-envelope-act-procedural-risk.md)
 
+### When Part-Time Work Stops Functioning as a Job
+A public policy-framing sample on youth part-time labour shortages, short peak-time shifts, schedule instability, and the collapse of small job packages.
+
+**Useful for:** labour-policy audiences, local governments, journalists, youth-employment researchers  
+[Read](briefs/labour/youth-part-time-job-package-collapse.md)
+
 ---
 
 ## AI / platform governance
