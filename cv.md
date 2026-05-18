@@ -89,8 +89,12 @@ Accepted for MCCT 2026 Stream 11; participation status subject to presentation-f
 
 ## Contact
 
-For commissioned briefs, research collaboration, media inquiries, or invited conversations:
+For formal academic or conference correspondence:
 
-**jooyeolkim1990@gmail.com**
+**jooyeol@jooyeolkim.com**
+
+For commissioned briefs, research collaboration, media inquiries, invited conversations, or scoped analytical work:
+
+**contact@jooyeolkim.com**
 
 [Return home](index.md)
