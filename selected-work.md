@@ -13,7 +13,7 @@ A short policy brief on early implementation bottlenecks, user-status friction, 
 [Read](briefs/policy/yellow-envelope-act-procedural-risk.md)
 
 ### When Part-Time Work Stops Functioning as a Job
-A public policy-framing sample on youth part-time labour shortages, short peak-time shifts, schedule instability, and the collapse of small job packages.
+A public diagnostic sample on youth part-time labour shortages, job-package viability, short peak-time shifts, schedule instability, and hidden transition burdens.
 
 **Useful for:** labour-policy audiences, local governments, journalists, youth-employment researchers  
 [Read](briefs/labour/youth-part-time-job-package-collapse.md)
@@ -21,6 +21,12 @@ A public policy-framing sample on youth part-time labour shortages, short peak-t
 ---
 
 ## AI / platform governance
+
+### AI Deployment Risk Clarity Review
+A CIEA-powered public sample showing how an AI deployment that looks efficient on paper can be reviewed for verification, escalation, rollback, accountability, and user/frontline burden before broader rollout.
+
+**Useful for:** AI governance, product-risk, customer-support automation, trust-and-safety, policy audiences  
+[Read](ciea/samples/ai-deployment-risk-clarity-review.md)
 
 ### Fast Answers, Slow Responsibility
 A CIEA-M1 public sample testing whether AI customer support removes the real bottleneck or shifts it into risk classification, legal responsibility, human escalation, and frontline emotional labor.
