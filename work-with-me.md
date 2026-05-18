@@ -6,6 +6,8 @@ My public work focuses on short analytical briefs, framework-based diagnostics, 
 
 Selected work has been accepted for presentation at MCCT 2026, EASST 2026, and the ILERA Asian Regional Congress 2026. For accepted presentations and public identifiers, see [Public Record](cv.md).
 
+For commissioned diagnostic memos, policy framing briefs, research collaboration, or scoped analytical reviews, contact: **contact@jooyeolkim.com**.
+
 ## What I do
 
 - **Policy and governance briefs**  
@@ -65,8 +67,12 @@ Depending on the case, I can help produce:
 
 ## Contact
 
-For commissioned briefs, research collaboration, media inquiries, or invited conversations, contact:
+For commissioned briefs, research collaboration, media inquiries, invited conversations, or scoped analytical work:
 
-**jooyeolkim1990@gmail.com**
+**contact@jooyeolkim.com**
+
+For formal academic or conference correspondence:
+
+**jooyeol@jooyeolkim.com**
 
 You can also start with the [Selected Work](selected-work.md) page for a quicker overview.
