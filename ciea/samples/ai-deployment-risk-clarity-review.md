@@ -7,7 +7,8 @@
 **Primary audience:** product, governance, trust-and-safety, policy, and operations teams  
 **Useful for:** AI governance readers, product-risk teams, public-service designers, customer-support automation teams, policy analysts  
 **Evidence level:** fictional case / review-form demonstration  
-**Scope:** practical governance readiness review. Not legal advice, compliance certification, penetration testing, model benchmarking, or safety guarantee.
+**Scope:** practical governance readiness review. Not legal advice, compliance certification, penetration testing, model benchmarking, or safety guarantee.  
+**Visual sample PDF:** [Open the two-page public sample](../../assets/samples/AI_Deployment_Risk_Clarity_Review_Public_Sample_v4_final_corrected.pdf)
 
 ---
 
