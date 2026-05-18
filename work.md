@@ -12,6 +12,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ## Featured pages
 
+- **AI Deployment Risk Clarity Review**  
+  A CIEA-powered public sample for reviewing AI deployment readiness through verification, escalation, rollback, accountability, and user/frontline burden.  
+  [Read](ciea/samples/ai-deployment-risk-clarity-review.md)
+
 - **Fast Answers, Slow Responsibility**  
   A CIEA-M1 public sample on AI customer support, legal-effect limits, chatbot decline, and hidden interface costs.  
   [Read](ciea/cases/ai-customer-support-korea.md)
@@ -25,7 +29,7 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   [Read](briefs/policy/yellow-envelope-act-procedural-risk.md)
 
 - **When Part-Time Work Stops Functioning as a Job**  
-  A public policy-framing sample on youth part-time labour shortages and the collapse of small job packages under short peak-time scheduling.  
+  A public diagnostic sample on youth part-time labour shortages and the collapse of small job packages under short peak-time scheduling.  
   [Read](briefs/labour/youth-part-time-job-package-collapse.md)
 
 ---
