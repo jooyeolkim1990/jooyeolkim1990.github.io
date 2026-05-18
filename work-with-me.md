@@ -4,11 +4,14 @@ I am an independent researcher and analytical writer working on governance, plat
 
 My public work focuses on short analytical briefs, framework-based diagnostics, and readable notes that translate structural problems into compact, linkable formats.
 
-Selected work has been accepted for presentation at MCCT 2026, EASST 2026, and the ILERA Asian Regional Congress 2026. For accepted presentations and public identifiers, see [Public Record](cv.md).
+Selected work has been accepted across 2026 venues in HCI/AI-HCI, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought. For accepted presentations and public identifiers, see [Public Record](cv.md).
 
 For commissioned diagnostic memos, policy framing briefs, research collaboration, or scoped analytical reviews, contact: **contact@jooyeolkim.com**.
 
 ## What I do
+
+- **AI deployment risk clarity reviews**  
+  Short diagnostic reviews that identify verification, escalation, rollback, accountability, and user/frontline burden gaps before AI systems are expanded.
 
 - **Policy and governance briefs**  
   Short public-facing or client-facing notes on institutional design, implementation bottlenecks, and procedural risk.
@@ -34,6 +37,7 @@ My work is most useful for:
 - civic and advocacy organizations
 - independent research teams
 - governance, trust, and accountability audiences
+- product, platform, and AI-risk readers who need problem clarification before action
 
 ## Typical outputs
 
@@ -44,8 +48,17 @@ Depending on the case, I can help produce:
 - comparative notes
 - framework-based overview pages
 - public-facing governance analysis
+- risk clarity reviews
+- policy framing notes
+- executive briefing notes
 
 ## Selected current pages
+
+- [AI Deployment Risk Clarity Review](ciea/samples/ai-deployment-risk-clarity-review.md)  
+  A CIEA-powered public sample for reviewing AI deployment readiness through verification, escalation, rollback, accountability, and user/frontline burden.
+
+- [When Part-Time Work Stops Functioning as a Job](briefs/labour/youth-part-time-job-package-collapse.md)  
+  A policy diagnostic sample on youth part-time labour shortages, job-package viability, short peak-time shifts, schedule instability, and hidden transition burdens.
 
 - [Yellow Envelope Act (Korea): Early Procedural Risk](briefs/policy/yellow-envelope-act-procedural-risk.md)  
   A short policy brief on early implementation bottlenecks, user-status friction, and procedural risk.
