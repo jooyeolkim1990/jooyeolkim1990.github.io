@@ -1,9 +1,10 @@
 # Contact
 
-For commissioned briefs, research collaboration, media inquiries, or invited conversations, contact:
+For commissioned briefs, research collaboration, media inquiries, invited conversations, or scoped analytical work, contact:
 
-- Email: jooyeolkim1990@gmail.com
+- General inquiries: contact@jooyeolkim.com
+- Direct / formal correspondence: jooyeol@jooyeolkim.com
 - GitHub: https://github.com/jooyeolkim1990
 - LinkedIn: https://www.linkedin.com/in/jooyeolkim1990
 
-I am especially interested in conversations related to governance, platform power, policy analysis, labour, and AI-related analytical work.
+I am especially interested in conversations related to governance, platform power, policy analysis, labour, AI-related analytical work, access infrastructures, platform accountability, and institutional responsibility.
