@@ -2,7 +2,7 @@
 
 **Status:** Public tracking note  
 **Scope:** Early-stage public outreach and access structure only  
-**Last updated:** 2026-04-26 KST
+**Last updated:** 2026-05-21 KST
 
 > This page is a public analytical tracking note, not an insider account or a motive-reading exercise.  
 > It treats OpenAI’s April 2026 industrial-policy outreach as a governance case: the question is not whether the rhetoric sounds responsible, but whether public consultation language descends into visible operational pathways, access criteria, and responsibility-bearing commitments.
@@ -164,13 +164,13 @@ This page will be updated accordingly.
 
 ## Current assessment
 
-**Current status:** inquiry sent, response pending
+**Current status:** no response received; operational structure remains externally non-legible
 
 **Working judgment:**  
-OpenAI’s public outreach structure is real at the surface level, but the relationship between public input and higher-level influence remains under-specified.
+OpenAI’s public outreach structure is real at the surface level, but the relationship between public input and higher-level influence remains externally under-specified and non-responsive in this observed instance.
 
 **Short diagnostic line:**  
-Open participation is visible; influence structure is not yet visible enough.
+Public participation is articulated; response activation and operational visibility remain unobserved.
 
 ---
 
@@ -198,6 +198,20 @@ The analytical focus therefore shifts from under-specification to partial non-ac
 
 ---
 
+## Update (2026-05-21 KST)
+
+As of 2026-05-21 (KST), no response has been received to the inquiry sent on 2026-04-13.
+
+A follow-up public search found continued secondary reference to OpenAI’s Washington, DC policy outreach and a dedicated “OpenAI Workshop” space for nonprofits and policymakers. However, no independent operational details were found regarding the May workshop itself, such as an application pathway, public agenda, participant list, schedule, selection criteria, or post-event summary.
+
+This reinforces the prior assessment: the announcement and policy-facing visibility layer exists, but the operational structure remains externally non-legible.
+
+This update does not establish intent, bad faith, or a repeated organizational pattern. It records a single-instance observation in which public consultation language, a declared feedback channel, and an announced workshop reference did not produce an observable response or publicly legible operational pathway.
+
+For that reason, this case is retained as a seed case for future comparison rather than treated as sufficient evidence for intent or alignment inference.
+
+---
+
 ## What to watch next
 
 The next update should track only a few concrete items:
@@ -215,3 +229,4 @@ The next update should track only a few concrete items:
 - **2026-04-13** — Initial public tracking note posted; inquiry sent to OpenAI policy feedback address.
 - **2026-04-18** — No response received as of 2026-04-18 KST; case remains pending, with the next observation point set after U.S. business hours on 2026-04-20.
 - **2026-04-24** — No response received after multiple U.S. business days; no independent operational trace of the workshop observed; case reclassified as non-response with external non-visibility.
+- **2026-05-21** — Follow-up search found continued secondary reference to the OpenAI Workshop space, but no independent operational details; no response received; case retained as a single-instance seed case rather than an intent inference.
