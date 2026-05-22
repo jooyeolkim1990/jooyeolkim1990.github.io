@@ -4,7 +4,7 @@
 
 This site is a public research workbench for selected analytical notes, governance briefs, framework pages, and conference records.
 
-My current work has been accepted across 2026 venues in HCI/AI-HCI, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought.
+My current work has been accepted across 2026 venues in HCI/AI-HCI, internet and platform studies, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought.
 
 ---
 
@@ -15,7 +15,7 @@ My current work has been accepted across 2026 venues in HCI/AI-HCI, sociology of
 - Platform governance, access infrastructures, and institutional response failure
 - Labour restructuring, burden transfer, and procedural risk
 - Digital governance, responsibility recoverability, and contestability
-- Accepted 2026 work across HCII / AI-HCI, BSA WES, EASST, ILERA Asia, EGOV-CeDEM-ePart / IFIP EGOV, and MCCT
+- Accepted 2026 work across HCII / AI-HCI, AoIR, BSA WES, EASST, ILERA Asia, EGOV-CeDEM-ePart / IFIP EGOV, and MCCT
 
 ---
 
@@ -25,6 +25,11 @@ My current work has been accepted across 2026 venues in HCI/AI-HCI, sociology of
   *Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.*  
   Accepted late-breaking paper; Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.  
   [Record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
+
+- **AoIR2026 / Association of Internet Researchers**  
+  *Regeneration and Redesign of Platform Environments: The Case of Advertising Tiers in Streaming Media.*  
+  Accepted paper proposal; onsite English presentation, subject to presenter registration.  
+  [Record PDF](records/AoIR_2026_Accepted_Paper_Proposal_Extended_Abstract_Record_JooyeolKim.pdf)
 
 - **BSA Work, Employment & Society Conference 2026**  
   *Extended Life Courses, Structural Labour Pressure, and the Reabsorption of Time in the Polycrisis.*  
