@@ -39,6 +39,13 @@ Late Breaking Paper accepted for presentation at HCII 2026 / Artificial Intellig
 Accepted for the Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.  
 [Public record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
 
+### AoIR2026 / Association of Internet Researchers
+
+**Kim, Jooyeol.** 2026. “Regeneration and Redesign of Platform Environments: The Case of Advertising Tiers in Streaming Media.”  
+Accepted paper proposal for onsite English presentation at #AoIR2026: The 27th Annual Conference of the Association of Internet Researchers, Mexico City/CDMX, Mexico, 14–17 October 2026.  
+Final programme participation is subject to presenter registration. Presented, non-anonymized final extended abstract due after the conference according to AoIR submission guidelines.  
+[Public record PDF](records/AoIR_2026_Accepted_Paper_Proposal_Extended_Abstract_Record_JooyeolKim.pdf)
+
 ### BSA Work, Employment & Society Conference 2026
 
 **Kim, Jooyeol.** 2026. “Extended Life Courses, Structural Labour Pressure, and the Reabsorption of Time in the Polycrisis.”  
