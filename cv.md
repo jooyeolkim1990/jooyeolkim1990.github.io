@@ -75,12 +75,13 @@ Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready
 
 ### Midlands Conference in Critical Thought 2026
 
-**Kim, Jooyeol.** 2026. “Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.”  
-Accepted presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21–22 May 2026.  
-[Public record PDF](records/MCCT_2026_Stream6_Managed_Hegemony_Accepted_Presentation_Record_JooyeolKim.pdf)
-
 **Kim, Jooyeol.** 2026. “Managed Dissipation: Internalised Exit and Non-Eventful Collapse in Contemporary Societies.”  
-Accepted for MCCT 2026 Stream 11; participation status subject to presentation-format constraints.
+Presented / completed at the Midlands Conference in Critical Thought 2026, Stream 11, University of Warwick, Coventry, UK, 22 May 2026.
+
+**Kim, Jooyeol.** 2026. “Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.”  
+Accepted and programme-listed presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21 May 2026. Remote delivery was disrupted by IT/device problems.
+
+[Public participation record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
 
 ---
 
