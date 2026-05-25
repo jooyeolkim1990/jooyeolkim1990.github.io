@@ -89,3 +89,11 @@ For formal academic or conference correspondence:
 **jooyeol@jooyeolkim.com**
 
 You can also start with the [Selected Work](selected-work.md) page for a quicker overview.
+
+---
+
+## Support the work 🦭
+
+This work is built outside the formal academic pipeline, without institutional funding or a lab structure. Small support helps sustain research time, public documentation, conference participation, and basic infrastructure.
+
+[✍️ Support this work](https://www.buymeacoffee.com/jooyeolkim1990)
