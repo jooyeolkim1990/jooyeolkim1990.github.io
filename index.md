@@ -52,9 +52,8 @@ My current work has been accepted across 2026 venues in HCI/AI-HCI, internet and
   [Record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
 
 - **Midlands Conference in Critical Thought 2026**  
-  *Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.*  
-  Accepted presentation.  
-  [Record PDF](records/MCCT_2026_Stream6_Managed_Hegemony_Accepted_Presentation_Record_JooyeolKim.pdf)
+  *Managed Dissipation* presented / completed; *Managed Hegemony* accepted and programme-listed, with remote delivery disrupted by IT/device problems.  
+  [Record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
 
 [See Public Record](cv.md)
 
