@@ -18,7 +18,7 @@ Current accepted-work stack includes HCII / AI-HCI, AoIR, BSA Work, Employment &
 
 Proceedings-eligible acceptances include HCII 2026 / AI-HCI 2026 Late Breaking Papers and EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, subject to registration, camera-ready submission, and venue requirements.
 
-At MCCT 2026, one presentation was completed; a second presentation was accepted and programme-listed, but remote delivery was disrupted by unresolved session audio/device issues.
+At MCCT 2026, one presentation was completed; a second presentation was accepted and programme-listed, but remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
 ---
 
@@ -95,7 +95,7 @@ Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready
 **Sole-authored.** Presented / completed at the Midlands Conference in Critical Thought 2026, Stream 11, University of Warwick, Coventry, UK, 22 May 2026.
 
 **Kim, Jooyeol.** 2026. “Managed Hegemony: Why Resistance Fails to Consolidate under Conditions of Collapsing Realizability.”  
-**Sole-authored.** Accepted and programme-listed presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21 May 2026. Remote delivery was disrupted by unresolved session audio/device issues.
+**Sole-authored.** Accepted and programme-listed presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21 May 2026. Remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
 [Public participation record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
 
