@@ -12,6 +12,8 @@ Independent researcher based in South Korea. All listed conference works are sol
 
 In my first full academic submission season, my work has been accepted across multiple international venues in HCI/AI, platform governance, STS, labour studies, digital governance, and critical theory.
 
+The work is primarily theoretical, diagnostic, and framework-oriented: it develops conceptual tools for identifying recurring structural patterns across AI governance, platform systems, labour pressure, and institutional responsibility.
+
 Current accepted-work stack includes HCII / AI-HCI, AoIR, BSA Work, Employment & Society, EASST, ILERA Asia, EGOV / IFIP EGOV, and MCCT.
 
 Proceedings-eligible acceptances include HCII 2026 / AI-HCI 2026 Late Breaking Papers and EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, subject to registration, camera-ready submission, and venue requirements.
