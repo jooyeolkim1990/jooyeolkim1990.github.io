@@ -4,7 +4,7 @@
 
 This site is a public research workbench for selected analytical notes, governance briefs, framework pages, and conference records.
 
-My current work has been accepted across 2026 venues in HCI/AI-HCI, internet and platform studies, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought.
+My current sole-authored work has been accepted across 2026 venues in HCI/AI-HCI, internet and platform studies, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought.
 
 ---
 
@@ -52,7 +52,7 @@ My current work has been accepted across 2026 venues in HCI/AI-HCI, internet and
   [Record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
 
 - **Midlands Conference in Critical Thought 2026**  
-  *Managed Dissipation* presented / completed; *Managed Hegemony* accepted and programme-listed, with remote delivery disrupted by IT/device problems.  
+  *Managed Dissipation* presented / completed; *Managed Hegemony* accepted and programme-listed, with remote delivery disrupted because of IT issues and the presentation materials later circulated to the stream by the organizer.  
   [Record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
 
 [See Public Record](cv.md)
