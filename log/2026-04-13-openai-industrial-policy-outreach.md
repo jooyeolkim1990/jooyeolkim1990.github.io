@@ -2,7 +2,7 @@
 
 **Status:** Public tracking note  
 **Scope:** Early-stage public outreach and access structure only  
-**Last updated:** 2026-05-21 KST
+**Last updated:** 2026-05-27 KST
 
 > This page is a public analytical tracking note, not an insider account or a motive-reading exercise.  
 > It treats OpenAI’s April 2026 industrial-policy outreach as a governance case: the question is not whether the rhetoric sounds responsible, but whether public consultation language descends into visible operational pathways, access criteria, and responsibility-bearing commitments.
@@ -212,12 +212,29 @@ For that reason, this case is retained as a seed case for future comparison rath
 
 ---
 
+## Update (2026-05-27 KST): format correction and remaining response gap
+
+A correction is needed regarding the object of observation. Earlier wording on this page treated the “OpenAI Workshop” too strongly as if it were a discrete May event. A more careful reading of the publicly visible material suggests that it may be better understood as a Washington, DC–based policy-facing space or program rather than a one-off public workshop event.
+
+One public report describes OpenAI as planning to open a Washington, DC office that would include a dedicated space called the OpenAI Workshop, where nonprofits and policymakers could learn about and discuss the company’s technology. This supports a “space/program” reading more than a simple “single event” reading. Source: [The Guardian, 2026-04-12](https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks).
+
+This correction narrows the claim. The issue should not be framed as “a scheduled public event disappeared” unless independent evidence establishes that a specific event was announced. The safer formulation is that OpenAI publicly referred to a policy-facing Workshop opening in May, while the externally visible access rules, selection logic, public agenda, participant information, feedback pathway, and output structure remain unclear.
+
+This correction does not remove the non-response observation. The inquiry sent on 2026-04-13 did not merely ask for an event date. It asked how the outreach mechanism worked: whether access would be invite-only, open-application, or hybrid; whether public selection criteria existed; whether public agenda or output information would be available; and how email feedback related to the Workshop, grants, fellowships, or later policy discussions.
+
+Therefore, even if the object is better described as a policy-facing space/program rather than a one-off workshop event, the response gap remains analytically relevant. A correction in format does not erase the observed gap between public participation language and response activation.
+
+**Revised diagnostic line:**  
+The format may have been partially misunderstood; the response gap remains.
+
+---
+
 ## What to watch next
 
 The next update should track only a few concrete items:
 
 - whether OpenAI replies to the inquiry
-- whether workshop access rules become public
+- whether Workshop access rules become public
 - whether there is any public agenda or post-event summary
 - whether outside feedback is described as actually feeding into workshop or grant processes
 - whether the current outreach layer hardens into a visible participation record or remains a soft consultation surface
@@ -230,3 +247,4 @@ The next update should track only a few concrete items:
 - **2026-04-18** — No response received as of 2026-04-18 KST; case remains pending, with the next observation point set after U.S. business hours on 2026-04-20.
 - **2026-04-24** — No response received after multiple U.S. business days; no independent operational trace of the workshop observed; case reclassified as non-response with external non-visibility.
 - **2026-05-21** — Follow-up search found continued secondary reference to the OpenAI Workshop space, but no independent operational details; no response received; case retained as a single-instance seed case rather than an intent inference.
+- **2026-05-27** — Added a format correction: “OpenAI Workshop” may be better read as a DC-based policy-facing space/program rather than a one-off May event; non-response to the procedural inquiry remains analytically relevant.
