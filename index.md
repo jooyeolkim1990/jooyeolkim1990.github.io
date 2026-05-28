@@ -55,7 +55,7 @@ My current sole-authored work has been accepted across 2026 venues in HCI/AI-HCI
   *Managed Dissipation* presented / completed; *Managed Hegemony* accepted and programme-listed, with remote delivery disrupted because of IT issues and the presentation materials later circulated to the stream by the organizer.  
   [Record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
 
-[See Public Record](cv.md)
+[See Public Record](cv.md) · [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
 
 ---
 
@@ -120,6 +120,9 @@ My current sole-authored work has been accepted across 2026 venues in HCI/AI-HCI
 For accepted / forthcoming conference presentations and public identifiers, see:  
 [Public Record](cv.md)
 
+For accepted-output cost bottlenecks, support-route checks, and bridge-support transparency, see:  
+[2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
+
 ---
 
 ## Log archive
@@ -140,4 +143,5 @@ Contact: [Contact](contact.md)
 
 - [Selected Work](selected-work.md)
 - [Public Record](cv.md)
+- [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
 - [Work With Me](work-with-me.md)
