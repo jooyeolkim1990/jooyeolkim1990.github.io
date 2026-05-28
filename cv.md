@@ -20,6 +20,8 @@ Proceedings-eligible acceptances include HCII 2026 / AI-HCI 2026 Late Breaking P
 
 At MCCT 2026, one presentation was completed; a second presentation was accepted and programme-listed, but remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
+For accepted-output cost bottlenecks, support-route checks, and bridge-support transparency, see the [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html).
+
 ---
 
 ## Current position
@@ -98,6 +100,14 @@ Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready
 **Sole-authored.** Accepted and programme-listed presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21 May 2026. Remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
 [Public participation record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
+
+---
+
+## Bridge support transparency
+
+For accepted-output cost bottlenecks, support-route checks, and bridge-support transparency:
+
+[2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
 
 ---
 
