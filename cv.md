@@ -54,7 +54,8 @@ Current focus areas include:
 
 **Kim, Jooyeol.** 2026. “No Warranty, No Rollback: Critical AI Literacy After Black-Box Automation.”  
 **Sole-authored.** Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, 7–10 October 2026.  
-Hybrid participation is supported; final participation is subject to registration and conference requirements.
+Hybrid participation is supported; final participation is subject to registration and conference requirements.  
+[Public record PDF](records/4S_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
 
 ### AoIR2026 / Association of Internet Researchers
 
