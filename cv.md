@@ -10,13 +10,13 @@ It is not a complete academic CV. It is a compact public record for readers who 
 
 Independent researcher based in South Korea. All listed conference works are sole-authored unless otherwise noted.
 
-In my first academic submission season beginning in January 2026, my work has been accepted across multiple international venues in HCI/AI, platform governance, STS, labour studies, digital governance, and critical theory.
+In my first academic submission season beginning in January 2026, my work has been accepted across multiple international venues in STS, platform governance, internet research, labour studies, digital governance, and critical theory.
 
 The work is primarily theoretical, diagnostic, and framework-oriented: it develops conceptual tools for identifying recurring structural patterns across AI governance, platform systems, labour pressure, and institutional responsibility.
 
-Current accepted-work stack includes HCII / AI-HCI, AoIR, BSA Work, Employment & Society, EASST, ILERA Asia, EGOV / IFIP EGOV, and MCCT.
+Current accepted-work stack includes 4S, AoIR, BSA Work, Employment & Society, EASST, ILERA Asia, EGOV / IFIP EGOV, and MCCT.
 
-Proceedings-eligible acceptances include HCII 2026 / AI-HCI 2026 Late Breaking Papers and EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, subject to registration, camera-ready submission, and venue requirements.
+Proceedings-eligible acceptance currently includes EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, subject to registration, camera-ready submission, and venue requirements. An additional HCII 2026 / AI-HCI 2026 Late Breaking Paper was accepted for presentation and Springer LNCS Late Breaking Papers consideration, but was not registered or converted because registration / funding constraints prevented participation.
 
 At MCCT 2026, one presentation was completed; a second presentation was accepted and programme-listed, but remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
@@ -50,12 +50,11 @@ Current focus areas include:
 
 ## Accepted / forthcoming conference work
 
-### HCII 2026 / Artificial Intelligence in HCI 2026
+### 4S 2026 / Society for Social Studies of Science
 
-**Kim, Jooyeol.** 2026. “Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.”  
-**Sole-authored.** Late Breaking Paper accepted for presentation at HCII 2026 / Artificial Intelligence in HCI 2026, Montreal, Canada.  
-Accepted for the Springer LNCS Late Breaking Papers proceedings track, subject to registration, camera-ready submission, and venue requirements.  
-[Public record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
+**Kim, Jooyeol.** 2026. “No Warranty, No Rollback: Critical AI Literacy After Black-Box Automation.”  
+**Sole-authored.** Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, 7–10 October 2026.  
+Hybrid participation is supported; final participation is subject to registration and conference requirements.
 
 ### AoIR2026 / Association of Internet Researchers
 
@@ -100,6 +99,17 @@ Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready
 **Sole-authored.** Accepted and programme-listed presentation, Hegemonies stream, Midlands Conference in Critical Thought 2026, University of Warwick, Coventry, UK, 21 May 2026. Remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
 [Public participation record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
+
+---
+
+## Accepted but not converted
+
+### HCII 2026 / Artificial Intelligence in HCI 2026
+
+**Kim, Jooyeol.** 2026. “Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.”  
+**Sole-authored.** Late Breaking Paper accepted for presentation at HCII 2026 / Artificial Intelligence in HCI 2026 and accepted for Springer LNCS Late Breaking Papers consideration, subject to registration and camera-ready requirements.  
+Not registered or converted because registration / funding constraints prevented participation. Do not treat this item as a completed presentation or proceedings publication.  
+[Public record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
 
 ---
 

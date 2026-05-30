@@ -4,7 +4,7 @@
 
 This site is a public research workbench for selected analytical notes, governance briefs, framework pages, and conference records.
 
-My current sole-authored work has been accepted across 2026 venues in HCI/AI-HCI, internet and platform studies, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought.
+My current sole-authored work has been accepted across 2026 venues in science and technology studies, internet and platform studies, sociology of work and employment, labour and industrial relations, digital government, and critical thought.
 
 ---
 
@@ -15,16 +15,15 @@ My current sole-authored work has been accepted across 2026 venues in HCI/AI-HCI
 - Platform governance, access infrastructures, and institutional response failure
 - Labour restructuring, burden transfer, and procedural risk
 - Digital governance, responsibility recoverability, and contestability
-- Accepted 2026 work across HCII / AI-HCI, AoIR, BSA WES, EASST, ILERA Asia, EGOV-CeDEM-ePart / IFIP EGOV, and MCCT
+- Accepted 2026 work across 4S, AoIR, BSA WES, EASST, ILERA Asia, EGOV-CeDEM-ePart / IFIP EGOV, and MCCT
 
 ---
 
 ## 2026 accepted work
 
-- **HCII 2026 / Artificial Intelligence in HCI 2026**  
-  *Repair and Addressability in Human–Computer Interaction: When AI-Mediated Decisions Become Procedurally Unreachable.*  
-  Accepted late-breaking paper; Springer LNCS Late Breaking Papers proceedings track, subject to registration and camera-ready submission.  
-  [Record PDF](records/HCII_2026_AI-HCI_Accepted_Late_Breaking_Paper_Record_JooyeolKim.pdf)
+- **4S 2026 / Society for Social Studies of Science**  
+  *No Warranty, No Rollback: Critical AI Literacy After Black-Box Automation.*  
+  Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, with hybrid participation supported.
 
 - **AoIR2026 / Association of Internet Researchers**  
   *Regeneration and Redesign of Platform Environments: The Case of Advertising Tiers in Streaming Media.*  
