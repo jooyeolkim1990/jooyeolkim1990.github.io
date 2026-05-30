@@ -23,7 +23,8 @@ My current sole-authored work has been accepted across 2026 venues in science an
 
 - **4S 2026 / Society for Social Studies of Science**  
   *No Warranty, No Rollback: Critical AI Literacy After Black-Box Automation.*  
-  Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, with hybrid participation supported.
+  Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, with hybrid participation supported.  
+  [Record PDF](records/4S_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
 
 - **AoIR2026 / Association of Internet Researchers**  
   *Regeneration and Redesign of Platform Environments: The Case of Advertising Tiers in Streaming Media.*  
@@ -69,7 +70,7 @@ My current sole-authored work has been accepted across 2026 venues in science an
   [Open note](log/2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
 
 - **Anthropic Access-Structure Tracking**  
-  *Public tracking note on moral branding, elastic consumer access, usage-limit legibility, and partner-gated frontier capability.*  
+  *Public tracking note on moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.*  
   [Open note](log/2026-04-26-anthropic-access-structure-tracking.md)
 
 - **Yellow Envelope Act (Korea): Early Implementation Tracking**  
