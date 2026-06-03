@@ -34,6 +34,18 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ---
 
+## Labour and compensation
+
+- **Capital Played Global. Labor Reads Global Too.**  
+  A public essay on how wage settlements, bonus formulas, and housing-credit benefits become compensation benchmarks before institutions travel.  
+  [Read](briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.md)
+
+- **Labour and Compensation Briefs**  
+  A small index for labour, compensation architecture, surplus-sharing, and work-package viability notes.  
+  [Browse](briefs/labour/)
+
+---
+
 ## Framework pages
 
 - **Feasible-Set Governance: Framework Overview**  
