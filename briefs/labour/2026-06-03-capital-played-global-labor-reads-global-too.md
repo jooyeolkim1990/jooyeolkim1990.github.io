@@ -102,7 +102,7 @@ A bonus formula negotiated in Korea can become a reference point for local hires
 
 That last move matters.
 
-After Samsung introduced a housing-stability loan program for eligible employees — up to 500 million won for home purchases — [Metro reported that SK hynix employees were calling for a similar expansion](https://www.metroseoul.co.kr/article/20260531500216), while [Newstomato reported that housing support was likely to become a major wage-talks issue](https://www.newstomato.com/readnews.aspx?no=1302574).
+After Samsung introduced a housing-stability loan program for eligible employees — up to 500 million won for home purchases — [The Korea Herald reported that SK hynix workers were pressing the company to match Samsung-level housing loans and that Samsung’s new ceiling had become a benchmark for the chip industry](https://www.koreaherald.com/article/10761060).
 
 At first, workers compared cash.
 
