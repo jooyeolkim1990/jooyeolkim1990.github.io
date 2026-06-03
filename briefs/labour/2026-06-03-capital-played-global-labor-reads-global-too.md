@@ -82,7 +82,7 @@ The formal institution did not travel.
 
 The comparison did.
 
-TSMC then faced its own bonus backlash after reports that employee bonuses could be cut despite strong profits. [DigiTimes reported employee dissatisfaction and references to a Samsung-style strike](https://www.digitimes.com/news/a20260525PD236/tsmc-taiwan-growth-2026-2025.html), while [a follow-up DigiTimes report said Chairman and CEO C.C. Wei personally addressed employees at a company-wide meeting after days of backlash over the reported 15% cut](https://www.digitimes.com/news/a20260527PD245/tsmc-ceo-2026-growth-performance.html).
+TSMC then faced its own bonus backlash after reports that employee bonuses could be cut despite strong profits. [DigiTimes reported employee dissatisfaction and references to a Samsung-style strike](https://www.digitimes.com/news/a20260525PD236/tsmc-taiwan-growth-2026-2025.html). [Focus Taiwan/CNA reported that Chairman C.C. Wei canceled a scheduled business trip and met employees directly after bonus-cut rumors had made many employees unhappy](https://focustaiwan.tw/business/202605270019).
 
 Again, the point is not that TSMC copied Samsung.
 
