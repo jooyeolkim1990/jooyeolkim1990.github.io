@@ -42,7 +42,7 @@ These stories belong together not because they come from the same industry, but 
 
 New York shows the wage-bill version of this mechanism. Semiconductors show the compensation-architecture version. In both cases, the benchmark is not only the number. It is the discovery that something previously treated as private life, local policy, or internal discretion can become negotiable.
 
-In New York, owners of nearly 250 hotels reached an eight-year agreement with the Hotel and Gaming Trades Council in May 2026, raising housekeepers’ pay from slightly below $40 an hour to more than $61 by 2034 while maintaining employer-paid healthcare for 27,000 union members and their families.
+In New York, [owners of nearly 250 hotels reached an eight-year agreement with the Hotel and Gaming Trades Council in May 2026](https://www.theguardian.com/us-news/2026/may/19/new-york-hotel-workers-world-cup-union-deal), raising housekeepers’ pay from slightly below $40 an hour to more than $61 by 2034 while maintaining employer-paid healthcare for 27,000 union members and their families.
 
 The issue was not only the headline wage number. It was the return of housing, healthcare, mobility, care, and recovery to the wage bill.
 
@@ -66,13 +66,13 @@ The wage number mattered. But the deeper benchmark was the discovery that what h
 
 The same pattern is now visible in semiconductors.
 
-Samsung’s 2026 pay agreement was initially read as a Korean labor story: a profit-sharing dispute tied to the AI semiconductor boom. Reuters reported that Samsung agreed to allocate 10.5% of its semiconductor division’s operating profit toward bonuses, alarming business groups and raising concerns that similar demands could spread.
+Samsung’s 2026 pay agreement was initially read as a Korean labor story: a profit-sharing dispute tied to the AI semiconductor boom. [Reuters reported](https://www.reuters.com/business/world-at-work/samsung-pay-deal-marks-seismic-change-south-korea-emboldening-unions-2026-05-27/) that Samsung agreed to allocate 10.5% of its semiconductor division’s operating profit toward bonuses, alarming business groups and raising concerns that similar demands could spread.
 
 But the benchmark did not stay inside Samsung.
 
 It did not even stay inside South Korea.
 
-Reports said Chinese employees at Samsung Electronics’ Xi’an plant and SK hynix’s Wuxi plant demanded higher performance bonuses after seeing news of headquarters-level rewards. Samsung said it had not received an official request from locally hired employees at the Xi’an plant, while SK hynix said its bonus systems are tailored by country.
+[Reuters also reported](https://www.reuters.com/business/world-at-work/samsung-pay-deal-marks-seismic-change-south-korea-emboldening-unions-2026-05-27/) that Chinese employees at Samsung Electronics’ Xi’an plant and SK hynix’s Wuxi plant demanded higher performance bonuses after seeing news of headquarters-level rewards. Samsung said it had not received an official request from locally hired employees at the Xi’an plant, while SK hynix said its bonus systems are tailored by country.
 
 That distinction matters.
 
@@ -82,7 +82,7 @@ The formal institution did not travel.
 
 The comparison did.
 
-TSMC then faced its own bonus backlash after reports that employee bonuses could be cut despite strong profits. DigiTimes reported employee dissatisfaction and references to Samsung-style labor action, while other reporting said TSMC moved quickly to calm internal anger, with Chairman C.C. Wei reportedly canceling a business trip and telling employees that bonuses would rise significantly.
+TSMC then faced its own bonus backlash after reports that employee bonuses could be cut despite strong profits. [DigiTimes reported employee dissatisfaction and references to a Samsung-style strike](https://www.digitimes.com/news/a20260525PD236/tsmc-taiwan-growth-2026-2025.html), while [a follow-up DigiTimes report said Chairman and CEO C.C. Wei personally addressed employees at a company-wide meeting after days of backlash over the reported 15% cut](https://www.digitimes.com/news/a20260527PD245/tsmc-ceo-2026-growth-performance.html).
 
 Again, the point is not that TSMC copied Samsung.
 
@@ -102,7 +102,7 @@ A bonus formula negotiated in Korea can become a reference point for local hires
 
 That last move matters.
 
-After Samsung reportedly introduced a housing-stability loan program for eligible employees — up to 500 million won for home purchases — SK hynix’s union reportedly prepared to demand the same 500 million won housing-loan limit in its own wage talks.
+After Samsung introduced a housing-stability loan program for eligible employees — up to 500 million won for home purchases — [Metro reported that SK hynix employees were calling for a similar expansion](https://www.metroseoul.co.kr/article/20260531500216), while [Newstomato reported that housing support was likely to become a major wage-talks issue](https://www.newstomato.com/readnews.aspx?no=1302574).
 
 At first, workers compared cash.
 
