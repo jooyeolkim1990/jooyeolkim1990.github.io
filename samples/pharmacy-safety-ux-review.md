@@ -1,7 +1,14 @@
+---
+title: "Pharmacy Safety UX Review — Public Sample"
+description: "A public problem-naming sample showing how a retail pharmacy debate can be reframed as a safety-visibility and intervention-timing problem."
+---
+
 # Pharmacy Safety UX Review — Public Sample
 
+A public problem-naming sample showing how a retail pharmacy debate can be reframed as a safety-visibility and intervention-timing problem.
+
 **Status:** Public diagnostic preview  
-**Purpose:** Demonstration of problem-naming, safety-visibility review, and two-page visual sample format  
+**Purpose:** Demonstration of problem-naming, safety-visibility review, and two-page visual sample format
 **Useful for:** product, service, retail, health-access, governance, and professional-service UX readers  
 **Not:** pharmacy, medical, legal, compliance, drug-safety, or certification advice
 
