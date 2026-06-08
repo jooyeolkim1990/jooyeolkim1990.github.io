@@ -10,6 +10,9 @@ For commissioned diagnostic memos, policy framing briefs, research collaboration
 
 ## What I do
 
+- **Diagnostic notes and risk clarity reviews**  
+  Short scoped reviews that turn vague operational, policy, or governance discomfort into a named problem, exposure map, review-now questions, and decision-ready memo format. Examples include AI deployment readiness, platform remedy reachability, labour-job viability, and safety-visibility reviews.
+
 - **AI deployment risk clarity reviews**  
   Short diagnostic reviews that identify verification, escalation, rollback, accountability, and user/frontline burden gaps before AI systems are expanded.
 
@@ -56,6 +59,9 @@ Depending on the case, I can help produce:
 
 - [AI Deployment Risk Clarity Review](ciea/samples/ai-deployment-risk-clarity-review.md)  
   A CIEA-powered public sample for reviewing AI deployment readiness through verification, escalation, rollback, accountability, and user/frontline burden.
+
+- [Pharmacy Safety UX Review — Public Sample](samples/pharmacy-safety-ux-review.md)  
+  A public visual sample showing how a retail pharmacy debate can be reframed as a safety-visibility and intervention-timing problem.
 
 - [When Part-Time Work Stops Functioning as a Job](briefs/labour/youth-part-time-job-package-collapse.md)  
   A policy diagnostic sample on youth part-time labour shortages, job-package viability, short peak-time shifts, schedule instability, and hidden transition burdens.
