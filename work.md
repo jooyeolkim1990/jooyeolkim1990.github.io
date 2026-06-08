@@ -16,6 +16,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
   A CIEA-powered public sample for reviewing AI deployment readiness through verification, escalation, rollback, accountability, and user/frontline burden.  
   [Read](ciea/samples/ai-deployment-risk-clarity-review.md)
 
+- **Pharmacy Safety UX Review — Public Sample**  
+  A two-page public visual sample showing how a retail pharmacy debate can be reframed as a safety-visibility and intervention-timing problem.  
+  [View the 2-page visual sample](/assets/samples/pharmacy-safety-ux-review-public-sample.pdf)
+
 - **Fast Answers, Slow Responsibility**  
   A CIEA-M1 public sample on AI customer support, legal-effect limits, chatbot decline, and hidden interface costs.  
   [Read](ciea/cases/ai-customer-support-korea.md)
