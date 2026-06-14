@@ -4,6 +4,9 @@ Public notes and essays on labour, compensation architecture, burden transfer, a
 
 ## Compensation architecture
 
+- [Performance Attribution Symmetry](2026-06-11-performance-attribution-symmetry.md)  
+  If worker bonuses are treated as a shareholder issue, executive compensation should be examined under the same performance-attribution standard.
+
 - [Capital Played Global. Labor Reads Global Too.](2026-06-03-capital-played-global-labor-reads-global-too.md)  
   Why wage settlements, bonus formulas, and housing credit now travel before institutions do.
 

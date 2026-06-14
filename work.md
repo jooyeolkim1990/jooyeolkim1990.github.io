@@ -40,6 +40,10 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ## Labour and compensation
 
+- **Performance Attribution Symmetry**  
+  A one-page working note arguing that if worker bonuses are treated as a shareholder-rights issue, executive compensation should be examined under the same performance-attribution standard.  
+  [Read](briefs/labour/2026-06-11-performance-attribution-symmetry.md)
+
 - **Capital Played Global. Labor Reads Global Too.**  
   A public essay on how wage settlements, bonus formulas, and housing-credit benefits become compensation benchmarks before institutions travel.  
   [Read](briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.md)
