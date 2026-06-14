@@ -2,20 +2,133 @@
 
 **Independent research on AI-era selection, visibility, responsibility, and repair.**
 
-This site is a public research workbench for selected analytical notes, governance briefs, framework pages, and conference records.
+This site is a public research portfolio and workbench for selected analytical notes, governance briefs, diagnostic samples, framework pages, and conference records.
 
-My current sole-authored work has been accepted across 2026 venues in science and technology studies, internet and platform studies, sociology of work and employment, labour and industrial relations, digital government, and critical thought.
+<style>
+.route-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 1.25rem 0;
+}
+.route-card {
+  display: block;
+  min-height: 155px;
+  padding: 1.15rem 1.15rem 1rem 1.15rem;
+  border: 1px solid #d7d7d7;
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+}
+.route-card:hover {
+  border-color: #777;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
+.route-label {
+  display: inline-block;
+  margin-bottom: 0.55rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #666;
+}
+.route-card h2 {
+  margin: 0 0 0.55rem 0;
+  font-size: 1.25rem;
+}
+.route-card p {
+  margin: 0;
+  line-height: 1.45;
+}
+.proof-strip {
+  margin: 1rem 0 1.5rem 0;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid #555;
+  background: #f7f7f7;
+}
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.feature-card {
+  padding: 1rem;
+  border: 1px solid #e1e1e1;
+  border-radius: 12px;
+  background: #fafafa;
+}
+.feature-card h3 {
+  margin-top: 0;
+}
+.small-note {
+  font-size: 0.95rem;
+  color: #555;
+}
+</style>
 
 ---
 
-## Current focus
+## Start here
 
-- AI-era selection, visibility, responsibility, and repair
-- Addressability loss, procedural repair, and AI-mediated consequential decisions
-- Platform governance, access infrastructures, and institutional response failure
-- Labour restructuring, burden transfer, and procedural risk
-- Digital governance, responsibility recoverability, and contestability
-- Accepted 2026 work across 4S, AoIR, BSA WES, EASST, ILERA Asia, EGOV-CeDEM-ePart / IFIP EGOV, and MCCT
+Choose the shortest route for what you want to inspect.
+
+<div class="route-grid">
+  <a class="route-card" href="cv.md">
+    <span class="route-label">Verification</span>
+    <h2>Public Record</h2>
+    <p>Accepted presentations, public identifiers, conference records, and current proof surface.</p>
+  </a>
+
+  <a class="route-card" href="selected-work.md">
+    <span class="route-label">Portfolio</span>
+    <h2>Selected Work</h2>
+    <p>Curated essays, briefs, framework pages, and proof-of-work for quick review.</p>
+  </a>
+
+  <a class="route-card" href="work.md">
+    <span class="route-label">Samples</span>
+    <h2>Diagnostic Samples</h2>
+    <p>Risk clarity reviews, applied diagnostic notes, governance memos, and public sample formats.</p>
+  </a>
+
+  <a class="route-card" href="work-with-me.md">
+    <span class="route-label">Contact</span>
+    <h2>Work With Me</h2>
+    <p>Scoped memos, diagnostic reviews, collaboration routes, and commissioned-analysis inquiries.</p>
+  </a>
+</div>
+
+<div class="proof-strip">
+  <strong>Current proof snapshot:</strong> My current sole-authored work has been accepted across 2026 venues in science and technology studies, internet and platform studies, sociology of work and employment, labour and industrial relations, digital government, and critical thought.
+  <br>
+  <span class="small-note">For the full site map, see <a href="start-here.md">Start Here</a>.</span>
+</div>
+
+---
+
+## Featured paths
+
+<div class="feature-grid">
+  <div class="feature-card">
+    <h3>AI Deployment Risk Clarity Review</h3>
+    <p>A public diagnostic sample for identifying verification, escalation, rollback, and accountability gaps before AI deployment.</p>
+    <p><a href="ciea/samples/ai-deployment-risk-clarity-review.md">Open sample</a></p>
+  </div>
+
+  <div class="feature-card">
+    <h3>Capital Played Global. Labor Reads Global Too.</h3>
+    <p>A public essay on how wage settlements, bonus formulas, and housing-credit benefits become compensation benchmarks before institutions travel.</p>
+    <p><a href="briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.md">Read essay</a></p>
+  </div>
+
+  <div class="feature-card">
+    <h3>Fast Answers, Slow Responsibility</h3>
+    <p>A public sample testing whether AI customer support removed the bottleneck or moved it into legal responsibility, human escalation, and frontline labor.</p>
+    <p><a href="ciea/cases/ai-customer-support-korea.md">Read sample</a></p>
+  </div>
+</div>
 
 ---
 
@@ -73,75 +186,22 @@ My current sole-authored work has been accepted across 2026 venues in science an
   *Public tracking note on moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.*  
   [Open note](log/2026-04-26-anthropic-access-structure-tracking.md)
 
-- **Yellow Envelope Act (Korea): Early Implementation Tracking**  
-  *Public tracking note on early user-status decisions, bargaining-unit separation, and emerging procedural bottlenecks.*  
-  [Open note](log/2026-04-12-yellow-envelope-act-early-implementation.md)
-
-- **Yellow Envelope Act (Korea): Implementation Update**  
-  *First reported denial, procedural limitation of recognized user status, and growing front-end bottlenecks in early implementation.*  
-  [Open note](log/2026-04-13-yellow-envelope-act-implementation-update.md)
-
-- **OpenAI Industrial Policy Outreach: Early Access-Structure Tracking**  
-  *Public tracking note on whether public consultation language leads to visible access rules, selection criteria, and accountable participation pathways.*  
-  [Open note](log/2026-04-13-openai-industrial-policy-outreach.md)
-
----
-
-## Selected work
-
-- **Fast Answers, Slow Responsibility**  
-  A CIEA-M1 public sample testing whether AI customer support removed the bottleneck or moved it into legal responsibility, human escalation, and frontline labor.  
-  [Read sample](ciea/cases/ai-customer-support-korea.md)
-
-- **Moral AI, Gated Access**  
-  A case essay and companion tracking note on Anthropic’s moral branding, usage-limit opacity, and partner-gated frontier capability.  
-  [Read essay](cases/anthropic-moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
-
-- **Feasible-Set Governance: Framework Overview**  
-  A framework on how decision environments are structured before choice begins.  
-  [Read](frameworks/feasible-set-governance.md)
-
-- **AI After Leakage: Three Order Scenarios**
-  A short analytical note on diffusion, chokepoints, and post-containment AI order.  
-  [Read](briefs/ai-governance/ai-after-leakage.md)
-
-- **AI Safety Rhetoric: Self-Binding or Blame Shield?**  
-  A note on how frontier AI companies govern through public language.  
-  [Read](briefs/ai-governance/ai-safety-rhetoric.md)
-
-- **When Systems Stop Absorbing Their Own Risk**  
-  A public essay on displaced accountability, risk transfer, and the politics often misdescribed as “tech backlash.”  
-  [Read](cases/systems-risk-absorption.md)
-
----
-
-## Public record
-
-For accepted / forthcoming conference presentations and public identifiers, see:  
-[Public Record](cv.md)
-
-For accepted-output cost bottlenecks, support-route checks, and bridge-support transparency, see:  
-[2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
-
----
-
-## Log archive
-
-Time-stamped notes, issue tracking, and short analytical records.  
 [Browse logs](log/)
 
 ---
 
-## About this site
+## More routes
 
-This is **not** a news site, a legal advisory service, or a comprehensive archive.  
-It is a compact public workspace for **selected analytical notes**, **framework summaries**, and **time-stamped tracking pages**.
-
-More background: [About](about.md)
-
-Contact: [Contact](contact.md)
-
+- [Full site map / Start Here](start-here.md)
 - [Selected Work](selected-work.md)
+- [Work index](work.md)
 - [Public Record](cv.md)
 - [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
 - [Work With Me](work-with-me.md)
+- [About](about.md)
+- [Contact](contact.md)
+
+## About this site
+
+This is **not** a news site, a legal advisory service, or a comprehensive archive.  
+It is a compact public workspace for **selected analytical notes**, **framework summaries**, **diagnostic samples**, and **time-stamped tracking pages**.
