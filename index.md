@@ -75,25 +75,25 @@ This site is a public research portfolio and workbench for selected analytical n
 Choose the shortest route for what you want to inspect.
 
 <div class="route-grid">
-  <a class="route-card" href="cv.md">
+  <a class="route-card" href="cv.html">
     <span class="route-label">Verification</span>
     <h2>Public Record</h2>
     <p>Accepted presentations, public identifiers, conference records, and current proof surface.</p>
   </a>
 
-  <a class="route-card" href="selected-work.md">
+  <a class="route-card" href="selected-work.html">
     <span class="route-label">Portfolio</span>
     <h2>Selected Work</h2>
     <p>Curated essays, briefs, framework pages, and proof-of-work for quick review.</p>
   </a>
 
-  <a class="route-card" href="work.md">
+  <a class="route-card" href="work.html">
     <span class="route-label">Samples</span>
     <h2>Diagnostic Samples</h2>
     <p>Risk clarity reviews, applied diagnostic notes, governance memos, and public sample formats.</p>
   </a>
 
-  <a class="route-card" href="work-with-me.md">
+  <a class="route-card" href="work-with-me.html">
     <span class="route-label">Contact</span>
     <h2>Work With Me</h2>
     <p>Scoped memos, diagnostic reviews, collaboration routes, and commissioned-analysis inquiries.</p>
@@ -103,7 +103,7 @@ Choose the shortest route for what you want to inspect.
 <div class="proof-strip">
   <strong>Current proof snapshot:</strong> My current sole-authored work has been accepted across 2026 venues in science and technology studies, internet and platform studies, sociology of work and employment, labour and industrial relations, digital government, and critical thought.
   <br>
-  <span class="small-note">For the full site map, see <a href="start-here.md">Start Here</a>.</span>
+  <span class="small-note">For the full site map, see <a href="start-here.html">Start Here</a>.</span>
 </div>
 
 ---
@@ -114,19 +114,19 @@ Choose the shortest route for what you want to inspect.
   <div class="feature-card">
     <h3>AI Deployment Risk Clarity Review</h3>
     <p>A public diagnostic sample for identifying verification, escalation, rollback, and accountability gaps before AI deployment.</p>
-    <p><a href="ciea/samples/ai-deployment-risk-clarity-review.md">Open sample</a></p>
+    <p><a href="ciea/samples/ai-deployment-risk-clarity-review.html">Open sample</a></p>
   </div>
 
   <div class="feature-card">
     <h3>Capital Played Global. Labor Reads Global Too.</h3>
     <p>A public essay on how wage settlements, bonus formulas, and housing-credit benefits become compensation benchmarks before institutions travel.</p>
-    <p><a href="briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.md">Read essay</a></p>
+    <p><a href="briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.html">Read essay</a></p>
   </div>
 
   <div class="feature-card">
     <h3>Fast Answers, Slow Responsibility</h3>
     <p>A public sample testing whether AI customer support removed the bottleneck or moved it into legal responsibility, human escalation, and frontline labor.</p>
-    <p><a href="ciea/cases/ai-customer-support-korea.md">Read sample</a></p>
+    <p><a href="ciea/cases/ai-customer-support-korea.html">Read sample</a></p>
   </div>
 </div>
 
@@ -168,7 +168,7 @@ Choose the shortest route for what you want to inspect.
   *Managed Dissipation* presented / completed; *Managed Hegemony* accepted and programme-listed, with remote delivery disrupted because of IT issues and the presentation materials later circulated to the stream by the organizer.  
   [Record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
 
-[See Public Record](cv.md) · [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
+[See Public Record](cv.html) · [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
 
 ---
 
@@ -176,15 +176,15 @@ Choose the shortest route for what you want to inspect.
 
 - **When Disconnection Is Not Exit: Authentication, Phone Access, and Digitally Imposed Availability**  
   *A public analytical log on smartphone-linked authentication as an infrastructure for everyday access, not merely a device of connection.*  
-  [Open note](log/2026-05-01-digital-disconnection-authentication-access.md)
+  [Open note](log/2026-05-01-digital-disconnection-authentication-access.html)
 
 - **Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing**  
   *A public tracking note on the BGF Retail logistics dispute, the fatal incident of April 20, and the government’s shifting post-incident framing of borderline labour cases.*  
-  [Open note](log/2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
+  [Open note](log/2026-04-27-yellow-envelope-act-bgf-reframing-update.html)
 
 - **Anthropic Access-Structure Tracking**  
   *Public tracking note on moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.*  
-  [Open note](log/2026-04-26-anthropic-access-structure-tracking.md)
+  [Open note](log/2026-04-26-anthropic-access-structure-tracking.html)
 
 [Browse logs](log/)
 
@@ -192,14 +192,14 @@ Choose the shortest route for what you want to inspect.
 
 ## More routes
 
-- [Full site map / Start Here](start-here.md)
-- [Selected Work](selected-work.md)
-- [Work index](work.md)
-- [Public Record](cv.md)
+- [Full site map / Start Here](start-here.html)
+- [Selected Work](selected-work.html)
+- [Work index](work.html)
+- [Public Record](cv.html)
 - [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
-- [Work With Me](work-with-me.md)
-- [About](about.md)
-- [Contact](contact.md)
+- [Work With Me](work-with-me.html)
+- [About](about.html)
+- [Contact](contact.html)
 
 ## About this site
 
