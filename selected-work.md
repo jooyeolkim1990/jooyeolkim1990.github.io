@@ -22,6 +22,12 @@ A public diagnostic sample on youth part-time labour shortages, job-package viab
 
 ## AI / platform governance
 
+### The Off-Switch Is the Message
+A public essay on the Anthropic Fable/Mythos access shock, arguing that frontier AI access can shift from commercial product to revocable security permission, turning global contribution into access risk and burning order-level trust.
+
+**Useful for:** AI governance researchers, journalists, policy audiences, strategic-technology readers  
+[Read](essays/2026-06-16-the-off-switch-is-the-message.md)
+
 ### AI Deployment Risk Clarity Review
 A CIEA-powered public sample showing how an AI deployment that looks efficient on paper can be reviewed for verification, escalation, rollback, accountability, and user/frontline burden before broader rollout.
 
