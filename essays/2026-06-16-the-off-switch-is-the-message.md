@@ -44,11 +44,7 @@ The same globality that creates value becomes the category used to restrict acce
 
 This is a strategic contradiction before it is a moral one. A country that depends on foreign-born expertise to build its frontier advantage should be careful about teaching those same people how quickly their position can be re-read. Talent may get someone close to the frontier. Security may remind them that proximity is not the same as trust.
 
-That lesson travels first through firms as procurement risk. A frontier model can no longer be treated as a stable utility if it can become unavailable through a geopolitical decision. Engineers begin designing around the provider. Legal teams ask whether a workflow depends on a service that can be withdrawn. Boards ask whether model access is now a jurisdictional risk. Researchers ask whether a project should rely on a system whose availability is subject to policy shifts they cannot see, challenge, or predict.
-
-It also travels through workers and researchers as belonging risk. The person has not changed. The system’s classification of that person has. That is not necessarily betrayal. It is something colder: contribution can be counted before nationality matters, and access can be restricted when nationality returns.
-
-Governments and rivals learn their own versions of the same lesson. Allies and partners may still prefer American technology. They may still trust American firms more than Chinese alternatives. They may still see the United States as the better long-term anchor. Trust is not binary. A partner can prefer the United States and still conclude that dependence on U.S.-controlled AI infrastructure must be reduced.
+The lesson travels through different actors in different forms. Firms experience it as procurement risk: a frontier model can no longer be treated as a stable utility if it can become unavailable through a geopolitical decision. Workers and researchers experience it as belonging risk: the person has not changed, but the system’s classification of that person has. Governments experience it as sovereignty risk: a partner can prefer American technology and still conclude that dependence on U.S.-controlled AI infrastructure must be reduced.
 
 For rivals, the opportunity is obvious. The strongest argument for non-U.S., open-weight, local, or sovereign alternatives is not always that they are better. Sometimes it is enough that they are available, predictable, and free from a foreign off-switch. A weaker tool with stable access can become strategically attractive when the stronger tool becomes politically conditional.
 
@@ -79,6 +75,8 @@ The United States has real reasons to protect frontier AI capability. It also ha
 A chokepoint is most powerful when others still prefer passing through it. A platform is most powerful when users believe that building on it will not become a geopolitical trap. A hegemonic order is most powerful when even dissatisfied actors keep planning inside it.
 
 If frontier AI access becomes visibly conditional, opaque, and revocable, the long-term result may not be obedience. It may be exit planning.
+
+The signs will not always look dramatic. They will look like procurement teams demanding multi-model fallback plans, researchers avoiding single-provider dependence, governments funding sovereign or local AI capacity, and allies asking for clearer access guarantees before building sensitive workflows on U.S.-controlled systems. A rival does not need to win everyone at once. It only needs the dominant system to teach users how to leave.
 
 The question after Anthropic is not only whether Fable and Mythos should have been restricted. The deeper question is what the restriction taught everyone else. If the lesson is that U.S.-led frontier AI is powerful but unreliable, then the United States will have protected the model and weakened the order.
 
