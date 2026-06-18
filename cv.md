@@ -96,7 +96,8 @@ Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready
 
 **Kim, Jooyeol.** 2026. “Performed Transparency: Media Visibility, Procedural Accountability, and Democratic Resilience in South Korea.”  
 **Sole-authored.** Paper proposal accepted for oral in-person presentation at the IPSA Regional Conference in Wrocław 2026, Track 2: Information, Media, and Technology, Wrocław, Poland, 14–16 October 2026.  
-Final programme inclusion is subject to registration and conference requirements.
+Final programme inclusion is subject to registration and conference requirements.  
+[Public record PDF](records/IPSA_2026_Accepted_Paper_Proposal_Record_JooyeolKim.pdf)
 
 ### Midlands Conference in Critical Thought 2026
 
