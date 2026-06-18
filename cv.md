@@ -6,15 +6,15 @@ It is not a complete academic CV. It is a compact public record for readers who 
 
 ---
 
-## Snapshot — May 2026
+## Snapshot — June 2026
 
 Independent researcher based in South Korea. All listed conference works are sole-authored unless otherwise noted.
 
-In my first academic submission season beginning in January 2026, my work has been accepted across multiple international venues in STS, platform governance, internet research, labour studies, digital governance, and critical theory.
+In my first academic submission season beginning in January 2026, my work has been accepted across multiple international venues in STS, platform governance, internet research, labour studies, digital governance, industrial relations, political science, media accountability, and critical theory.
 
-The work is primarily theoretical, diagnostic, and framework-oriented: it develops conceptual tools for identifying recurring structural patterns across AI governance, platform systems, labour pressure, and institutional responsibility.
+The work is primarily theoretical, diagnostic, and framework-oriented: it develops conceptual tools for identifying recurring structural patterns across AI governance, platform systems, labour pressure, digitally mediated political judgment, institutional responsibility, and repair.
 
-Current accepted-work stack includes 4S, AoIR, BSA Work, Employment & Society, EASST, ILERA Asia, EGOV / IFIP EGOV, and MCCT.
+Current accepted-work stack includes 4S, AoIR, BSA Work, Employment & Society, EASST, ILERA Asia, EGOV / IFIP EGOV, IPSA Regional Conference in Wrocław 2026, and MCCT.
 
 Proceedings-eligible acceptance currently includes EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, subject to registration, camera-ready submission, and venue requirements. An additional HCII 2026 / AI-HCI 2026 Late Breaking Paper was accepted for presentation and Springer LNCS Late Breaking Papers consideration, but was not registered or converted because registration / funding constraints prevented participation.
 
@@ -26,7 +26,7 @@ For accepted-output cost bottlenecks, support-route checks, and bridge-support t
 
 ## Current position
 
-Independent researcher and analytical writer working on governance, platform systems, labour, AI, and interaction-level repair.
+Independent researcher and analytical writer working on governance, platform systems, labour, AI, political communication, and interaction-level repair.
 
 Current focus areas include:
 
@@ -34,6 +34,7 @@ Current focus areas include:
 - addressability loss and procedural repair in AI-mediated consequential decisions
 - platform governance and access infrastructures
 - digital governance, legislation, and responsibility recoverability
+- digitally mediated political judgment, media visibility, and democratic resilience
 - labour pressure, burden transfer, and institutional bottlenecks
 - feasible-set governance and structured decision environments
 - framework-based diagnostic writing
@@ -81,7 +82,7 @@ Final programme inclusion is subject to presenter registration.
 
 **Kim, Jooyeol.** 2026. “Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.”  
 **Sole-authored.** Accepted for oral presentation at the ILERA Asian Regional Congress 2026, Tokyo, Japan. Peer-reviewed abstract.  
-Final programme inclusion is subject to presenter registration.  
+Final programme inclusion is subject to presenter registration and conference requirements.  
 [Public record PDF](records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf)
 
 ### EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026
@@ -90,6 +91,12 @@ Final programme inclusion is subject to presenter registration.
 **Sole-authored.** Reflections/viewpoint paper accepted for presentation at EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, Governance, Digital Legislation & Policy Track, Athens, Greece.  
 Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready submission, formatting compliance, publication choice, author registration, and venue requirements.  
 [Public record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
+
+### IPSA Regional Conference in Wrocław 2026
+
+**Kim, Jooyeol.** 2026. “Performed Transparency: Media Visibility, Procedural Accountability, and Democratic Resilience in South Korea.”  
+**Sole-authored.** Paper proposal accepted for oral in-person presentation at the IPSA Regional Conference in Wrocław 2026, Track 2: Information, Media, and Technology, Wrocław, Poland, 14–16 October 2026.  
+Final programme inclusion is subject to registration and conference requirements.
 
 ### Midlands Conference in Critical Thought 2026
 
