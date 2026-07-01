@@ -38,6 +38,14 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ---
 
+## Essays and political economy
+
+- **The Landlord at the End of the AI Boom**  
+  A public essay on San Francisco’s AI housing boom, spatial gate rent, and how AI-sector value becomes collectible through ownership of urban access.  
+  [Read](essays/2026-07-02-the-landlord-at-the-end-of-the-ai-boom.md)
+
+---
+
 ## Labour and compensation
 
 - **Performance Attribution Symmetry**  
