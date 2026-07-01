@@ -28,6 +28,12 @@ A public essay on the Anthropic Fable/Mythos access shock, arguing that frontier
 **Useful for:** AI governance researchers, journalists, policy audiences, strategic-technology readers  
 [Read](essays/2026-06-16-the-off-switch-is-the-message.md)
 
+### The Landlord at the End of the AI Boom
+A public essay on San Francisco’s AI housing boom, spatial gate rent, and how AI-sector value becomes collectible through ownership of urban access.
+
+**Useful for:** journalists, urban-policy audiences, AI political-economy readers, housing and labour researchers  
+[Read](essays/2026-07-02-the-landlord-at-the-end-of-the-ai-boom.md)
+
 ### AI Deployment Risk Clarity Review
 A CIEA-powered public sample showing how an AI deployment that looks efficient on paper can be reviewed for verification, escalation, rollback, accountability, and user/frontline burden before broader rollout.
 
