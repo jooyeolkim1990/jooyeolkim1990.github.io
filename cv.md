@@ -6,7 +6,7 @@ It is not a complete academic CV. It is a compact public record for readers who 
 
 ---
 
-## Snapshot — June 2026
+## Snapshot — July 2026
 
 Independent researcher based in South Korea. All listed conference works are sole-authored unless otherwise noted.
 
@@ -14,9 +14,9 @@ In my first academic submission season beginning in January 2026, my work has be
 
 The work is primarily theoretical, diagnostic, and framework-oriented: it develops conceptual tools for identifying recurring structural patterns across AI governance, platform systems, labour pressure, digitally mediated political judgment, institutional responsibility, and repair.
 
-Current accepted-work stack includes 4S, AoIR, BSA Work, Employment & Society, EASST, ILERA Asia, EGOV / IFIP EGOV, IPSA Regional Conference in Wrocław 2026, and MCCT.
+Current active or converted accepted-work stack includes 4S, AoIR, EASST, ILERA Asia, IPSA Regional Conference in Wrocław 2026, and MCCT.
 
-Proceedings-eligible acceptance currently includes EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, subject to registration, camera-ready submission, and venue requirements. An additional HCII 2026 / AI-HCI 2026 Late Breaking Paper was accepted for presentation and Springer LNCS Late Breaking Papers consideration, but was not registered or converted because registration / funding constraints prevented participation.
+Additional accepted-but-not-converted records include EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, BSA Work, Employment & Society Conference 2026, and HCII 2026 / AI-HCI 2026. These items were accepted but could not be converted because registration, proceedings, camera-ready, funding, travel, accommodation, or in-person participation constraints prevented participation or formal record conversion.
 
 At MCCT 2026, one presentation was completed; a second presentation was accepted and programme-listed, but remote delivery was disrupted because of IT issues; the organizer later circulated the presentation and accompanying note to the stream.
 
@@ -49,7 +49,7 @@ Current focus areas include:
 
 ---
 
-## Accepted / forthcoming conference work
+## Active, forthcoming, or converted conference work
 
 ### 4S 2026 / Society for Social Studies of Science
 
@@ -65,13 +65,6 @@ Hybrid participation is supported; final participation is subject to registratio
 Final programme participation is subject to presenter registration. Presented, non-anonymized final extended abstract due after the conference according to AoIR submission guidelines.  
 [Public record PDF](records/AoIR_2026_Accepted_Paper_Proposal_Extended_Abstract_Record_JooyeolKim.pdf)
 
-### BSA Work, Employment & Society Conference 2026
-
-**Kim, Jooyeol.** 2026. “Extended Life Courses, Structural Labour Pressure, and the Reabsorption of Time in the Polycrisis.”  
-**Sole-authored.** Accepted for oral presentation at the BSA Work, Employment & Society Conference 2026, Open Stream, University of Bath, Bath, UK, 9–11 September 2026.  
-Final programme inclusion is subject to presenter registration.  
-[Public record PDF](records/BSA_WES_2026_Accepted_Oral_Presentation_Abstract_Record_JooyeolKim.pdf)
-
 ### EASST 2026
 
 **Kim, Jooyeol.** 2026. “Participation as a Condition of Access: Platform Infrastructures and the Origins of Data Extraction.”  
@@ -84,13 +77,6 @@ Final programme inclusion is subject to presenter registration.
 **Sole-authored.** Accepted for oral presentation at the ILERA Asian Regional Congress 2026, Tokyo, Japan. Peer-reviewed abstract.  
 Final programme inclusion is subject to presenter registration and conference requirements.  
 [Public record PDF](records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf)
-
-### EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026
-
-**Kim, Jooyeol.** 2026. “The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.”  
-**Sole-authored.** Reflections/viewpoint paper accepted for presentation at EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, Governance, Digital Legislation & Policy Track, Athens, Greece.  
-Eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready submission, formatting compliance, publication choice, author registration, and venue requirements.  
-[Public record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
 
 ### IPSA Regional Conference in Wrocław 2026
 
@@ -112,6 +98,20 @@ Final programme inclusion is subject to registration and conference requirements
 ---
 
 ## Accepted but not converted
+
+### EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026
+
+**Kim, Jooyeol.** 2026. “The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.”  
+**Sole-authored.** Reflections/viewpoint paper accepted for presentation at EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026, Governance, Digital Legislation & Policy Track, Athens, Greece.  
+Initially eligible for inclusion in the TU Delft OPEN Proceedings, subject to camera-ready submission, formatting compliance, publication choice, author registration, and venue requirements. The item was withdrawn from the proceedings route after registration, in-person participation, and funding/travel constraints made conversion infeasible. Do not treat this item as a completed presentation or proceedings publication.  
+[Public record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
+
+### BSA Work, Employment & Society Conference 2026
+
+**Kim, Jooyeol.** 2026. “Extended Life Courses, Structural Labour Pressure, and the Reabsorption of Time in the Polycrisis.”  
+**Sole-authored.** Accepted for oral presentation at the BSA Work, Employment & Society Conference 2026, Open Stream, University of Bath, Bath, UK, 9–11 September 2026.  
+Withdrawn by the author on 2026-07-07 before the accepted-presenter registration deadline because in-person registration, travel, and accommodation could not be converted. Not registered, not presented, and not converted.  
+[Public record PDF](records/BSA_WES_2026_Accepted_Oral_Presentation_Abstract_Record_JooyeolKim.pdf)
 
 ### HCII 2026 / Artificial Intelligence in HCI 2026
 
