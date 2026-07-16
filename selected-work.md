@@ -22,6 +22,12 @@ A public diagnostic sample on youth part-time labour shortages, job-package viab
 
 ## AI / platform governance
 
+### You Agreed to the Rule. Did You Agree to the Experiment?
+A public essay on ICML 2026, reciprocal peer review, policy experimentation, and the governance problem that arises when the experimenter also controls the gate, the rules, and the sanctions.
+
+**Useful for:** AI governance researchers, research-integrity audiences, conference organizers, journal editors, and science-policy readers  
+[Read](essays/2026-07-16-you-agreed-to-the-rule-did-you-agree-to-the-experiment.md)
+
 ### The Off-Switch Is the Message
 A public essay on the Anthropic Fable/Mythos access shock, arguing that frontier AI access can shift from commercial product to revocable security permission, turning global contribution into access risk and burning order-level trust.
 
