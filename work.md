@@ -38,6 +38,14 @@ For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-
 
 ---
 
+## Research governance and academic institutions
+
+- **You Agreed to the Rule. Did You Agree to the Experiment?**  
+  An essay on ICML 2026, gatekeeper experimentation, reciprocal peer review, consent, enforcement, and institutional responsibility.  
+  [Read](essays/2026-07-16-you-agreed-to-the-rule-did-you-agree-to-the-experiment.md)
+
+---
+
 ## Essays and political economy
 
 - **The Landlord at the End of the AI Boom**  
