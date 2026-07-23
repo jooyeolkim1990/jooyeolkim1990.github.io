@@ -106,8 +106,32 @@ img { max-width: 100%; height: auto; }
 }
 @media (max-width: 680px) {
   .shell { width: min(calc(100% - 28px), var(--shell)); }
-  .header-inner { flex-direction: column; gap: 12px; }
-  .site-nav { justify-content: flex-start; gap: 8px 14px; }
+  .site-header {
+    position: static;
+    border-bottom: 2px solid var(--copper);
+    background: var(--paper);
+    backdrop-filter: none;
+  }
+  .header-inner {
+    width: 100%;
+    flex-direction: column;
+    gap: 0;
+    padding: 0;
+  }
+  .site-brand {
+    width: min(calc(100% - 28px), var(--shell));
+    margin-inline: auto;
+    padding: 16px 0 14px;
+  }
+  .site-nav {
+    width: 100%;
+    max-width: none;
+    justify-content: flex-start;
+    gap: 8px 14px;
+    padding: 14px;
+    border-top: 1px solid rgba(16, 27, 42, .12);
+    background: #ece6db;
+  }
   .hero-grid { padding: 58px 0 52px; gap: 32px; }
   .hero-name { font-size: clamp(3.8rem, 18vw, 5.5rem); line-height: .9; }
   .hero-role { margin-top: 18px; font-size: clamp(1.3rem, 6vw, 1.7rem); }
