@@ -1,88 +1,45 @@
+---
+title: Work With Me
+description: Scoped diagnostic briefs, analytical reviews, and research collaboration with Jooyeol Kim.
+---
+
 # Work With Me
 
-I am an independent researcher and analytical writer working on governance, platform systems, labour, and AI.
+I turn unclear institutional, platform, labour, and AI-governance problems into **named, reviewable structures**.
 
-My public work focuses on short analytical briefs, framework-based diagnostics, and readable notes that translate structural problems into compact, linkable formats.
-
-Selected work has been accepted across 2026 venues in HCI/AI-HCI, sociology of work and employment, STS, labour and industrial relations, digital government, and critical thought. For accepted presentations and public identifiers, see [Public Record](cv.md).
-
-For commissioned diagnostic memos, policy framing briefs, research collaboration, or scoped analytical reviews, contact: **contact@jooyeolkim.com**.
-
-## What I do
-
-- **Diagnostic notes and risk clarity reviews**  
-  Short scoped reviews that turn vague operational, policy, or governance discomfort into a named problem, exposure map, review-now questions, and decision-ready memo format. Examples include AI deployment readiness, platform remedy reachability, labour-job viability, and safety-visibility reviews.
-
-- **AI deployment risk clarity reviews**  
-  Short diagnostic reviews that identify verification, escalation, rollback, accountability, and user/frontline burden gaps before AI systems are expanded.
-
-- **Policy and governance briefs**  
-  Short public-facing or client-facing notes on institutional design, implementation bottlenecks, and procedural risk.
-
-- **Framework-based diagnostic writing**  
-  Analytical notes that use original frameworks to clarify recurring structural problems across cases.
-
-- **AI and platform governance analysis**  
-  Work on AI rhetoric, responsibility structures, candidate-set power, and post-diffusion order.
-
-- **Research framing and concept development**  
-  Help with sharpening a concept, finding the actual bottleneck, and turning an idea into a clearer analytical structure.
-
-- **Public analytical pages**  
-  Compact writing designed to be readable by journalists, policy staff, civic organizations, and research teams without requiring full academic apparatus.
-
-## Who this is for
-
-My work is most useful for:
-
-- policy staff
-- journalists
-- civic and advocacy organizations
-- independent research teams
-- governance, trust, and accountability audiences
-- product, platform, and AI-risk readers who need problem clarification before action
+The useful starting point is often not a request for a grand solution. It is a situation in which something feels wrong, a performance claim looks too clean, responsibility is hard to locate, or an appeal and correction path is missing.
 
 ## Typical outputs
 
-Depending on the case, I can help produce:
+<div class="index-grid">
+  <div class="index-item"><h2>Problem-naming note</h2><p>A compact one-page note that identifies the actual problem, why the ordinary framing misses it, and what must be checked next.</p></div>
+  <div class="index-item"><h2>Diagnostic brief</h2><p>A three-to-five-page review of the claim, hidden burden, responsibility path, verification gap, and decision-facing implications.</p></div>
+  <div class="index-item"><h2>Responsibility or appeal map</h2><p>A map of who can act, who must answer, where escalation stops, and whether correction, rollback, or remedy is reachable.</p></div>
+  <div class="index-item"><h2>Scoped structural review</h2><p>A comparative or framework-assisted analysis of an institutional design, platform rule, AI deployment, labour arrangement, or public-policy bottleneck.</p></div>
+</div>
 
-- short analytical briefs
-- diagnostic memos
-- comparative notes
-- framework-based overview pages
-- public-facing governance analysis
-- risk clarity reviews
-- policy framing notes
-- executive briefing notes
+## Current areas
 
-## Selected current pages
+- AI deployment risk clarity;
+- platform visibility, access, and remedy reachability;
+- institutional responsibility and repair;
+- labour pressure, work-package viability, and burden transfer;
+- performance claims that exclude verification or rollback costs;
+- public-facing research framing and concept development.
 
-- [AI Deployment Risk Clarity Review](ciea/samples/ai-deployment-risk-clarity-review.md)  
-  A CIEA-powered public sample for reviewing AI deployment readiness through verification, escalation, rollback, accountability, and user/frontline burden.
+## Public samples
 
-- [Pharmacy Safety UX Review — Public Sample](samples/pharmacy-safety-ux-review.md)  
-  A public visual sample showing how a retail pharmacy debate can be reframed as a safety-visibility and intervention-timing problem.
+- [AI Deployment Risk Clarity Review](ciea/samples/ai-deployment-risk-clarity-review.html)
+- [Fast Answers, Slow Responsibility](ciea/cases/ai-customer-support-korea.html)
+- [Pharmacy Safety UX Review](samples/pharmacy-safety-ux-review.html)
+- [When Part-Time Work Stops Functioning as a Job](briefs/labour/youth-part-time-job-package-collapse.html)
+- [Agentic AI Authority Cutoff Review](tools/agentic-ai/authority-cutoff-review.html)
 
-- [When Part-Time Work Stops Functioning as a Job](briefs/labour/youth-part-time-job-package-collapse.md)  
-  A policy diagnostic sample on youth part-time labour shortages, job-package viability, short peak-time shifts, schedule instability, and hidden transition burdens.
+## Boundaries
 
-- [Yellow Envelope Act (Korea): Early Procedural Risk](briefs/policy/yellow-envelope-act-procedural-risk.md)  
-  A short policy brief on early implementation bottlenecks, user-status friction, and procedural risk.
+Public samples show the analytical surface and the form of a useful output. They do not publish every private scoring rule, threshold, internal worksheet, or draft lineage.
 
-- [AI After Leakage: Three Order Scenarios](briefs/ai-governance/ai-after-leakage.md)  
-  A public analytical note on post-diffusion order after frontier-model leakage.
-
-- [AI Safety Rhetoric: Self-Binding or Blame Shield?](briefs/ai-governance/ai-safety-rhetoric.md)  
-  A governance-oriented note on whether safety language descends into real operational constraints.
-
-- [Agentic AI Authority Cutoff Review](tools/agentic-ai/authority-cutoff-review.md)  
-  A governance review on when execution-capable AI systems should remain read-only, stay gated, or be frozen before authority expansion.
-
-- [Feasible-Set Governance: Framework Overview](frameworks/feasible-set-governance.md)  
-  A framework page on how candidate sets are structured before choice begins.
-
-- [When Child-Facing AI Stops Being “Just a Toy”](briefs/ai-governance/child-facing-ai-risk.md)  
-  A governance and product-risk review for child-facing conversational systems and companion-style interactive products.
+The scope, evidence base, public or private status, timeline, and deliverable should be agreed before work begins. A request may also be declined when the evidence is too weak, the problem is not meaningfully reviewable, or the requested claim would exceed what the material supports.
 
 ## Contact
 
@@ -94,12 +51,4 @@ For formal academic or conference correspondence:
 
 **jooyeol@jooyeolkim.com**
 
-You can also start with the [Selected Work](selected-work.md) page for a quicker overview.
-
----
-
-## Support the work 🦭
-
-This work is built outside the formal academic pipeline, without institutional funding or a lab structure. Small support helps sustain research time, public documentation, conference participation, and basic infrastructure.
-
-[✍️ Support this work](https://www.buymeacoffee.com/jooyeolkim1990)
+Before writing, you may review [Selected Work](selected-work.html) or verify the [Public Record](cv.html).

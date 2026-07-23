@@ -1,117 +1,55 @@
+---
+title: Selected Work
+description: A compact selection of public analytical work by Jooyeol Kim.
+---
+
 # Selected Work
 
-This page highlights a small number of public pieces that best represent my current work.
+This page is deliberately small. It shows a few pieces that best represent the current range of public work: diagnostic review, issue analysis, framework development, and longer argument.
 
-The focus is not on building a large archive, but on showing a few compact samples across policy, governance, AI, and framework-based analysis.
+<div class="index-grid">
+  <div class="index-item">
+    <h2><a href="ciea/samples/ai-deployment-risk-clarity-review.html">AI Deployment Risk Clarity Review</a></h2>
+    <p>A public diagnostic sample for identifying verification, escalation, rollback, accountability, and user or frontline burden gaps before wider AI deployment.</p>
+    <strong>Best for:</strong> AI governance, product risk, trust and safety, policy, customer-support automation.
+  </div>
 
-## Policy / institutional analysis
+  <div class="index-item">
+    <h2><a href="ciea/cases/ai-customer-support-korea.html">Fast Answers, Slow Responsibility</a></h2>
+    <p>A CIEA-M1 sample testing whether AI customer support removes the real bottleneck or shifts it into risk classification, legal responsibility, human escalation, and frontline labour.</p>
+    <strong>Best for:</strong> public-service design, AI deployment review, labour and accountability audiences.
+  </div>
 
-### Yellow Envelope Act (Korea): Early Procedural Risk
-A short policy brief on early implementation bottlenecks, user-status friction, and procedural risk under Korea’s Yellow Envelope Act. It focuses on operational friction rather than ideological debate.
+  <div class="index-item">
+    <h2><a href="essays/2026-07-02-the-landlord-at-the-end-of-the-ai-boom.html">The Landlord at the End of the AI Boom</a></h2>
+    <p>An essay on spatial gate rent and how AI-sector value becomes collectible through ownership of urban access.</p>
+    <strong>Best for:</strong> AI political economy, housing, urban policy, labour, and editorial audiences.
+  </div>
 
-**Useful for:** policy staff, journalists, civic organizations  
-[Read](briefs/policy/yellow-envelope-act-procedural-risk.md)
+  <div class="index-item">
+    <h2><a href="briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.html">Capital Played Global. Labor Reads Global Too.</a></h2>
+    <p>An analysis of how wage settlements, bonus formulas, and housing-credit benefits become compensation benchmarks before full institutions travel.</p>
+    <strong>Best for:</strong> labour, compensation, industrial relations, and political-economy readers.
+  </div>
 
-### When Part-Time Work Stops Functioning as a Job
-A public diagnostic sample on youth part-time labour shortages, job-package viability, short peak-time shifts, schedule instability, and hidden transition burdens.
+  <div class="index-item">
+    <h2><a href="briefs/governance/2026-06-26-ib-public-contract-geneva.html">Who Really Controls South Korea’s Public School Reform?</a></h2>
+    <p>A public-contract reading of certification authority, legal jurisdiction, language priority, data, and what remains in public hands after public spending.</p>
+    <strong>Best for:</strong> education policy, public contracting, institutional design, and journalism.
+  </div>
 
-**Useful for:** labour-policy audiences, local governments, journalists, youth-employment researchers  
-[Read](briefs/labour/youth-part-time-job-package-collapse.md)
+  <div class="index-item">
+    <h2><a href="frameworks/feasible-set-governance.html">Feasible-Set Governance</a></h2>
+    <p>A framework page on how candidate universes are structured before bounded actors appear to make a choice.</p>
+    <strong>Best for:</strong> governance research, platform analysis, selection systems, and concept-driven readers.
+  </div>
+</div>
 
----
+## Continue by route
 
-## AI / platform governance
-
-### The Off-Switch Is the Message
-A public essay on the Anthropic Fable/Mythos access shock, arguing that frontier AI access can shift from commercial product to revocable security permission, turning global contribution into access risk and burning order-level trust.
-
-**Useful for:** AI governance researchers, journalists, policy audiences, strategic-technology readers  
-[Read](essays/2026-06-16-the-off-switch-is-the-message.md)
-
-### The Landlord at the End of the AI Boom
-A public essay on San Francisco’s AI housing boom, spatial gate rent, and how AI-sector value becomes collectible through ownership of urban access.
-
-**Useful for:** journalists, urban-policy audiences, AI political-economy readers, housing and labour researchers  
-[Read](essays/2026-07-02-the-landlord-at-the-end-of-the-ai-boom.md)
-
-### AI Deployment Risk Clarity Review
-A CIEA-powered public sample showing how an AI deployment that looks efficient on paper can be reviewed for verification, escalation, rollback, accountability, and user/frontline burden before broader rollout.
-
-**Useful for:** AI governance, product-risk, customer-support automation, trust-and-safety, policy audiences  
-[Read](ciea/samples/ai-deployment-risk-clarity-review.md)
-
-### Fast Answers, Slow Responsibility
-A CIEA-M1 public sample testing whether AI customer support removes the real bottleneck or shifts it into risk classification, legal responsibility, human escalation, and frontline emotional labor.
-
-**Useful for:** AI governance, public-service design, customer-support automation, policy audiences  
-[Read](ciea/cases/ai-customer-support-korea.md)
-
-### CIEA Automation Quality Audit Extension
-A CIEA patch for auditing AI automation claims through output quality, warranty gap, verification burden, rollback cost, and accountability collateral.
-
-**Useful for:** AI governance, product-risk, enterprise automation, legal / trust-and-safety audiences  
-[Read](ciea/automation-quality-audit.md)
-
-
-### AI After Leakage: Three Order Scenarios
-A public analytical note on post-diffusion order after frontier-model leakage. The note asks what kind of order emerges after partial diffusion rather than assuming that containment is the only meaningful question.
-
-**Useful for:** AI governance audiences, research teams, journalists  
-[Read](briefs/ai-governance/ai-after-leakage.md)
-
-
-### When Systems Stop Absorbing Their Own Risk
-A public essay arguing that what is often framed as “tech backlash” is better understood as a politics of displaced accountability: visible anger produced when systems make consequential decisions while pushing responsibility out of reach.
-
-**Useful for:** journalists, editors, governance audiences, political-economy readers  
-[Read](cases/systems-risk-absorption.md)
-
-
-### AI Safety Rhetoric: Self-Binding or Blame Shield?
-A governance-oriented note on whether frontier AI companies’ public safety language actually descends into access rules, operational constraints, and responsibility-bearing commitments.
-
-**Useful for:** governance researchers, journalists, policy audiences  
-[Read](briefs/ai-governance/ai-safety-rhetoric.md)
-
-
-### Moral AI, Gated Access
-A case essay and companion tracking note on Anthropic’s moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.
-
-**Useful for:** AI governance researchers, journalists, policy audiences  
-[Read essay](cases/anthropic-moral-ai-gated-access.md) · [Open tracking note](log/2026-04-26-anthropic-access-structure-tracking.md)
-
----
-
-## AI governance / authority review
-
-### Agentic AI Authority Cutoff Review
-A governance review for deciding when an AI system should remain read-only, stay gated, or be frozen before authority expansion. It is built around delegated authority, irreversible actions, shutdown tiers, containment, and accountability binding.
-
-**Useful for:** governance, legal, trust and safety, product-risk audiences  
-[Read](tools/agentic-ai/authority-cutoff-review.md)
-
----
-
-## Framework-based work
-
-### Feasible-Set Governance: Framework Overview
-A framework page on how candidate sets are structured before choice begins. It shifts analysis upstream from final decision to the governance of the candidate universe itself.
-
-**Useful for:** research teams, governance audiences, concept-driven readers  
-[Read](frameworks/feasible-set-governance.md)
-
-## AI product risk / governance
-
-### When Child-Facing AI Stops Being “Just a Toy”
-A governance and product-risk review for child-facing conversational systems, AI-enabled toys, and companion-style interactive products. It focuses on classification gap, companion drift, child-specific vulnerability, and product-liability exposure.
-
-**Useful for:** product, legal, governance, and trust-and-safety audiences  
-[Read](briefs/ai-governance/child-facing-ai-risk.md)
-
----
-
-## More
-
-For a broader list of public pages, see [Work](work.md).  
-For accepted presentations and public identifiers, see [Public Record](cv.md).  
-For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-me.md).
+- [Ideas & Frameworks](ideas/)
+- [Issues & Analysis](analysis/)
+- [Diagnostic Work](diagnostics/)
+- [Essays & Papers](essays/)
+- [Public Record](cv.html)
+- [Work With Me](work-with-me.html)

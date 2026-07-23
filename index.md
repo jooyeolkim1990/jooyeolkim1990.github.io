@@ -1,207 +1,100 @@
-# Jooyeol Kim
-
-**Independent research on AI-era selection, visibility, responsibility, and repair.**
-
-This site is a public research portfolio and workbench for selected analytical notes, governance briefs, diagnostic samples, framework pages, and conference records.
-
-<style>
-.route-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0 1.25rem 0;
-}
-.route-card {
-  display: block;
-  min-height: 155px;
-  padding: 1.15rem 1.15rem 1rem 1.15rem;
-  border: 1px solid #d7d7d7;
-  border-radius: 14px;
-  text-decoration: none;
-  color: inherit;
-  background: #fff;
-}
-.route-card:hover {
-  border-color: #777;
-  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
-}
-.route-label {
-  display: inline-block;
-  margin-bottom: 0.55rem;
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #666;
-}
-.route-card h2 {
-  margin: 0 0 0.55rem 0;
-  font-size: 1.25rem;
-}
-.route-card p {
-  margin: 0;
-  line-height: 1.45;
-}
-.proof-strip {
-  margin: 1rem 0 1.5rem 0;
-  padding: 0.9rem 1rem;
-  border-left: 4px solid #555;
-  background: #f7f7f7;
-}
-.feature-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1rem;
-  margin: 1rem 0;
-}
-.feature-card {
-  padding: 1rem;
-  border: 1px solid #e1e1e1;
-  border-radius: 12px;
-  background: #fafafa;
-}
-.feature-card h3 {
-  margin-top: 0;
-}
-.small-note {
-  font-size: 0.95rem;
-  color: #555;
-}
-</style>
-
+---
+title: Jooyeol Kim
+description: Independent research on AI, institutions, and systems of responsibility.
+home: true
 ---
 
-## Start here
+<section class="hero">
+  <div class="shell hero-grid">
+    <div>
+      <span class="eyebrow">Independent researcher · South Korea</span>
+      <h1 class="hero-name">Jooyeol Kim</h1>
+      <p class="hero-role">Independent research on AI, institutions, and systems of responsibility.</p>
+      <p class="hero-summary">I examine how digital systems shape visibility, pressure, accountability, and repair.</p>
+      <div class="actions">
+        <a class="button primary" href="selected-work.html">See selected work</a>
+        <a class="button secondary" href="cv.html">Verify the public record</a>
+      </div>
+    </div>
 
-Choose the shortest route for what you want to inspect.
-
-<div class="route-grid">
-  <a class="route-card" href="cv.html">
-    <span class="route-label">Verification</span>
-    <h2>Public Record</h2>
-    <p>Accepted presentations, public identifiers, conference records, and current proof surface.</p>
-  </a>
-
-  <a class="route-card" href="selected-work.html">
-    <span class="route-label">Portfolio</span>
-    <h2>Selected Work</h2>
-    <p>Curated essays, briefs, framework pages, and proof-of-work for quick review.</p>
-  </a>
-
-  <a class="route-card" href="work.html">
-    <span class="route-label">Samples</span>
-    <h2>Diagnostic Samples</h2>
-    <p>Risk clarity reviews, applied diagnostic notes, governance memos, and public sample formats.</p>
-  </a>
-
-  <a class="route-card" href="work-with-me.html">
-    <span class="route-label">Contact</span>
-    <h2>Work With Me</h2>
-    <p>Scoped memos, diagnostic reviews, collaboration routes, and commissioned-analysis inquiries.</p>
-  </a>
-</div>
-
-<div class="proof-strip">
-  <strong>Current proof snapshot:</strong> My current sole-authored work has been accepted across 2026 venues in science and technology studies, internet and platform studies, sociology of work and employment, labour and industrial relations, digital government, and critical thought.
-  <br>
-  <span class="small-note">For the full site map, see <a href="start-here.html">Start Here</a>.</span>
-</div>
-
----
-
-## Featured paths
-
-<div class="feature-grid">
-  <div class="feature-card">
-    <h3>AI Deployment Risk Clarity Review</h3>
-    <p>A public diagnostic sample for identifying verification, escalation, rollback, and accountability gaps before AI deployment.</p>
-    <p><a href="ciea/samples/ai-deployment-risk-clarity-review.html">Open sample</a></p>
+    <aside class="hero-panel" aria-label="Reading routes">
+      <div class="identity-strip">Public research system</div>
+      <h2>What brought you here?</h2>
+      <p>Use the shortest route for the question that brought you here.</p>
+      <div class="route-mini">
+        <a href="analysis/"><strong>What does he think?</strong>Start with issue analysis and public framework notes.</a>
+        <a href="diagnostics/"><strong>What can he produce?</strong>Open diagnostic samples, protocols, and applied reviews.</a>
+        <a href="cv.html"><strong>Can I verify it?</strong>Use the Public Record and source-linked pages.</a>
+      </div>
+    </aside>
   </div>
+</section>
 
-  <div class="feature-card">
-    <h3>Capital Played Global. Labor Reads Global Too.</h3>
-    <p>A public essay on how wage settlements, bonus formulas, and housing-credit benefits become compensation benchmarks before institutions travel.</p>
-    <p><a href="briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.html">Read essay</a></p>
+<section class="section">
+  <div class="shell">
+    <div class="section-head">
+      <span class="section-kicker">How the work begins</span>
+      <h2 class="section-title">Problems first. Frameworks when useful.</h2>
+      <p class="section-intro">The work can begin with a current event, an institutional failure, an existing framework, or a venue-specific question. The starting point does not determine the final form.</p>
+    </div>
+
+    <div class="card-grid">
+      <div class="card"><span class="card-label">Issue-led</span><h3>Start with a live problem.</h3><p>A policy change, company decision, research claim, or public controversy is examined for the structure that ordinary coverage leaves unnamed.</p></div>
+      <div class="card"><span class="card-label">Architecture-led</span><h3>Start with a reusable lens.</h3><p>A framework or audit architecture is tested across cases, revised at its boundaries, and translated into a public note or diagnostic output.</p></div>
+      <div class="card"><span class="card-label">Venue-led</span><h3>Start with an external question.</h3><p>A call for papers, editorial interest, or collaboration request becomes a scoped problem that can draw on the wider research system without exposing the whole engine.</p></div>
+    </div>
   </div>
+</section>
 
-  <div class="feature-card">
-    <h3>Fast Answers, Slow Responsibility</h3>
-    <p>A public sample testing whether AI customer support removed the bottleneck or moved it into legal responsibility, human escalation, and frontline labor.</p>
-    <p><a href="ciea/cases/ai-customer-support-korea.html">Read sample</a></p>
+<section class="section alt">
+  <div class="shell">
+    <div class="section-head">
+      <span class="section-kicker">Public routes</span>
+      <h2 class="section-title">Read by output, not by internal filing system.</h2>
+      <p class="section-intro">The public site separates concepts, live analysis, diagnostic work, and finished essays while keeping the links between them visible.</p>
+    </div>
+
+    <div class="card-grid four">
+      <a class="card route-card" href="ideas/"><span class="card-label">Concepts</span><h3>Ideas &amp; Frameworks</h3><p>Public notes on reusable concepts, models, and analytical architectures.</p></a>
+      <a class="card route-card" href="analysis/"><span class="card-label">Current problems</span><h3>Issues &amp; Analysis</h3><p>Issue-first readings of policy, platforms, labour, institutions, and AI.</p></a>
+      <a class="card route-card" href="diagnostics/"><span class="card-label">Applied work</span><h3>Diagnostic Work</h3><p>Samples, audit structures, protocols, and decision-ready review formats.</p></a>
+      <a class="card route-card" href="essays/"><span class="card-label">Finished outputs</span><h3>Essays &amp; Papers</h3><p>Longer public arguments, papers, and venue-shaped work.</p></a>
+    </div>
   </div>
-</div>
+</section>
 
----
+<section class="section" id="selected">
+  <div class="shell">
+    <div class="section-head">
+      <span class="section-kicker">Selected paths</span>
+      <h2 class="section-title">A compact proof surface.</h2>
+      <p class="section-intro">Three routes show the current range: a diagnostic sample, a public essay, and the externally verifiable record.</p>
+    </div>
 
-## 2026 accepted work
+    <div class="work-grid">
+      <div class="work-card"><span class="card-label">Diagnostic sample</span><h3>AI Deployment Risk Clarity Review</h3><p>A public review format for identifying verification, escalation, rollback, accountability, and user or frontline burden gaps before wider AI deployment.</p><a href="ciea/samples/ai-deployment-risk-clarity-review.html">Open the sample →</a></div>
+      <div class="work-card"><span class="card-label">Public essay</span><h3>The Landlord at the End of the AI Boom</h3><p>An analysis of spatial gate rent and how AI-sector value becomes collectible through ownership of urban access.</p><a href="essays/2026-07-02-the-landlord-at-the-end-of-the-ai-boom.html">Read the essay →</a></div>
+      <div class="work-card"><span class="card-label">Verification</span><h3>Public Record</h3><p>Accepted work, presentation status, public identifiers, source-linked records, and conversion limits.</p><a href="cv.html">Verify the record →</a></div>
+    </div>
 
-- **4S 2026 / Society for Social Studies of Science**  
-  *No Warranty, No Rollback: Critical AI Literacy After Black-Box Automation.*  
-  Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, with hybrid participation supported.  
-  [Record PDF](records/4S_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
+    <div class="actions">
+      <a class="button primary" href="selected-work.html">Browse selected work</a>
+      <a class="button secondary" style="color:#18202a;border-color:#9a8065;" href="start-here.html">Open the full site map</a>
+    </div>
+  </div>
+</section>
 
-- **AoIR2026 / Association of Internet Researchers**  
-  *Regeneration and Redesign of Platform Environments: The Case of Advertising Tiers in Streaming Media.*  
-  Accepted paper proposal; onsite English presentation, subject to presenter registration.  
-  [Record PDF](records/AoIR_2026_Accepted_Paper_Proposal_Extended_Abstract_Record_JooyeolKim.pdf)
-
-- **BSA Work, Employment & Society Conference 2026**  
-  *Extended Life Courses, Structural Labour Pressure, and the Reabsorption of Time in the Polycrisis.*  
-  Accepted conference abstract record; oral presentation, Open Stream, subject to presenter registration.  
-  [Record PDF](records/BSA_WES_2026_Accepted_Oral_Presentation_Abstract_Record_JooyeolKim.pdf)
-
-- **EASST 2026**  
-  *Participation as a Condition of Access: Platform Infrastructures and the Origins of Data Extraction.*  
-  Abstract accepted for presentation.  
-  [Record PDF](records/EASST_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
-
-- **ILERA Asian Regional Congress 2026**  
-  *Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.*  
-  Peer-reviewed abstract accepted for oral presentation.  
-  [Record PDF](records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf)
-
-- **EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026**  
-  *The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication.*  
-  Reflections/viewpoint paper accepted for presentation; eligible for TU Delft OPEN Proceedings subject to conference requirements.  
-  [Record PDF](records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf)
-
-- **Midlands Conference in Critical Thought 2026**  
-  *Managed Dissipation* presented / completed; *Managed Hegemony* accepted and programme-listed, with remote delivery disrupted because of IT issues and the presentation materials later circulated to the stream by the organizer.  
-  [Record PDF](records/MCCT_2026_Participation_Record_JooyeolKim.pdf)
-
-[See Public Record](cv.html) · [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
-
----
-
-## Recent tracking notes
-
-- **When Disconnection Is Not Exit: Authentication, Phone Access, and Digitally Imposed Availability**  
-  *A public analytical log on smartphone-linked authentication as an infrastructure for everyday access, not merely a device of connection.*  
-  [Open note](log/2026-05-01-digital-disconnection-authentication-access.html)
-
-- **Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing**  
-  *A public tracking note on the BGF Retail logistics dispute, the fatal incident of April 20, and the government’s shifting post-incident framing of borderline labour cases.*  
-  [Open note](log/2026-04-27-yellow-envelope-act-bgf-reframing-update.html)
-
-- **Anthropic Access-Structure Tracking**  
-  *Public tracking note on moral branding, elastic consumer access, usage-limit opacity, and partner-gated frontier capability.*  
-  [Open note](log/2026-04-26-anthropic-access-structure-tracking.html)
-
-[Browse logs](log/)
-
----
-
-## More routes
-
-- [Full site map / Start Here](start-here.html)
-- [Selected Work](selected-work.html)
-- [Work index](work.html)
-- [Public Record](cv.html)
-- [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
-- [Work With Me](work-with-me.html)
-- [About](about.html)
-- [Contact](contact.html)
-
-## About this site
-
-This is **not** a news site, a legal advisory service, or a comprehensive archive.  
-It is a compact public workspace for **selected analytical notes**, **framework summaries**, **diagnostic samples**, and **time-stamped tracking pages**.
+<section class="proof-band">
+  <div class="shell proof-grid">
+    <div>
+      <span class="eyebrow">Public record &amp; scoped work</span>
+      <h2>Readable claims. Visible boundaries. Verifiable records.</h2>
+      <p>This site is a public portfolio and workbench, not a complete archive. Stable outputs are separated from tracking notes, and accepted work is described according to its actual conversion status.</p>
+    </div>
+    <div class="proof-links">
+      <a href="cv.html"><strong>Public Record</strong><br>Accepted work, participation status, and record PDFs.</a>
+      <a href="work-with-me.html"><strong>Work With Me</strong><br>Diagnostic briefs, scoped reviews, and collaboration routes.</a>
+      <a href="log/"><strong>Notes &amp; tracking</strong><br>Dated analytical logs and process records.</a>
+    </div>
+  </div>
+</section>

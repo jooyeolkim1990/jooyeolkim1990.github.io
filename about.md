@@ -1,21 +1,46 @@
+---
+title: About
+description: About Jooyeol Kim, an independent researcher based in South Korea.
+---
+
 # About
 
-I am an independent researcher and analytical writer working on governance, platform systems, labour, and AI.
+I am **Jooyeol Kim**, an independent researcher and analytical writer based in South Korea.
 
-My work focuses on short analytical briefs, framework-based diagnostics, and public-facing notes that translate structural problems into readable, linkable formats. Rather than treating policy, media, institutions, or technology as isolated domains, I look for the recurrent structures that connect them.
+My work examines how AI systems, platforms, labour arrangements, and public institutions shape:
 
-Current areas of work include:
+- choice and the candidate sets that precede it;
+- visibility and access;
+- pressure and burden transfer;
+- responsibility and accountability;
+- appeal, correction, rollback, and repair.
 
-- governance and institutional design
-- platform power and response structures
-- labour, pressure, and restructuring
-- AI rhetoric, responsibility, and post-diffusion order
-- framework-based analytical writing
+I work across several public forms rather than treating every idea as the same kind of output. A live issue may become a short analysis. A recurring pattern may become a framework note. A vague operational concern may become a diagnostic map or review protocol. A conference or editorial question may become a paper or essay.
 
-This site is a public workspace for selected briefs, analytical notes, and timestamped logs. It is not a complete archive of everything I am working on, but a curated surface for public-facing pieces and ongoing lines of analysis.
+## What this site is
 
-Selected work has been accepted for presentation at MCCT 2026, EASST 2026, and the ILERA Asian Regional Congress 2026.
+This site is a **public research portfolio and workbench**. It contains selected:
 
-For a quick overview, start with [Selected Work](selected-work.md).  
-For accepted presentations and public identifiers, see [Public Record](cv.md).  
-For collaboration or commissioned-brief inquiries, see [Work With Me](work-with-me.md).
+- analytical notes;
+- public framework pages;
+- diagnostic samples and protocols;
+- essays and papers;
+- dated tracking records;
+- externally verifiable conference and participation records.
+
+It is not a complete archive of private drafts, internal engines, correspondence, or every abandoned line of inquiry.
+
+## Working principle
+
+> Problems first. Frameworks when useful.
+
+The work can begin from a current event, a research claim, an institutional failure, an existing analytical architecture, or an external venue. The origin of a piece and its final public form are recorded separately.
+
+## Routes
+
+- [Selected Work](selected-work.html) — the fastest overview.
+- [Public Record](cv.html) — accepted work, actual status, identifiers, and record PDFs.
+- [Ideas & Frameworks](ideas/) — reusable public concepts.
+- [Issues & Analysis](analysis/) — problem-first public analysis.
+- [Diagnostic Work](diagnostics/) — samples, audits, and protocols.
+- [Work With Me](work-with-me.html) — scoped work and collaboration.

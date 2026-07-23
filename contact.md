@@ -1,18 +1,35 @@
+---
+title: Contact
+description: Contact Jooyeol Kim for research, media, collaboration, and scoped analytical work.
+---
+
 # Contact
 
-For commissioned briefs, research collaboration, media inquiries, invited conversations, or scoped analytical work, contact:
+## Scoped work, collaboration, and media inquiries
 
-- General inquiries: contact@jooyeolkim.com
-- Direct / formal correspondence: jooyeol@jooyeolkim.com
-- GitHub: https://github.com/jooyeolkim1990
-- LinkedIn: https://www.linkedin.com/in/jooyeolkim1990
+**contact@jooyeolkim.com**
 
-I am especially interested in conversations related to governance, platform power, policy analysis, labour, AI-related analytical work, access infrastructures, platform accountability, and institutional responsibility.
+Use this address for:
 
----
+- commissioned diagnostic briefs or analytical reviews;
+- research collaboration;
+- media and editorial inquiries;
+- invited conversations;
+- public-policy, platform, labour, or AI-governance questions.
+
+## Formal academic and conference correspondence
+
+**jooyeol@jooyeolkim.com**
+
+## Public profiles
+
+- [GitHub](https://github.com/jooyeolkim1990)
+- [LinkedIn](https://www.linkedin.com/in/jooyeolkim1990)
+- [Public Record](cv.html)
+- [Work With Me](work-with-me.html)
 
 ## Support the work 🦭
 
-This work is built outside the formal academic pipeline, without institutional funding or a lab structure. Small support helps sustain research time, public documentation, conference participation, and basic infrastructure.
+This work is built outside a formal lab or institutional funding structure. Small support helps sustain research time, public documentation, conference participation, and basic infrastructure.
 
-[✍️ Support this work](https://www.buymeacoffee.com/jooyeolkim1990)
+[Support this work](https://www.buymeacoffee.com/jooyeolkim1990)
