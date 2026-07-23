@@ -1,7 +1,16 @@
 title: Jooyeol Kim
-description: Independent research on AI-era visibility, responsibility, governance, and repair.
+description: Independent research on AI, institutions, and systems of responsibility.
 url: "https://jooyeolkim.com"
 lang: en_US
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 github:
   is_project_page: false
