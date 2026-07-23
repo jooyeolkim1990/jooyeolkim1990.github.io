@@ -1,41 +1,40 @@
+---
+title: Start Here
+description: Full public map of jooyeolkim.com.
+---
+
 # Start Here
 
-This site is organized as a research portfolio, not a blog archive.
+This site is a public research portfolio and workbench, not a chronological blog dump. Choose the route that matches what you need to inspect.
 
-The fastest path depends on what you want to inspect.
+<div class="index-grid">
+  <div class="index-item"><h2><a href="selected-work.html">Selected Work</a></h2><p>A small curated set for the fastest review of current work.</p></div>
+  <div class="index-item"><h2><a href="cv.html">Public Record</a></h2><p>Accepted work, actual conversion status, public identifiers, and record PDFs.</p></div>
+  <div class="index-item"><h2><a href="ideas/">Ideas & Frameworks</a></h2><p>Reusable concepts, models, and analytical architectures.</p></div>
+  <div class="index-item"><h2><a href="analysis/">Issues & Analysis</a></h2><p>Issue-first readings of AI, platforms, labour, policy, and institutions.</p></div>
+  <div class="index-item"><h2><a href="diagnostics/">Diagnostic Work</a></h2><p>Public samples, audit structures, protocols, and review formats.</p></div>
+  <div class="index-item"><h2><a href="essays/">Essays & Papers</a></h2><p>Longer public arguments and venue-shaped outputs.</p></div>
+  <div class="index-item"><h2><a href="work-with-me.html">Work With Me</a></h2><p>Scoped diagnostic memos, analytical reviews, and collaboration inquiries.</p></div>
+  <div class="index-item"><h2><a href="log/">Notes & Tracking</a></h2><p>Dated analytical logs and observation records.</p></div>
+</div>
 
-## If you want the main portfolio
+## Verification and identity
 
-- [Selected Work](selected-work.md) — curated public pieces and proof-of-work.
-- [Public Record](cv.md) — accepted presentations, public identifiers, and current verification surface.
-- [Work With Me](work-with-me.md) — collaboration and applied analysis page.
+- [About](about.html)
+- [Contact](contact.html)
+- [Public Record](cv.html)
+- [2026 Bridge Support Cost Table](support/bridge-2026-cost-table.html)
 
-## If you want the framework layer
+## Legacy indexes retained during the transition
 
-- [CIEA](ciea/) — performance-claim audit architecture for testing whether better-looking metrics reflect real improvement or hidden displacement, including AI automation quality and rollback costs.
-- [Frameworks](frameworks/) — broader conceptual frameworks, including Feasible-Set Governance and O3M.
+The following URLs remain available so that old links do not break:
 
-## If you want applied analysis
+- [Work](work.html)
+- [Frameworks](frameworks/)
+- [Cases](cases/)
+- [Briefs](briefs/)
+- [Tools](tools/)
+- [CIEA](ciea/)
+- [Archive](archive/)
 
-- [Cases](cases/) — framework-driven case essays and applied readings.
-- [Briefs](briefs/) — shorter AI governance, platform, and policy notes.
-- [Tools](tools/) — protocols, checklists, and review forms.
-
-## If you want process records
-
-- [Tracking Log](log/) — timestamped research and policy-tracking notes.
-- [Archive](archive/) — process records, pitch archive, old patches, and non-primary materials.
-
-## Current public map
-
-```text
-CIEA = audit architecture
-Frameworks = conceptual engines
-Cases = applied readings
-Briefs = short analysis
-Tools = usable protocols
-Log = timestamped tracking
-Archive = process history
-```
-
-[Return home](index.md)
+These sections reflect earlier internal and domain-based filing. The main navigation now presents the material by public output and reader route.
