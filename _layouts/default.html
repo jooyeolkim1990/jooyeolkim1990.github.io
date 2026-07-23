@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body{% if page.home %} class="home-page"{% endif %}>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Jooyeol Kim home">
+        <span>Jooyeol Kim</span>
+        <small>Independent researcher</small>
+      </a>
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="{{ '/selected-work.html' | relative_url }}">Selected Work</a>
+        <a href="{{ '/ideas/' | relative_url }}">Ideas</a>
+        <a href="{{ '/analysis/' | relative_url }}">Analysis</a>
+        <a href="{{ '/diagnostics/' | relative_url }}">Diagnostic Work</a>
+        <a href="{{ '/essays/' | relative_url }}">Essays &amp; Papers</a>
+        <a href="{{ '/cv.html' | relative_url }}">Public Record</a>
+        <a href="{{ '/work-with-me.html' | relative_url }}">Work With Me</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="site-main">
+    {% if page.home %}
+      {{ content }}
+    {% else %}
+      <article class="shell prose">
+        {{ content }}
+      </article>
+    {% endif %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <div>
+        <strong>Jooyeol Kim</strong>
+        <p>Independent research on AI, institutions, and systems of responsibility.</p>
+      </div>
+      <div class="footer-links">
+        <a href="{{ '/start-here.html' | relative_url }}">Site map</a>
+        <a href="{{ '/about.html' | relative_url }}">About</a>
+        <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+        <a href="https://github.com/jooyeolkim1990">GitHub</a>
+        <a href="https://www.linkedin.com/in/jooyeolkim1990">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
