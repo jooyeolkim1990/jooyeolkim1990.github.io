@@ -5,9 +5,15 @@ description: A compact selection of public analytical work by Jooyeol Kim.
 
 # Selected Work
 
-This page is deliberately small. It shows a few pieces that best represent the current range of public work: diagnostic review, issue analysis, framework development, and longer argument.
+This page is deliberately small. It shows a few pieces that best represent the current range of public work: diagnostic review, issue analysis, framework development, working paper, and longer argument.
 
 <div class="index-grid">
+  <div class="index-item">
+    <h2><a href="essays/2026-07-24-you-agreed-to-the-rule-did-you-agree-to-the-experiment.html">You Agreed to the Rule. Did You Agree to the Experiment?</a></h2>
+    <p>A working paper on ICML 2026 and the missing boundary between agreement to perform review duties under a rule and agreement to have those duties used as experimental conditions.</p>
+    <strong>Best for:</strong> AI governance, research ethics, peer review, institutional design, and experimental-participation audiences.
+  </div>
+
   <div class="index-item">
     <h2><a href="ciea/samples/ai-deployment-risk-clarity-review.html">AI Deployment Risk Clarity Review</a></h2>
     <p>A public diagnostic sample for identifying verification, escalation, rollback, accountability, and user or frontline burden gaps before wider AI deployment.</p>
