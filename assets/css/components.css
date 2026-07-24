@@ -25,5 +25,7 @@
 .index-item p { color: #626a73; }
 .index-item a { font-weight: 800; }
 .page-note { margin: 28px 0; padding: 18px 20px; border-left: 4px solid #c28d55; background: #fffaf3; }
+.prose .button.secondary { color: #101b2a; border-color: rgba(16,27,42,.34); background: rgba(255,250,243,.72); }
+.prose .button.secondary:hover { color: #101b2a; border-color: #c28d55; background: #fffaf3; }
 @media (max-width:900px) { .card-grid.four,.work-grid,.proof-grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width:680px) { .card-grid.four,.work-grid,.proof-grid,.index-grid { grid-template-columns: 1fr; } }
