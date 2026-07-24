@@ -1,6 +1,6 @@
 # Public Record
 
-This page collects selected public identifiers, accepted conference work, and public proof-of-work.
+This page collects selected public identifiers, accepted conference work, working papers, and public proof-of-work.
 
 It is not a complete academic CV. It is a compact public record for readers who want to verify the current status of my work.
 
@@ -46,6 +46,16 @@ Current focus areas include:
 - **ORCID:** 0009-0008-2714-705X
 - **GitHub:** <https://github.com/jooyeolkim1990>
 - **LinkedIn:** <https://www.linkedin.com/in/jooyeolkim1990>
+
+---
+
+## Working papers
+
+### You Agreed to the Rule. Did You Agree to the Experiment?
+
+**Kim, Jooyeol.** 2026. “You Agreed to the Rule. Did You Agree to the Experiment? ICML 2026 and the Missing Boundary Between Review Duty and Experimental Participation.”  
+Working paper, Version 1.2, July 2026. Not peer reviewed. Submitted to SSRN and currently under review. SSRN Abstract ID: 7174178.  
+[Public working-paper page](essays/2026-07-24-you-agreed-to-the-rule-did-you-agree-to-the-experiment.html) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7174178)
 
 ---
 
