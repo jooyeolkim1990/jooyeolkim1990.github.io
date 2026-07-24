@@ -7,6 +7,12 @@ description: Longer public arguments, essays, papers, and venue-shaped outputs.
 
 <p class="index-lede">This section gathers longer arguments and venue-shaped outputs. A piece may originate in a current event, a framework, or an editorial or conference question; its public form is recorded separately from its origin.</p>
 
+## Working papers
+
+<div class="index-grid">
+  <div class="index-item"><h2><a href="2026-07-24-you-agreed-to-the-rule-did-you-agree-to-the-experiment.html">You Agreed to the Rule. Did You Agree to the Experiment?</a></h2><p>ICML 2026 and the missing boundary between review duty and experimental participation. Working paper, Version 1.2; submitted to SSRN and currently under review.</p></div>
+</div>
+
 ## Public essays
 
 <div class="index-grid">
@@ -19,7 +25,7 @@ description: Longer public arguments, essays, papers, and venue-shaped outputs.
 
 ## Papers and conference work
 
-The [Public Record](../cv.html) is the status authority for accepted, presented, active, withdrawn, and accepted-but-not-converted work. Record PDFs verify acceptance or participation; they should not be read as proof of publication unless the record states that publication occurred.
+The [Public Record](../cv.html) is the status authority for working papers, accepted work, presented work, withdrawn work, and accepted-but-not-converted records. Record PDFs verify acceptance or participation; they should not be read as proof of publication unless the record states that publication occurred.
 
 - [Open the Public Record](../cv.html)
 - [Open record PDFs and conference status](../cv.html)
