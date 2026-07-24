@@ -1,6 +1,7 @@
 ---
 title: You Agreed to the Rule. Did You Agree to the Experiment?
 description: A working paper on ICML 2026 and the missing boundary between review duty and experimental participation.
+image: /assets/papers/rule-experiment/rule-experiment-editorial.png
 ---
 
 <p class="page-note"><strong>Working paper · Version 1.2 · July 2026 · Not peer reviewed</strong><br>Submitted to SSRN and currently under review. SSRN Abstract ID: 7174178.</p>
@@ -12,11 +13,15 @@ description: A working paper on ICML 2026 and the missing boundary between revie
 Agreement to perform a role under institutional rules does not automatically settle agreement to have that role used as an experimental condition.
 
 <div class="actions">
-  <a class="button primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7174178">View the SSRN record</a>
+  <a class="button primary" href="../assets/papers/rule-experiment/Kim_Rule_Experiment_Boundary_SSRN_v1.2.pdf">Read the working paper (PDF)</a>
+  <a class="button secondary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7174178">View the SSRN record</a>
   <a class="button secondary" href="#figure-1">View Figure 1</a>
 </div>
 
-<div class="page-note"><strong>Editorial illustration:</strong> A fictional idol-audition contestant says, “I came here to audition.” The producer answers, “Great. Now you choose A or B.” The image compresses the paper’s central problem: entry into the underlying opportunity is treated as if it already settled participation in an additional experiment.</div>
+<figure>
+  <a href="../assets/papers/rule-experiment/rule-experiment-editorial.png"><img src="../assets/papers/rule-experiment/rule-experiment-editorial.png" alt="Editorial illustration of an audition contestant being directed toward experiment rooms A and B after saying that she came to audition."></a>
+  <figcaption><strong>Editorial illustration.</strong> A fictional idol-audition contestant says, “I came here to audition.” The producer answers, “Great. Now you choose A or B.” This image is a public-facing illustration of the paper’s central problem, not Figure 1 from the manuscript.</figcaption>
+</figure>
 
 ## The question
 
@@ -44,13 +49,10 @@ These comparisons do not prove wrongdoing. They show that an institution can pre
 
 <h2 id="figure-1">Figure 1 · The missing third option</h2>
 
-<div class="index-grid">
-  <div class="index-item"><h3>Audition analogy</h3><p>Enter the audition → receive condition A or B. Leaving surrenders the opportunity. The missing option is to remain in the audition while declining experimental use.</p></div>
-  <div class="index-item"><h3>ICML 2026</h3><p>Reviewer role → assigned Policy A or B → rule plus experimental comparison. No separately described route to remain in role while declining the experiment.</p></div>
-  <div class="index-item"><h3>NeurIPS 2026</h3><p>Ordinary role → separate opt-in → “No” remains in the role; “Yes” enters the experiment.</p></div>
-</div>
-
-<p class="page-note"><strong>Figure 1 in the manuscript:</strong> “The Missing Third Option” presents these three structures as a single visual comparison.</p>
+<figure>
+  <a href="../assets/papers/rule-experiment/rule-experiment-figure1.png"><img src="../assets/papers/rule-experiment/rule-experiment-figure1.png" alt="Figure comparing an idol-audition analogy, ICML 2026 policy assignment and experimental use, and NeurIPS 2026 separate opt-in structure."></a>
+  <figcaption><strong>Figure 1.</strong> The audition analogy illustrates why leaving an opportunity is not equivalent to declining only an experiment. The lower panels contrast ICML’s publicly described combination of policy assignment, enforcement, and experimental comparison with NeurIPS’s separate opt-in boundary. The diagram is a simplified representation of the relevant participation structures.</figcaption>
+</figure>
 
 ## Core conclusion
 
