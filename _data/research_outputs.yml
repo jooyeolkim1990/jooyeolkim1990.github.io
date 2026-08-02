@@ -1,0 +1,26 @@
+schema_version: 1
+
+# Public-output projection data only. This repository is public.
+outputs:
+  - id: egov-2026-political-judgment
+    show_card: true
+    route: essays
+    section: papers
+    order: 10
+    title: The Decoupling of Political Judgment and Responsibility in Digitally Mediated Communication
+    summary: >-
+      A reflections/viewpoint paper applying Political Scam to communication
+      structures in which political judgment is induced while responsibility
+      recovery remains weak, delayed, or obstructed.
+    type: Reflections / Viewpoint Paper
+    status: Accepted, Not Converted
+    venue: EGOV-CeDEM-ePart 2026 / IFIP EGOV 2026
+    uses:
+      - political-scam
+    themes:
+      - Political Scam
+      - Digital governance
+      - Responsibility recovery
+    public_file: /records/EGOV_2026_Accepted_Viewpoint_Record_JooyeolKim.pdf
+    link_label: View public summary and record →
+    record_anchor: /cv.html#egov-cedem-epart-2026--ifip-egov-2026
