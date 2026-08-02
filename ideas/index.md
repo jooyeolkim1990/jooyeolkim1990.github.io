@@ -9,6 +9,18 @@ description: Public notes on reusable concepts, models, and analytical architect
 
 <div class="index-grid">
   <div class="index-item">
+    <h2>LFC Axis — Legibility / Feedback / Control</h2>
+    <p>Examines how the readability, timing, and perceived controllability of action–result feedback shape learning, persistence, and perceived trajectory.</p>
+    <p><strong>Axis · Active Research</strong><br>Feedback systems · Work · Learning</p>
+  </div>
+
+  <div class="index-item">
+    <h2>IERF — Inducement-Extraction and Responsibility-Recovery Failure</h2>
+    <p>Examines structures in which inducement is converted into extractable value while responsibility recovery remains weak, delayed, or obstructed under persistent or repeatable conditions.</p>
+    <p><strong>Framework · Active Research</strong><br>Extraction · Responsibility · Platforms</p>
+  </div>
+
+  <div class="index-item">
     <h2><a href="../ciea/">CIEA — Core-Inference Evaluation Architecture</a></h2>
     <p>Tests whether an apparent improvement in a metric reflects progress toward the underlying core or moves cost, verification, rollback, and responsibility outside the decision table.</p>
     <a href="../ciea/">Open the architecture →</a>
