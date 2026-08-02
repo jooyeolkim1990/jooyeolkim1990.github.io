@@ -1,0 +1,78 @@
+schema_version: 1
+
+# Public-projection data only. This repository is public.
+# Do not place selective or internal research content in this file.
+objects:
+  - id: lfc
+    show_card: true
+    route: ideas
+    order: 10
+    name: LFC Axis
+    full_name: Legibility / Feedback / Control
+    type: Axis
+    status: Active Research
+    summary: >-
+      Examines how the readability, timing, and perceived controllability
+      of action–result feedback shape learning, persistence, and perceived trajectory.
+    themes:
+      - Feedback systems
+      - Work
+      - Learning
+    url:
+    link_label:
+
+  - id: ierf
+    show_card: true
+    route: ideas
+    order: 20
+    name: IERF
+    full_name: Inducement-Extraction and Responsibility-Recovery Failure
+    type: Framework
+    status: Active Research
+    summary: >-
+      Examines structures in which inducement is converted into extractable value
+      while responsibility recovery remains weak, delayed, or obstructed under
+      persistent or repeatable conditions.
+    themes:
+      - Extraction
+      - Responsibility
+      - Platforms
+    url:
+    link_label:
+
+  - id: cja
+    show_card: true
+    route: diagnostics
+    order: 10
+    name: Cost Justice Audit (CJA)
+    full_name:
+    type: Audit
+    status: Active Research
+    summary: >-
+      A structured audit for determining where costs should justly land when
+      contribution, benefit, control, visibility, and absorptive capacity are
+      unevenly distributed.
+    themes:
+      - Cost allocation
+      - Responsibility
+      - Burden transfer
+    url:
+    link_label:
+
+  - id: political-scam
+    show_card: false
+    route: diagnostics
+    order: 20
+    name: Political Scam
+    full_name:
+    type: Audit / Protocol
+    status: Active Research
+    summary: >-
+      A political communication audit for structures that induce judgment while
+      weakening, delaying, or obstructing responsibility recovery.
+    themes:
+      - Political communication
+      - Responsibility recovery
+      - Digital governance
+    url:
+    link_label:
