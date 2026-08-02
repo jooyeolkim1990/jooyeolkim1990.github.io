@@ -19,6 +19,11 @@ description: Public diagnostic samples, audit structures, protocols, and review 
 ## Audit architecture and protocols
 
 <div class="index-grid">
+  <div class="index-item">
+    <h3>Cost Justice Audit (CJA)</h3>
+    <p>A structured audit for determining where costs should justly land when contribution, benefit, control, visibility, and absorptive capacity are unevenly distributed.</p>
+    <p><strong>Audit · Active Research</strong><br>Cost allocation · Responsibility · Burden transfer</p>
+  </div>
   <div class="index-item"><h3><a href="../ciea/automation-quality-audit.html">CIEA Automation Quality Audit Extension</a></h3><p>Tests automation claims through output warranty, verification burden, rollback cost, and accountability collateral.</p></div>
   <div class="index-item"><h3><a href="../tools/agentic-ai/authority-cutoff-review.html">Agentic AI Authority Cutoff Review</a></h3><p>Determines when an execution-capable system should remain read-only, stay gated, or be frozen before authority expansion.</p></div>
   <div class="index-item"><h3><a href="../tools/agentic-ai/stop-go-threshold-protocol.html">Stop–Go Threshold Protocol</a></h3><p>A rule-based gate for deciding whether an AI system should receive one more step of delegated authority.</p></div>
