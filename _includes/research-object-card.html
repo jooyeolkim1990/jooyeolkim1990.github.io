@@ -1,0 +1,13 @@
+{% assign object = include.object %}
+<div class="index-item">
+  {% if object.url and object.url != "" %}
+    <h2><a href="{{ object.url | relative_url }}">{{ object.name }}{% if object.full_name and object.full_name != "" %} — {{ object.full_name }}{% endif %}</a></h2>
+  {% else %}
+    <h2>{{ object.name }}{% if object.full_name and object.full_name != "" %} — {{ object.full_name }}{% endif %}</h2>
+  {% endif %}
+  <p>{{ object.summary }}</p>
+  <p><strong>{{ object.type }} · {{ object.status }}</strong>{% if object.themes and object.themes.size > 0 %}<br>{{ object.themes | join: " · " }}{% endif %}</p>
+  {% if object.url and object.url != "" and object.link_label and object.link_label != "" %}
+    <a href="{{ object.url | relative_url }}">{{ object.link_label }}</a>
+  {% endif %}
+</div>
