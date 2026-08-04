@@ -25,6 +25,13 @@ description: Longer public arguments, essays, papers, and venue-shaped outputs.
 
 ## Papers and conference work
 
+<div class="index-grid">
+  {% assign paper_outputs = site.data.research_outputs.outputs | where: "show_card", true | where: "route", "essays" | where: "section", "papers" | sort: "order" %}
+  {% for output in paper_outputs %}
+    {% include research-output-card.html output=output %}
+  {% endfor %}
+</div>
+
 The [Public Record](../cv.html) is the status authority for working papers, accepted work, presented work, withdrawn work, and accepted-but-not-converted records. Record PDFs verify acceptance or participation; they should not be read as proof of publication unless the record states that publication occurred.
 
 - [Open the Public Record](../cv.html)

@@ -8,17 +8,10 @@ description: Public notes on reusable concepts, models, and analytical architect
 <p class="index-lede">This section contains public versions of reusable analytical structures. A framework page explains the claim, use, boundary, and public applications without publishing every private scoring rule, threshold, or working component.</p>
 
 <div class="index-grid">
-  <div class="index-item">
-    <h2>LFC Axis — Legibility / Feedback / Control</h2>
-    <p>Examines how the readability, timing, and perceived controllability of action–result feedback shape learning, persistence, and perceived trajectory.</p>
-    <p><strong>Axis · Active Research</strong><br>Feedback systems · Work · Learning</p>
-  </div>
-
-  <div class="index-item">
-    <h2>IERF — Inducement-Extraction and Responsibility-Recovery Failure</h2>
-    <p>Examines structures in which inducement is converted into extractable value while responsibility recovery remains weak, delayed, or obstructed under persistent or repeatable conditions.</p>
-    <p><strong>Framework · Active Research</strong><br>Extraction · Responsibility · Platforms</p>
-  </div>
+  {% assign idea_objects = site.data.research_objects.objects | where: "show_card", true | where: "route", "ideas" | sort: "order" %}
+  {% for object in idea_objects %}
+    {% include research-object-card.html object=object %}
+  {% endfor %}
 
   <div class="index-item">
     <h2><a href="../ciea/">CIEA — Core-Inference Evaluation Architecture</a></h2>

@@ -1,0 +1,16 @@
+{% assign output = include.output %}
+<div class="index-item">
+  {% if output.public_file and output.public_file != "" %}
+    <h2><a href="{{ output.public_file | relative_url }}">{{ output.title }}</a></h2>
+  {% else %}
+    <h2>{{ output.title }}</h2>
+  {% endif %}
+  <p>{{ output.summary }}</p>
+  <p><strong>{{ output.type }} · {{ output.status }}</strong>{% if output.venue and output.venue != "" %}<br>{{ output.venue }}{% endif %}{% if output.themes and output.themes.size > 0 %}<br>{{ output.themes | join: " · " }}{% endif %}</p>
+  {% if output.public_file and output.public_file != "" and output.link_label and output.link_label != "" %}
+    <a href="{{ output.public_file | relative_url }}">{{ output.link_label }}</a>
+  {% endif %}
+  {% if output.record_anchor and output.record_anchor != "" %}
+    <br><a href="{{ output.record_anchor | relative_url }}">Verify status in the Public Record →</a>
+  {% endif %}
+</div>
