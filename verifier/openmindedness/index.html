@@ -1,5 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Research Claim Verifier — Open-mindedness case · v0.5</title>
+<meta name="robots" content="noindex,nofollow">
+<title>Research Claim Verifier — Open-mindedness case · v0.6</title>
 <style>
 :root{--bg:#f5f5f2;--paper:#fff;--ink:#171717;--muted:#696969;--line:#d8d8d3;--ok:#176a36;--warn:#8b5e00;--bad:#922b2b}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.5}
@@ -17,22 +18,35 @@ table{border-collapse:collapse;width:100%}th,td{padding:9px 8px;border-bottom:1p
 .note{background:#f1f1ee;border-left:4px solid #888;padding:12px 14px;margin-top:12px}details{border-top:1px solid var(--line);padding-top:12px;margin-top:12px}summary{font-weight:850;cursor:pointer}
 pre{white-space:pre-wrap;max-height:280px;overflow:auto;background:#151515;color:#eee;padding:13px;border-radius:12px;font-size:12px}.hidden{display:none}.oktext{color:var(--ok);font-weight:900}.badtext{color:var(--bad);font-weight:900}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.scope-lock{border:2px solid #111;background:#fff}
-.scope-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
-.scope-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.scope-col{border:1px solid var(--line);border-radius:12px;padding:15px;background:#fafafa}
-.scope-col h3{font-size:14px;margin:0 0 8px}.scope-col ul{margin:0;padding-left:20px}.scope-col li{margin:7px 0}
-.interpretation{margin-top:14px;border-left:4px solid #111;background:#f3f3f0;padding:12px 14px}
-.interpretation strong{font-weight:900}
+.scope-lock{border:2px solid #111;background:#fff;padding:16px 20px}
+.scope-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:4px}
+.scope-item{border:0;border-top:1px solid var(--line);padding:0;margin:0}
+.scope-item summary{list-style:none;padding:13px 2px;font-size:14px;font-weight:900;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.scope-item summary::-webkit-details-marker{display:none}
+.scope-item summary::after{content:"+";font-size:20px;line-height:1;color:#666;font-weight:700}
+.scope-item[open] summary::after{content:"−"}
+.scope-body{padding:0 2px 14px;color:#333}
+.scope-body ul{margin:0;padding-left:20px}.scope-body li{margin:7px 0}
+.scope-note{border-left:4px solid #111;background:#f3f3f0;padding:11px 13px}
+.scope-note strong{font-weight:900}
 .prov-intro{color:#444;margin-top:0}.prov-lane{border:1px solid var(--line);border-radius:12px;padding:14px;margin:11px 0;background:#fafafa}
 .prov-label{font-size:11px;letter-spacing:.09em;text-transform:uppercase;font-weight:900;color:var(--muted);margin-bottom:10px}
 .prov-flow{display:flex;align-items:stretch;gap:8px;flex-wrap:wrap}.prov-node{flex:1 1 150px;min-width:145px;border:1px solid var(--line);border-radius:10px;background:#fff;padding:11px}
 .prov-node strong{display:block;font-size:13px;margin-bottom:4px}.prov-node span{font-size:12px;color:#555}.prov-arrow{align-self:center;font-weight:900;color:#777;font-size:19px}
 .prov-relation{border-left:4px solid var(--ok);background:#eef8f0;padding:11px 13px;margin-top:11px}
 .manifest td:first-child{font-weight:850}.manifest td,.manifest th{font-size:13px}
-@media(max-width:720px){h1{font-size:34px}.two,.scope-grid{grid-template-columns:1fr}.nums{font-size:30px}.prov-arrow{display:none}.prov-node{flex-basis:100%}}
+@media(max-width:720px){
+  h1{font-size:34px}.two{grid-template-columns:1fr}.nums{font-size:30px}.prov-arrow{display:none}.prov-node{flex-basis:100%}
+  .scope-lock{padding:14px 16px}.scope-head h2{font-size:18px}.scope-item summary{font-size:15px;padding:14px 2px}
+  .manifest thead{display:none}
+  .manifest,.manifest tbody,.manifest tr,.manifest td{display:block;width:100%}
+  .manifest tr{border:1px solid var(--line);border-radius:12px;margin:0 0 12px;padding:9px 12px;background:#fafafa}
+  .manifest td{border:0;padding:6px 0;font-size:14px}
+  .manifest td::before{content:attr(data-label);display:block;font-size:10px;letter-spacing:.07em;text-transform:uppercase;font-weight:850;color:var(--muted);margin-bottom:2px}
+  .manifest td:first-child{font-size:15px}
+}
 </style></head><body><div class="wrap">
-<div class="kicker">Research Claim Due Diligence · executable audit · v0.5</div>
+<div class="kicker">Research Claim Due Diligence · executable audit · v0.6</div>
 <h1>Verify the evidence trail, not just the number.</h1>
 <p class="lede">The normal button is fast. A second button recomputes farther upstream from 6,000 × 210 residual correlations. Everything runs locally in the browser; there is no terminal step.</p>
 
@@ -41,28 +55,29 @@ pre{white-space:pre-wrap;max-height:280px;overflow:auto;background:#151515;color
 <p>Focal comparison: open-mindedness (OM) vs collective narcissism (CN), conspiracy-beliefs outcome.</p></div>
 
 <div class="panel scope-lock">
-  <div class="scope-head"><h2>Verification scope — read before interpreting the result</h2><div class="lab">Scope lock</div></div>
-  <div class="scope-grid">
-    <div class="scope-col">
-      <h3>What this establishes</h3>
-      <ul>
-        <li>The archived reliability-correction code contains the identified stale-object defect.</li>
-        <li>Under a bug-only repair, the published ordinal comparison for the conspiracy-beliefs outcome is not preserved.</li>
-        <li>Coefficients recomputed from the independently reconstructed Stage 4G posterior substrate agree with the separately packaged Stage 4H focal coefficient artifact at machine precision.</li>
-      </ul>
-    </div>
-    <div class="scope-col">
-      <h3>What this does NOT establish</h3>
-      <ul>
-        <li>It does not establish the opposite substantive theory as true.</li>
-        <li>It does not invalidate every result or conclusion in the paper.</li>
-        <li>It does not invalidate the original uncorrected multivariate regression.</li>
-        <li>It does not adjudicate the paper's broader construct validity or causal interpretation.</li>
-        <li>It does not establish intent or misconduct.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="interpretation"><strong>Interpretation rule.</strong> In the bug-only repair, 5,800/6,000 draws favor the opposite ordering, while the repaired 95% equal-tailed interval for D is approximately [−0.001149, +0.043216] and narrowly includes zero. The verifier therefore tests whether the reported ordinal claim is preserved; it does not establish the reverse substantive claim.</div>
+  <div class="scope-head"><h2>Verification scope</h2><div class="lab">Read before interpreting the result</div></div>
+  <details class="scope-item">
+    <summary>Interpretation note</summary>
+    <div class="scope-body"><div class="scope-note"><strong>Interpretation rule.</strong> In the bug-only repair, 5,800/6,000 draws favor the opposite ordering, while the repaired 95% equal-tailed interval for D is approximately [−0.001149, +0.043216] and narrowly includes zero. The verifier therefore tests whether the reported ordinal claim is preserved; it does not establish the reverse substantive claim.</div></div>
+  </details>
+  <details class="scope-item">
+    <summary>What this establishes</summary>
+    <div class="scope-body"><ul>
+      <li>The archived reliability-correction code contains the identified stale-object defect.</li>
+      <li>Under a bug-only repair, the published ordinal comparison for the conspiracy-beliefs outcome is not preserved.</li>
+      <li>Coefficients recomputed from the independently reconstructed Stage 4G posterior substrate agree with the separately packaged Stage 4H focal coefficient artifact at machine precision.</li>
+    </ul></div>
+  </details>
+  <details class="scope-item">
+    <summary>What this does NOT establish</summary>
+    <div class="scope-body"><ul>
+      <li>It does not establish the opposite substantive theory as true.</li>
+      <li>It does not invalidate every result or conclusion in the paper.</li>
+      <li>It does not invalidate the original uncorrected multivariate regression.</li>
+      <li>It does not adjudicate the paper's broader construct validity or causal interpretation.</li>
+      <li>It does not establish intent or misconduct.</li>
+    </ul></div>
+  </details>
 </div>
 
 <div class="actions">
@@ -85,7 +100,15 @@ pre{white-space:pre-wrap;max-height:280px;overflow:auto;background:#151515;color
 <div class="prov-lane"><div class="prov-label">Audit-side reconstruction</div><div class="prov-flow"><div class="prov-node"><strong>Independent refit</strong><span>Reconstructed Stage 4G posterior: 4 × 1,500 draws.</span></div><div class="prov-arrow">→</div><div class="prov-node"><strong>210 residual correlations</strong><span>Extracted into the compact 6,000 × 210 posterior artifact.</span></div><div class="prov-arrow">→</div><div class="prov-node"><strong>Rebuild + reliability correction + solve</strong><span>21 × 21 matrices and direct coefficient solves.</span></div><div class="prov-arrow">→</div><div class="prov-node"><strong>Recomputed focal coefficients</strong><span>Compared against the separately packaged Stage 4H focal artifact.</span></div></div></div>
 <div class="prov-relation"><strong>Verification relation:</strong> deep mode does not claim that residual-correlation draws are the same object as the focal coefficient artifact. It recomputes focal coefficients from the reconstructed upstream draws and checks their agreement with the separately packaged Stage 4H coefficients.</div></div></div>
 
-<div class="panel"><h2>Provenance manifest</h2><table class="manifest"><tr><th>Origin</th><th>Transformation</th><th>Output</th><th>Integrity / verification relation</th></tr><tr><td>Author archive</td><td>Archived analysis source retained as-is</td><td>Archived Rmd</td><td>SHA-256 checked when supplied; pinned source anchors inspect the stale-object pattern</td></tr><tr><td>Public data + archived model specification</td><td>Independent audit-side refit</td><td>Stage 4G posterior, four chains × 1,500 draws</td><td>Original chain hashes recorded; extraction-time matches listed below</td></tr><tr><td>Stage 4G posterior</td><td>Extract 210 residual-correlation parameters</td><td>Compact 6,000 × 210 posterior artifact</td><td>Embedded artifact is SHA-256 fingerprinted before deep verification</td></tr><tr><td>Compact posterior</td><td>Rebuild 21 × 21 matrices → apply reliability correction → direct solves</td><td>Recomputed focal coefficient draws</td><td>Deep mode compares these coefficients with the separately packaged Stage 4H focal artifact</td></tr><tr><td>Audit-side packaged output</td><td>Package focal coefficient draws for fast verification</td><td>Stage 4H focal CSV</td><td>Embedded artifact is SHA-256 fingerprinted before focal recalculation</td></tr></table></div>
+<div class="panel"><h2>Provenance manifest</h2><table class="manifest">
+<thead><tr><th>Origin</th><th>Transformation</th><th>Output</th><th>Integrity / verification relation</th></tr></thead>
+<tbody>
+<tr><td data-label="Origin">Author archive</td><td data-label="Transformation">Archived analysis source retained as-is</td><td data-label="Output">Archived Rmd</td><td data-label="Integrity / verification relation">SHA-256 checked when supplied; pinned source anchors inspect the stale-object pattern</td></tr>
+<tr><td data-label="Origin">Public data + archived model specification</td><td data-label="Transformation">Independent audit-side refit</td><td data-label="Output">Stage 4G posterior, four chains × 1,500 draws</td><td data-label="Integrity / verification relation">Original chain hashes recorded; extraction-time matches listed below</td></tr>
+<tr><td data-label="Origin">Stage 4G posterior</td><td data-label="Transformation">Extract 210 residual-correlation parameters</td><td data-label="Output">Compact 6,000 × 210 posterior artifact</td><td data-label="Integrity / verification relation">Embedded artifact is SHA-256 fingerprinted before deep verification</td></tr>
+<tr><td data-label="Origin">Compact posterior</td><td data-label="Transformation">Rebuild 21 × 21 matrices → apply reliability correction → direct solves</td><td data-label="Output">Recomputed focal coefficient draws</td><td data-label="Integrity / verification relation">Deep mode compares these coefficients with the separately packaged Stage 4H focal artifact</td></tr>
+<tr><td data-label="Origin">Audit-side packaged output</td><td data-label="Transformation">Package focal coefficient draws for fast verification</td><td data-label="Output">Stage 4H focal CSV</td><td data-label="Integrity / verification relation">Embedded artifact is SHA-256 fingerprinted before focal recalculation</td></tr>
+</tbody></table></div>
 
 <div id="deepPanel" class="panel hidden"><h2>Deep verification</h2><div class="grid"><div class="card"><div class="lab">21×21 matrices</div><div id="matrixCount" class="val">—</div></div><div class="card"><div class="lab">Direct solves</div><div id="solveCount" class="val">—</div></div><div class="card"><div class="lab">Solve failures</div><div id="solveFail" class="val">—</div></div><div class="card"><div class="lab">Max |β deep − focal|</div><div id="maxDiff" class="val sm">—</div></div></div><div id="deepVerdict" class="note"></div></div>
 
