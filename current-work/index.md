@@ -68,7 +68,7 @@ This page is a first-meeting view of work that is moving now. It is selective ra
 <div class="index-item">
   <span class="card-label">Household demand · self-employment · local economies</span>
   <h2>Local Food Choice-Set Dynamics (LFCS)</h2>
-  <p><strong>What happens to everyday local choice when household purchasing capacity and small-business turnover change together?</strong></p>
+  <p><strong>How might household purchasing capacity and small-business turnover reshape everyday local choice?</strong></p>
   <p>LFCS distinguishes store counts from the consumer-facing set of choices actually available in a neighbourhood. A high-context pilot in Banghwa 3-dong, Seoul reconstructed longitudinal choice sets, business lifecycles, same-site replacement, and spatial sensitivity; the descriptive and audit layer is closed, while post-pilot mechanism work and comparative expansion remain open.</p>
   <p><strong>Collaboration:</strong> disposable income, household demand, self-employment, local service economies, business turnover, neighbourhood change.</p>
 </div>
