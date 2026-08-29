@@ -6,6 +6,10 @@ These logs are part of the public analytical record of the site. They are not id
 
 ## Logs
 
+- [2026-08-14 — Korea’s Labour Attribution Conflict Is Becoming Recursive](2026-08-14-korea-labour-attribution-recursive-update.md)
+
+- [2026-07 — Korea’s Labour Conflict Is Becoming a Politics of Attribution](2026-07-korea-labour-attribution-politics.md)
+
 - [2026-05-01 — When Disconnection Is Not Exit: Authentication, Phone Access, and Digitally Imposed Availability](2026-05-01-digital-disconnection-authentication-access.md)
 
 - [2026-04-27 — Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing](2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
