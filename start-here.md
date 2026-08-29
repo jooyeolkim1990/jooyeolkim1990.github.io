@@ -8,6 +8,7 @@ description: Full public map of jooyeolkim.com.
 This site is a public research portfolio and workbench, not a chronological blog dump. Choose the route that matches what you need to inspect.
 
 <div class="index-grid">
+  <div class="index-item"><h2><a href="current-work/">Current Work</a></h2><p>A first-meeting view of research that is moving now, with current stages and collaboration openings.</p></div>
   <div class="index-item"><h2><a href="selected-work.html">Selected Work</a></h2><p>A small curated set for the fastest review of current work.</p></div>
   <div class="index-item"><h2><a href="cv.html">Public Record</a></h2><p>Accepted work, actual conversion status, public identifiers, and record PDFs.</p></div>
   <div class="index-item"><h2><a href="ideas/">Ideas & Frameworks</a></h2><p>Reusable concepts, models, and analytical architectures.</p></div>
