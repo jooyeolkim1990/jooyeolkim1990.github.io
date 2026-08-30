@@ -103,23 +103,23 @@ This page is a first-meeting view of work that is moving now. It is selective ra
 
 These shorter public pieces show how the same questions are applied to live labour and policy problems.
 
-<div class="feature-list">
-  <div class="feature">
+<div class="feature-list selected-writing-list">
+  <a class="feature selected-writing-link" href="/briefs/labour/2026-05-12-samsung-bonus-surplus-translation.html">
     <div class="feature-meta">Labour · surplus</div>
-    <div><h3>Cash Is Not the Only Language of Surplus</h3><p>How productivity and surplus can be translated into time, recovery, security, or bargaining claims rather than cash alone.</p><a href="/briefs/labour/2026-05-12-samsung-bonus-surplus-translation.html">Read →</a></div>
-  </div>
-  <div class="feature">
+    <div><h3>Cash Is Not the Only Language of Surplus</h3><p>How productivity and surplus can be translated into time, recovery, security, or bargaining claims rather than cash alone.</p><span class="selected-writing-cta">Read →</span></div>
+  </a>
+  <a class="feature selected-writing-link" href="/briefs/labour/2026-06-11-performance-attribution-symmetry.html">
     <div class="feature-meta">Labour · attribution</div>
-    <div><h3>Performance Attribution Symmetry</h3><p>A compact argument for applying the same attribution logic to gains and losses instead of individualizing failure while collectivizing success.</p><a href="/briefs/labour/2026-06-11-performance-attribution-symmetry.html">Read →</a></div>
-  </div>
-  <div class="feature">
+    <div><h3>Performance Attribution Symmetry</h3><p>A compact argument for applying the same attribution logic to gains and losses instead of individualizing failure while collectivizing success.</p><span class="selected-writing-cta">Read →</span></div>
+  </a>
+  <a class="feature selected-writing-link" href="/briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.html">
     <div class="feature-meta">Labour · comparison</div>
-    <div><h3>Capital Played Global. Labor Reads Global Too.</h3><p>Why global comparison is not only a managerial or investor privilege when firms already benchmark labour and performance internationally.</p><a href="/briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.html">Read →</a></div>
-  </div>
-  <div class="feature">
+    <div><h3>Capital Played Global. Labor Reads Global Too.</h3><p>Why global comparison is not only a managerial or investor privilege when firms already benchmark labour and performance internationally.</p><span class="selected-writing-cta">Read →</span></div>
+  </a>
+  <a class="feature selected-writing-link" href="/briefs/policy/yellow-envelope-act-procedural-risk.html">
     <div class="feature-meta">Policy · labour law</div>
-    <div><h3>Yellow Envelope Act: Early Procedural Risk</h3><p>An early-stage procedural reading of uncertainty, responsibility, and implementation risk around labour-law change.</p><a href="/briefs/policy/yellow-envelope-act-procedural-risk.html">Read →</a></div>
-  </div>
+    <div><h3>Yellow Envelope Act: Early Procedural Risk</h3><p>An early-stage procedural reading of uncertainty, responsibility, and implementation risk around labour-law change.</p><span class="selected-writing-cta">Read →</span></div>
+  </a>
 </div>
 
 <div class="actions">
