@@ -58,6 +58,22 @@ This page is a first-meeting view of work that is moving now. It is selective ra
 
   <details class="current-work-item">
     <summary>
+      <span class="current-work-title">Seeing the Wealth Surface</span>
+      <span class="current-work-hook">Where did Korea's age × income-position wealth surface rise between 2017 and 2025?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Household wealth · descriptive visualization · Korea</span>
+      <p><img src="/assets/images/hfw-delta-median-2017-2025.svg" alt="2017 to 2025 change in weighted median real household net worth in Korea by household-head age group and official income decile" loading="lazy"></p>
+      <p>This descriptive research note places household-head age group, official income decile, and real net worth on a fixed grid so that changes in the shape of the wealth surface can be seen directly over time. It does not propose a new inequality index or causal model.</p>
+      <p><strong>Current finding:</strong> the 2017–2025 change is not evenly distributed across the surface. The largest weighted-median increases are concentrated around the upper-income ridge, especially D10.</p>
+      <p><strong>Current stage:</strong> short descriptive / visualization note using Korea's Household Finance and Welfare Survey, 2017–2025; level surfaces, repeated time deformation, and 2017–2025 delta surfaces are complete.</p>
+      <p><strong>Interpretive caution:</strong> repeated cross-sections; the surface deformation should not be read as the life-course trajectory of the same households.</p>
+      <p><strong>Collaboration:</strong> household wealth inequality, descriptive distribution analysis, visualization, age–income structure.</p>
+    </div>
+  </details>
+
+  <details class="current-work-item">
+    <summary>
       <span class="current-work-title">Work Decomposition &amp; Human Asset Reclassification</span>
       <span class="current-work-hook">How AI reshapes tasks, skills, and worker value.</span>
     </summary>
