@@ -10,7 +10,7 @@ Research on work, labour-market institutions, technological change, and how risk
 This page is a first-meeting view of work that is moving now. It is selective rather than exhaustive: each item points to a live research question, its current stage, and where collaboration could be useful.
 
 <div class="page-note">
-<strong>ILERA Asia 2026.</strong> My current conference paper examines demographic ageing, labour-income dependence, and what happens to productivity-created time inside time-based employment. <a href="/cv.html">Public Record →</a>
+<strong>ILERA Asia 2026 · Tokyo.</strong> I am presenting <em>Labour Persistence–Time Absorption (LPTA)</em> on demographic ageing, labour-income dependence, and productivity-created time inside time-based employment. A related Japan–Korea extension now examines how worker options, employer responses, and employment adjustments shape staying, exit, and later-life retention. <a href="/records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf">ILERA public record →</a> <a href="#japan-korea-worker-options">Current comparative extension ↓</a>
 </div>
 
 ## Featured research
@@ -27,6 +27,19 @@ This page is a first-meeting view of work that is moving now. It is selective ra
       <p><strong>Current stage:</strong> ILERA Asia 2026 conference paper linking the mechanism to demographic ageing and unequal dependence on labour income.</p>
       <p><strong>Collaboration:</strong> working-time institutions, ageing labour markets, collective bargaining, productivity sharing, performance measurement.</p>
       <p><a href="/records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf">View ILERA public record →</a></p>
+    </div>
+  </details>
+
+  <details class="current-work-item" id="japan-korea-worker-options">
+    <summary>
+      <span class="current-work-title">Japan–Korea Labour Retention &amp; Worker Option Architecture</span>
+      <span class="current-work-hook">What turns staying, leaving, or continued employment into a particular worker trajectory?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Japan–Korea comparison · worker voice · later-life employment · survey architecture</span>
+      <p>This ongoing comparative extension examines how workers' effective options are translated into employment outcomes. Existing Japanese and Korean surveys already capture exit intentions, constrained non-exit, retirement preferences, institutional gates, consultation, and employer-side HR practices in considerable detail. The remaining question is narrower: how a worker's concrete option or claim connects to an employer response, an actual workplace adjustment, and subsequent stay, exit, or continued employment.</p>
+      <p><strong>Current stage:</strong> preliminary Japan–Korea survey-architecture audit; identifying what can already be recovered from existing microdata before proposing additional measurement.</p>
+      <p><strong>Collaboration:</strong> later-life employment, worker voice, internal labour markets, HRM, longitudinal surveys, Japan–Korea comparison.</p>
     </div>
   </details>
 
