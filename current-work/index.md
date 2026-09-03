@@ -13,6 +13,25 @@ This page is a first-meeting view of work that is moving now. It is selective ra
 <strong>ILERA Asia 2026 · Tokyo.</strong> I am presenting <em>Labour Persistence–Time Absorption (LPTA)</em> on demographic ageing, labour-income dependence, and productivity-created time inside time-based employment. A related Japan–Korea extension now examines how worker options, employer responses, and employment adjustments shape staying, exit, and later-life retention. <a href="/records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf">ILERA public record →</a> <a href="#japan-korea-worker-options">Current comparative extension ↓</a>
 </div>
 
+<div class="section-kicker">Recent visual analysis</div>
+<div class="current-work-list">
+  <details class="current-work-item" open>
+    <summary>
+      <span class="current-work-title">Seeing the Wealth Surface</span>
+      <span class="current-work-hook">Where did Korea's age × income-position wealth surface rise between 2017 and 2025?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Household wealth · descriptive visualization · Korea</span>
+      <p><img src="/assets/images/hfw-delta-median-2017-2025.svg" alt="2017 to 2025 change in weighted median real household net worth in Korea by household-head age group and official income decile" loading="eager"></p>
+      <p>This descriptive research note places household-head age group, official income decile, and real net worth on a fixed grid so that changes in the shape of the wealth surface can be seen directly over time. It does not propose a new inequality index or causal model.</p>
+      <p><strong>Current finding:</strong> the 2017–2025 change is not evenly distributed across the surface. The largest weighted-median increases are concentrated around the upper-income ridge, especially D10.</p>
+      <p><strong>Current stage:</strong> short descriptive / visualization note using Korea's Household Finance and Welfare Survey, 2017–2025; level surfaces, repeated time deformation, and 2017–2025 delta surfaces are complete.</p>
+      <p><strong>Interpretive caution:</strong> repeated cross-sections; the surface deformation should not be read as the life-course trajectory of the same households.</p>
+      <p><strong>Collaboration:</strong> household wealth inequality, descriptive distribution analysis, visualization, age–income structure.</p>
+    </div>
+  </details>
+</div>
+
 ## Featured research
 
 <div class="current-work-list">
@@ -53,22 +72,6 @@ This page is a first-meeting view of work that is moving now. It is selective ra
       <p>This line separates labour-market income sufficiency from household total-resource adequacy and asks how far earnings actually cover selected living or household-reproduction requirements.</p>
       <p><strong>Current stage:</strong> a Korea–UK–US portability pilot for LISC is closed; current work is moving toward literature positioning, benchmark comparability, decomposition, and links to household-level sufficiency analysis.</p>
       <p><strong>Collaboration:</strong> living wages, income adequacy, household reproduction, in-work insufficiency, comparative labour-market data, social protection.</p>
-    </div>
-  </details>
-
-  <details class="current-work-item">
-    <summary>
-      <span class="current-work-title">Seeing the Wealth Surface</span>
-      <span class="current-work-hook">Where did Korea's age × income-position wealth surface rise between 2017 and 2025?</span>
-    </summary>
-    <div class="current-work-body">
-      <span class="card-label">Household wealth · descriptive visualization · Korea</span>
-      <p><img src="/assets/images/hfw-delta-median-2017-2025.svg" alt="2017 to 2025 change in weighted median real household net worth in Korea by household-head age group and official income decile" loading="lazy"></p>
-      <p>This descriptive research note places household-head age group, official income decile, and real net worth on a fixed grid so that changes in the shape of the wealth surface can be seen directly over time. It does not propose a new inequality index or causal model.</p>
-      <p><strong>Current finding:</strong> the 2017–2025 change is not evenly distributed across the surface. The largest weighted-median increases are concentrated around the upper-income ridge, especially D10.</p>
-      <p><strong>Current stage:</strong> short descriptive / visualization note using Korea's Household Finance and Welfare Survey, 2017–2025; level surfaces, repeated time deformation, and 2017–2025 delta surfaces are complete.</p>
-      <p><strong>Interpretive caution:</strong> repeated cross-sections; the surface deformation should not be read as the life-course trajectory of the same households.</p>
-      <p><strong>Collaboration:</strong> household wealth inequality, descriptive distribution analysis, visualization, age–income structure.</p>
     </div>
   </details>
 
