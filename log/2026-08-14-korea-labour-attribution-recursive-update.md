@@ -194,6 +194,7 @@ The next conflict begins from the previous settlement.
 - [Yellow Envelope Act (Korea): Implementation Update](2026-04-13-yellow-envelope-act-implementation-update.md)
 - [Yellow Envelope Act (Korea): BGF Retail, Fatal Incident, and Post-Incident Reframing](2026-04-27-yellow-envelope-act-bgf-reframing-update.md)
 - [Korea’s Labour Conflict Is Becoming a Politics of Attribution](2026-07-korea-labour-attribution-politics.md)
+- [September 5 update — Korea’s Labour Attribution Conflict: The State Has Now Drawn the Boundary](2026-09-05-korea-labour-attribution-boundary-setting.md)
 
 ## Source notes
 
