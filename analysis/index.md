@@ -34,4 +34,4 @@ description: Issue-first analysis of AI, platforms, labour, policy, and institut
 
 ## Tracking notes
 
-Dated observation and process records remain in the [Analytical Log Archive](../log/). Stable arguments are promoted into the sections above rather than forcing every log onto the main portfolio surface.
+Dated observation and process records remain in the [Analytical Log Archive](../log/). Stable arguments are promoted into the sections above rather than forcing every log onto the main portfolio surface. Latest labour-policy tracking: [Korea’s Labour Attribution Conflict: The State Has Now Drawn the Boundary](../log/2026-09-05-korea-labour-attribution-boundary-setting.md).
