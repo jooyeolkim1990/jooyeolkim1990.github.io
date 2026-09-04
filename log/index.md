@@ -6,6 +6,8 @@ These logs are part of the public analytical record of the site. They are not id
 
 ## Logs
 
+- [2026-09-05 — Korea’s Labour Attribution Conflict: The State Has Now Drawn the Boundary](2026-09-05-korea-labour-attribution-boundary-setting.md)
+
 - [2026-08-14 — Korea’s Labour Attribution Conflict Is Becoming Recursive](2026-08-14-korea-labour-attribution-recursive-update.md)
 
 - [2026-07 — Korea’s Labour Conflict Is Becoming a Politics of Attribution](2026-07-korea-labour-attribution-politics.md)
