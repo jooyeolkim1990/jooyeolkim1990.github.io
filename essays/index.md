@@ -29,7 +29,7 @@ description: Longer public arguments, essays, papers, and venue-shaped outputs.
 <div class="index-grid">
   {% assign paper_outputs = site.data.research_outputs.outputs | where: "show_card", true | where: "route", "essays" | where: "section", "papers" | sort: "order" %}
   {% for output in paper_outputs %}
-    {% include research-output-card.html object=object %}
+    {% include research-output-card.html output=output %}
   {% endfor %}
 </div>
 
