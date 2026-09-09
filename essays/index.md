@@ -16,6 +16,7 @@ description: Longer public arguments, essays, papers, and venue-shaped outputs.
 ## Public essays
 
 <div class="index-grid">
+  <div class="index-item"><h2><a href="2026-09-08-how-law-should-read-reality.html">법은 현실을 어떻게 읽어야 하는가</a></h2><p>이름표, 경계, 해상도와 책임배분을 묶어 법적 분류의 설계문제를 다루는 「노동법과 제도설계」 시리즈의 종합편.</p></div>
   <div class="index-item"><h2><a href="2026-07-02-the-landlord-at-the-end-of-the-ai-boom.html">The Landlord at the End of the AI Boom</a></h2><p>Spatial gate rent and the collection of AI-sector value through ownership of urban access.</p></div>
   <div class="index-item"><h2><a href="2026-06-16-the-off-switch-is-the-message.html">The Off-Switch Is the Message</a></h2><p>How frontier AI access can shift from commercial product to revocable security permission.</p></div>
   <div class="index-item"><h2><a href="../cases/systems-risk-absorption.html">When Systems Stop Absorbing Their Own Risk</a></h2><p>Displaced accountability and the politics produced when consequential systems push responsibility out of reach.</p></div>

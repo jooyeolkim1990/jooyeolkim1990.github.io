@@ -25,6 +25,20 @@ description: Issue-first analysis of AI, platforms, labour, policy, and institut
   <div class="index-item"><h3><a href="../briefs/policy/yellow-envelope-act-procedural-risk.html">Yellow Envelope Act: Early Procedural Risk</a></h3><p>An implementation-focused reading of bargaining-unit separation and procedural bottlenecks.</p></div>
 </div>
 
+## 노동법과 제도설계
+
+<p class="index-lede">2026년 노란봉투법 시행의 경계비용에서 출발해 노동법의 분류, 플랫폼·특고의 통제구조, 최소보수와 법적 해상도까지 이어지는 7편의 한국어 시리즈.</p>
+
+<div class="index-grid">
+  <div class="index-item"><h3><a href="../briefs/policy/2026-09-08-cases-build-standards-who-pays.html">1. 사례가 쌓이면 기준이 생긴다</a></h3><p>그 기준을 만드는 초기 학습비용은 누가 부담하는가.</p></div>
+  <div class="index-item"><h3><a href="../briefs/policy/2026-09-08-good-law-cuts-with-the-grain.html">2. 좋은 법은 결대로 자른다</a></h3><p>예외가 계속 늘어난다면 분류의 경계부터 다시 봐야 한다.</p></div>
+  <div class="index-item"><h3><a href="../briefs/policy/2026-09-08-protected-people-are-not-beta-testers.html">3. 보호대상을 왜 베타테스터로 쓰는가</a></h3><p>제도가 처리하지 못한 예외비용이 현장 당사자에게 남는 구조.</p></div>
+  <div class="index-item"><h3><a href="../briefs/labour/2026-09-08-working-person-new-label.html">4. ‘일하는 사람’이라는 새 이름표가 필요한가</a></h3><p>새 범주보다 관계의 실제 자율성·통제·위험을 먼저 본다.</p></div>
+  <div class="index-item"><h3><a href="../briefs/labour/2026-09-08-non-employment-controlled-labour.html">5. 고용은 부정하고 통제는 행사한다</a></h3><p>비고용 통제형 노동을 직종명이 아니라 통제구조로 읽는다.</p></div>
+  <div class="index-item"><h3><a href="../briefs/labour/2026-09-08-minimum-service-rate.html">6. 최저임금이 가능하다면 최저 서비스단가도 가능하다</a></h3><p>근로자성 밖에서도 최소보수체계를 설계할 수 있는가.</p></div>
+  <div class="index-item"><h3><a href="../essays/2026-09-08-how-law-should-read-reality.html">7. 법은 현실을 어떻게 읽어야 하는가</a></h3><p>이름표, 경계, 해상도와 책임배분을 하나의 제도설계 문제로 묶는다.</p></div>
+</div>
+
 ## Public contracts and institutional control
 
 <div class="index-grid">
