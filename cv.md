@@ -114,6 +114,7 @@ Working paper, Version 1.2, July 2026. SSRN Abstract ID: 7174178.
 
 **Kim, Jooyeol.** 2026. “From Training to First Credibility: Public Governance of Reciprocal Labour-Market Legibility.”  
 **Sole-authored.** Accepted to the IIAS Conference 2026, Seoul, Republic of Korea, 17–20 November 2026. Submission ID: 247. Full-paper and registration deadline: 31 October 2026.
+[Public acceptance record PDF](records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf)
 
 ### 4S 2026 / Society for Social Studies of Science
 
