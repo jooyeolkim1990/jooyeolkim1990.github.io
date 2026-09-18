@@ -1,0 +1,69 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,follow">
+<title>Open-mindedness Audit — Research Claim Due Diligence</title>
+<meta name="description" content="Independent research claim due diligence: source-traceable auditing of research-backed claims.">
+<link rel="stylesheet" href="../assets/island.css">
+</head><body><div class="topbar"><div class="shell nav">
+<a class="brand" href="../index.html">Research Claim Due Diligence<small>Jooyeol Kim · independent research support</small></a>
+<div class="links">
+<a class="" href="../index.html">Overview</a>
+<a class="" href="../method.html">Method</a>
+<a class="active" href="../cases/open-mindedness.html">Case</a>
+<a class="" href="../verifier/open-mindedness.html">Verifier</a>
+<a href="/">Main site ↗</a>
+</div></div></div>
+<section class="hero"><div class="shell">
+<div class="eyebrow">Sample audit · robustness implementation</div>
+<h1>When a robustness check changes the ranking it was said to preserve.</h1>
+<p class="lede">Pärnamets et al. (2026), open-mindedness across 68 countries. Audit question: does the publicly archived reliability correction actually preserve the paper's ordinal predictor conclusions?</p>
+<div class="actions"><a class="btn" href="../verifier/open-mindedness.html">Run executable verifier</a><a class="btn secondary" href="https://osf.io/stx86/" target="_blank" rel="noopener">Open public OSF project ↗</a></div>
+</div></section>
+
+<section class="section"><div class="shell">
+<div class="card case">
+<div class="tag">Executive finding</div>
+<h2>No — not for the conspiracy-beliefs outcome.</h2>
+<p>The archived final-revision R Markdown reuses the physical-hygiene reliability object for 13 later multi-item measures. A bug-only repair, propagated through an independently reconstructed posterior analysis, shifts the focal open-mindedness versus collective-narcissism ordering from essentially certain CN dominance to 96.7% posterior probability of OM dominance.</p>
+<div class="metrics">
+<div class="metric"><div class="lab">Median |βOM| − |βCN| · buggy</div><div class="val">−0.03729</div></div>
+<div class="metric"><div class="lab">Bug-only repaired</div><div class="val">+0.02078</div></div>
+<div class="metric"><div class="lab">P(OM &gt; CN) · repaired</div><div class="val">96.67%</div></div>
+</div>
+<div class="note boundary"><strong>Interpretation boundary:</strong> the repaired 95% equal-tailed interval for the focal difference narrowly includes zero. The audit establishes that the published ordinal robustness conclusion is not preserved for this outcome; it does not establish the reverse substantive theory as true.</div>
+</div></div></section>
+
+<section class="section alt"><div class="shell">
+<div class="section-head"><div class="kicker">Verified implementation defect</div><h2>A stale object is reused inside the reliability correction.</h2></div>
+<div class="flow"><div class="node">new reliability stored in <code>s</code></div><div class="arrow">→</div><div class="node">old <code>ss</code> still appended</div><div class="arrow">→</div><div class="node">wrong reliability vector</div><div class="arrow">→</div><div class="node">disattenuated matrix</div><div class="arrow">→</div><div class="node">partial coefficients</div><div class="arrow">→</div><div class="node">ordinal claim</div></div>
+<div class="grid">
+<div class="card"><div class="tag">Inspected vector</div><h3>21 entries</h3><p>Two use their own calculated reliability correctly.</p></div>
+<div class="card"><div class="tag">Stale reuse</div><h3>13 later multi-item entries</h3><p>New reliability is calculated, but the old hygiene object is still read.</p></div>
+<div class="card"><div class="tag">Hard-coded</div><h3>6 entries at .85</h3><p>Kept separate from the stale-object pattern.</p></div>
+</div></div></section>
+
+<section class="section"><div class="shell">
+<div class="section-head"><div class="kicker">Independent reconstruction</div><h2>The consequence is traced rather than inferred from the code smell.</h2></div>
+<div class="tablewrap"><table><thead><tr><th>Check</th><th>Result</th></tr></thead><tbody>
+<tr><td>Posterior draws</td><td>4 chains × 1,500 post-warmup = 6,000</td></tr>
+<tr><td>Sampler health</td><td>0 divergences; 0 max-treedepth hits; minimum E-BFMI 0.660</td></tr>
+<tr><td>Repair-target convergence</td><td>210 residual correlations; max R-hat 1.003655; min bulk ESS 3981; min tail ESS 3496</td></tr>
+<tr><td>Archived-posterior consistency</td><td>210 / 210 new residual-correlation medians fall within archived 95% intervals</td></tr>
+<tr><td>Paired correction effect</td><td>ΔD median +0.05825; 95% CrI [+0.05542, +0.06112]; ΔD &gt; 0 in all 6,000 draws</td></tr>
+</tbody></table></div>
+</div></section>
+
+<section class="section alt"><div class="shell">
+<div class="section-head"><div class="kicker">Outcome specificity</div><h2>The defect does not collapse every result.</h2></div>
+<div class="tablewrap"><table><thead><tr><th>Outcome</th><th>Buggy top ordering</th><th>After bug-only repair</th></tr></thead><tbody>
+<tr><td>Physical contact</td><td>OM rank 1: 100%</td><td>OM rank 1: 100%</td></tr>
+<tr><td>Policy support</td><td>OM rank 1: 100%</td><td>OM rank 1: 100%</td></tr>
+<tr><td>Physical hygiene</td><td>Belonging: 100%</td><td>Belonging: 99.93%</td></tr>
+<tr><td>Conspiracy beliefs</td><td>CN: 99.98%</td><td>OM: 96.67%</td></tr>
+</tbody></table></div>
+<div class="grid two" style="margin-top:16px">
+<div class="card"><div class="tag">Supported</div><p>Stale-object reliability defect; material shift in the focal posterior ordering; published ordinal robustness conclusion not preserved for this outcome.</p></div>
+<div class="card"><div class="tag">Not established</div><p>Invalidity of the original uncorrected multivariate regression; change in every outcome; fraud, intent, misconduct, or falsity of the paper as a whole.</p></div>
+</div>
+<div class="actions"><a class="btn" href="../verifier/open-mindedness.html">Verify it in the browser</a><a class="btn secondary" href="../method.html">See the general method</a></div>
+</div></section><footer class="footer"><div class="shell"><div class="row"><span>Research Claim Due Diligence · direct-link workbench</span><span><a href="/">Return to jooyeolkim.com</a></span></div></div></footer></body></html>
