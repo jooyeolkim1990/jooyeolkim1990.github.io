@@ -9,6 +9,11 @@ This page is deliberately small. It shows a few pieces that best represent the c
 
 <div class="index-grid">
   <div class="index-item">
+    <h2><a href="cases/khp-release-integrity-audit/">Korea Health Panel — Release Integrity & Downstream Impact Audit</a></h2>
+    <p>An independently initiated audit documented a six-year record-loss pattern before the provider\u0027s correction, reconciled corrected Stata/SPSS data to the SAS reference, and reran eight historical analysis specifications to assess downstream changes.</p>
+    <strong>Best for:</strong> research-data quality, reproducibility, longitudinal survey data, public-data release assurance.
+  </div>
+  <div class="index-item">
     <h2><a href="essays/2026-07-24-you-agreed-to-the-rule-did-you-agree-to-the-experiment.html">You Agreed to the Rule. Did You Agree to the Experiment?</a></h2>
     <p>A working paper on ICML 2026 and the missing boundary between agreement to perform review duties under a rule and agreement to have those duties used as experimental conditions.</p>
     <strong>Best for:</strong> AI governance, research ethics, peer review, institutional design, and experimental-participation audiences.
