@@ -4,6 +4,9 @@ This section collects applied readings and case essays.
 
 ## Current cases
 
+- [Korea Health Panel v2.5 — Release Integrity & Downstream Impact Audit](khp-release-integrity-audit/)  
+  Independent pre-correction identification (21 October 2026), official correction (22 October), and reproducible checks on sample linkage and selected research findings.
+
 - [Anthropic: Moral AI, Gated Access](anthropic-moral-ai-gated-access.md)
 - [When Systems Stop Absorbing Their Own Risk](systems-risk-absorption.md)
 - [AI Customer Support Korea — CIEA-M1 case](../ciea/cases/ai-customer-support-korea.md)
