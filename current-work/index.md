@@ -1,21 +1,110 @@
 ---
 title: Current Work
-description: Current research on work, labour-market institutions, technological change, and the distribution of risks, resources, and opportunities.
+description: Current research on institutions, governance, work, technological change, and the distribution of responsibility, risks, resources, and opportunities.
 ---
 
 # Current Work
 
-Research on work, labour-market institutions, technological change, and how risks, resources, and opportunities are distributed across workers, households, and organizations.
+Research on institutions, governance, work, technological change, and how responsibility, risks, resources, and opportunities are distributed across people, households, organizations, and public systems.
 
 This page is a first-meeting view of work that is moving now. It is selective rather than exhaustive: each item points to a live research question, its current stage, and where collaboration could be useful.
 
 <div class="page-note">
-<strong>ILERA Asia 2026 · Tokyo.</strong> I am presenting <em>Labour Persistence–Time Absorption (LPTA)</em> on demographic ageing, labour-income dependence, and productivity-created time inside time-based employment. A related Japan–Korea extension now examines how worker options, employer responses, and employment adjustments shape staying, exit, and later-life retention. <a href="/records/ILERA_Asia_2026_Accepted_Oral_Presentation_Record_JooyeolKim.pdf">ILERA public record →</a> <a href="#japan-korea-worker-options">Current comparative extension ↓</a>
+<strong>IIAS Conference 2026 · Seoul.</strong> I am presenting <em>From Training to First Credibility: Public Governance of Reciprocal Labour-Market Legibility</em>, a collaborative-governance design for the credibility gap facing people without established work histories when polished output becomes cheap. <a href="/records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf">IIAS public record →</a> <a href="#first-credibility">Current project ↓</a>
 </div>
+
+## Governance & institutional systems
+
+<div class="current-work-list">
+  <details class="current-work-item" id="first-credibility" open>
+    <summary>
+      <span class="current-work-title">From Training to First Credibility</span>
+      <span class="current-work-hook">Who validates a new worker when polished output becomes cheap?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Public governance · labour-market entry · credibility · public employment services</span>
+      <p>This project examines the credibility bottleneck facing people without established work histories and asks how public employment services might govern expert review without creating purchasable endorsement or one-sided candidate transparency. The design separates capability evidence, first credibility, employer-side job definition, and later job-specific verification rather than collapsing them into a single score.</p>
+      <p><strong>Current stage:</strong> IIAS Conference 2026 presentation; collaborative-governance design using cross-national institutional sequence mapping across training, capability evidence, credibility formation, employer verification, and selection.</p>
+      <p><strong>Collaboration:</strong> public employment services, recruitment, labour-market entry, skills signalling, early careers, credentialing, AI-assisted work, collaborative governance.</p>
+      <p><a href="/records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf">View IIAS public record →</a></p>
+    </div>
+  </details>
+
+  <details class="current-work-item">
+    <summary>
+      <span class="current-work-title">Feasible-Set Governance (FSG)</span>
+      <span class="current-work-hook">Before people choose, who structured the set of options they were allowed to see?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Governance · choice environments · contestability · institutional design</span>
+      <p>FSG shifts analysis one step upstream from bounded choice. It asks who sets the feasible set, whose goals are embedded in it, whether affected actors can recognize that structuring, whether consent and exit are substantively meaningful, and whether the structure can be contested or revised.</p>
+      <p><strong>Current stage:</strong> draft-backed cross-domain framework with a public overview, six analytical axes, governance tests, and applications spanning platforms, AI-mediated decisions, recruitment, eligibility, labour-market narrowing, and authentication-bound access.</p>
+      <p><strong>Collaboration:</strong> public governance, platform governance, AI-mediated decision systems, autonomy, consent, exit, contestability, eligibility infrastructures.</p>
+      <p><a href="/frameworks/feasible-set-governance.html">View framework overview →</a></p>
+    </div>
+  </details>
+
+  <details class="current-work-item">
+    <summary>
+      <span class="current-work-title">Response Collapse &amp; Relational Reformatting</span>
+      <span class="current-work-hook">What fails when institutions can recognize a claim but cannot answer, repair, or own the failure?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Administrative burden · response · responsibility · institutional interaction</span>
+      <p>The Response Collapse Framework distinguishes visibility and recognition from accountable response, responsibility, repair, and returnable failure. A related relational-reformatting paper asks how actors with disproportionate control over interaction formats can standardize or risk-manage relationships in ways that shift proof, coordination, waiting uncertainty, and responsibility burdens downward.</p>
+      <p><strong>Current stage:</strong> active framework plus a public-facing conceptual working paper applying the mechanism across public complaint systems, recruitment and submission markets, employment relationships, and a limited agricultural bargaining vignette.</p>
+      <p><strong>Collaboration:</strong> citizen–state encounters, administrative burden, organizational attention, institutional trust and repair, public-service response, platform governance.</p>
+    </div>
+  </details>
+
+  <details class="current-work-item">
+    <summary>
+      <span class="current-work-title">Temporal Diffusion of Responsibility</span>
+      <span class="current-work-hook">Why can waiting become safer than deciding when accountability arrives later?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Accountability · decision timing · blame avoidance · governance</span>
+      <p>This framework isolates a timing problem in collective decision-making: acting can create immediate and traceable evaluative exposure, while deferral can postpone, dilute, or relocate when responsibility becomes consequential. Under those conditions, non-movement can become locally rational even when formal responsibility has not disappeared.</p>
+      <p><strong>Current stage:</strong> active diagnostic framework and Public Choice Society conference submission using structured illustrative comparisons to distinguish pathological deferral from legitimate sequencing.</p>
+      <p><strong>Collaboration:</strong> public accountability, organizational decision-making, regulatory governance, blame avoidance, institutional temporality, ex ante judgment under uncertainty.</p>
+    </div>
+  </details>
+
+  <details class="current-work-item">
+    <summary>
+      <span class="current-work-title">Legitimacy, Claimability &amp; Pressure Routing (LCE-PR)</span>
+      <span class="current-work-hook">What happens when an order's own language of legitimacy becomes a language of claim against it?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Legitimacy · claims · institutional pressure · correction</span>
+      <p>LCE-PR examines how legitimacy language can become claimable. Rights, procedure, performance, transparency, fairness, or responsibility may stabilize an order while also supplying standards through which excluded or peripheral actors can name a gap between promised standards and actual enjoyment.</p>
+      <p>The framework then asks how grievance becomes an addressable claim and how institutions route pressure: storage when meaningful response fails, containment when response does not contact the underlying lag, or correction when the response reaches the mechanism and produces a verifiable effect.</p>
+      <p><strong>Current stage:</strong> working-note framework seed developed through scholarly discussion following the MCCT Hegemonies stream; public-facing diagnostic structure and correction test are in place.</p>
+      <p><strong>Collaboration:</strong> legitimacy, public claims, institutional responsiveness, grievance translation, contestability, social movements, governance repair.</p>
+    </div>
+  </details>
+
+  <details class="current-work-item">
+    <summary>
+      <span class="current-work-title">CPRA: Grievance, Pressure &amp; Correction</span>
+      <span class="current-work-hook">Where does grievance go after it becomes pressure?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">Pressure trajectories · contestability · collective response · institutional correction</span>
+      <p>CPRA is a pressure-trajectory framework for tracing how material and symbolic-existential grievances become individual responses, how those responses aggregate into collective pressure, how pressure is translated and routed, and whether the resulting response corrects the mechanism that produced the grievance.</p>
+      <p>Its upper layers distinguish pressure fates such as managed dissipation, blame concentration, paper victory, corrective consolidation, and system-level challenge. The central distinction is between the existence of pressure and the production of substantive correction.</p>
+      <p><strong>Current stage:</strong> vNext integration architecture; the MCCT 2026 <em>Managed Dissipation</em> and <em>Managed Hegemony</em> presentations function as narrower conference-facing derivatives of the larger pressure and contestability architecture.</p>
+      <p><strong>Collaboration:</strong> grievance formation, contestability, collective action, pressure routing, institutional response, substantive correction, democratic and organizational governance.</p>
+      <p><a href="/records/MCCT_2026_Participation_Record_JooyeolKim.pdf">View MCCT participation record →</a> <a href="/records/MCCT_2026_Stream6_Managed_Hegemony_Accepted_Presentation_Record_JooyeolKim.pdf">Managed Hegemony record →</a></p>
+    </div>
+  </details>
+</div>
+
+## Work, households & political economy
 
 <div class="section-kicker">Recent visual analysis</div>
 <div class="current-work-list">
-  <details class="current-work-item" open>
+  <details class="current-work-item">
     <summary>
       <span class="current-work-title">Seeing the Wealth Surface</span>
       <span class="current-work-hook">Where did Korea's age × income-position wealth surface rise between 2017 and 2025?</span>
@@ -30,11 +119,7 @@ This page is a first-meeting view of work that is moving now. It is selective ra
       <p><strong>Collaboration:</strong> household wealth inequality, descriptive distribution analysis, visualization, age–income structure.</p>
     </div>
   </details>
-</div>
 
-## Featured research
-
-<div class="current-work-list">
   <details class="current-work-item">
     <summary>
       <span class="current-work-title">Labour Persistence–Time Absorption (LPTA)</span>
@@ -100,19 +185,6 @@ This page is a first-meeting view of work that is moving now. It is selective ra
       <p><strong>Collaboration:</strong> compensation systems, labour process, organizational performance, HR systems, risk allocation, worker contribution.</p>
     </div>
   </details>
-
-  <details class="current-work-item">
-    <summary>
-      <span class="current-work-title">From Training to First Credibility</span>
-      <span class="current-work-hook">Who validates a new worker when polished output becomes cheap?</span>
-    </summary>
-    <div class="current-work-body">
-      <span class="card-label">Entry · validation · public employment services</span>
-      <p>This project examines the credibility bottleneck facing people without established work histories and asks how public employment services might govern expert review without creating purchasable endorsement or one-sided candidate transparency.</p>
-      <p><strong>Current stage:</strong> collaborative-governance design using cross-national institutional sequence mapping across training, capability evidence, credibility formation, employer verification, and selection.</p>
-      <p><strong>Collaboration:</strong> recruitment, labour-market entry, skills signalling, early careers, credentialing, public employment services, AI-assisted work.</p>
-    </div>
-  </details>
 </div>
 
 ## Also exploring
@@ -133,20 +205,20 @@ This page is a first-meeting view of work that is moving now. It is selective ra
 
 ## Selected writing
 
-These shorter public pieces show how the same questions are applied to live labour and policy problems.
+These shorter public pieces show how the same questions are applied to live governance, AI, labour, and policy problems.
 
 <div class="feature-list selected-writing-list">
-  <a class="feature selected-writing-link" href="/briefs/labour/2026-05-12-samsung-bonus-surplus-translation.html">
-    <div class="feature-meta">Labour · surplus</div>
-    <div><h3>Cash Is Not the Only Language of Surplus</h3><p>How productivity and surplus can be translated into time, recovery, security, or bargaining claims rather than cash alone.</p><span class="selected-writing-cta">Read →</span></div>
+  <a class="feature selected-writing-link" href="/briefs/governance/2026-06-26-ib-public-contract-geneva.html">
+    <div class="feature-meta">Governance · public contracts</div>
+    <div><h3>Who Really Controls South Korea's Public School Reform?</h3><p>A governance reading of public spending, certification authority, legal jurisdiction, exit conditions, and what remains in public hands after institutional localization.</p><span class="selected-writing-cta">Read →</span></div>
+  </a>
+  <a class="feature selected-writing-link" href="/briefs/ai-governance/delegation-without-responsibility.html">
+    <div class="feature-meta">AI governance · responsibility</div>
+    <div><h3>Delegation Without Responsibility</h3><p>Why ambient and wearable AI turns the question from output quality toward delegated authority, visible control, and responsibility for action.</p><span class="selected-writing-cta">Read →</span></div>
   </a>
   <a class="feature selected-writing-link" href="/briefs/labour/2026-06-11-performance-attribution-symmetry.html">
     <div class="feature-meta">Labour · attribution</div>
     <div><h3>Performance Attribution Symmetry</h3><p>A compact argument for applying the same attribution logic to gains and losses instead of individualizing failure while collectivizing success.</p><span class="selected-writing-cta">Read →</span></div>
-  </a>
-  <a class="feature selected-writing-link" href="/briefs/labour/2026-06-03-capital-played-global-labor-reads-global-too.html">
-    <div class="feature-meta">Labour · comparison</div>
-    <div><h3>Capital Played Global. Labor Reads Global Too.</h3><p>Why global comparison is not only a managerial or investor privilege when firms already benchmark labour and performance internationally.</p><span class="selected-writing-cta">Read →</span></div>
   </a>
   <a class="feature selected-writing-link" href="/briefs/policy/yellow-envelope-act-procedural-risk.html">
     <div class="feature-meta">Policy · labour law</div>
@@ -161,7 +233,7 @@ These shorter public pieces show how the same questions are applied to live labo
 
 ## Other work
 
-My broader research also covers AI governance, institutional responsibility and repair, platform visibility, diagnostic protocols, political communication, and knowledge-production systems.
+My broader research also covers AI governance, platform visibility, diagnostic protocols, political communication, research integrity, and knowledge-production systems.
 
 <div class="index-grid">
   <div class="index-item"><h3><a href="/ideas/">Ideas &amp; Frameworks</a></h3><p>Reusable concepts and analytical architectures.</p></div>

@@ -29,6 +29,8 @@ The useful starting point is often not a request for a grand solution. It is a s
 
 ## Public samples
 
+- [Korea Health Panel v2.5 — Release Integrity & Downstream Impact Audit](cases/khp-release-integrity-audit/) — independently initiated case, with pre-correction inquiry, provider correction, cross-format reconciliation and longitudinal analysis impact assessment.
+
 - [AI Deployment Risk Clarity Review](ciea/samples/ai-deployment-risk-clarity-review.html)
 - [Fast Answers, Slow Responsibility](ciea/cases/ai-customer-support-korea.html)
 - [Pharmacy Safety UX Review](samples/pharmacy-safety-ux-review.html)
