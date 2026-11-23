@@ -6,7 +6,7 @@ It is not a complete academic CV. It is a compact public record for readers who 
 
 ---
 
-## Snapshot — September 2026
+## Snapshot — November 2026
 
 Independent researcher based in South Korea. All listed conference works are sole-authored unless otherwise noted.
 
@@ -14,7 +14,7 @@ In my first academic submission season beginning in January 2026, my work has be
 
 The work is primarily theoretical, diagnostic, comparative, and framework-oriented. It develops conceptual and empirical tools for identifying recurring structural patterns across AI governance, platform systems, labour pressure, working time, labour-market entry, digitally mediated political judgment, institutional responsibility, and repair.
 
-By September 2026, I had completed or converted presentations at the ILERA Asian Regional Congress and the Midlands Conference in Critical Thought. Additional accepted work includes 4S 2026 and IIAS 2026. Several other accepted contributions — AoIR 2026, EASST 2026, EGOV-CeDEM-ePart / IFIP EGOV 2026, BSA Work, Employment & Society 2026, HCII / AI-HCI 2026, and the IPSA Regional Conference in Wrocław 2026 — were not converted because registration, travel, accommodation, proceedings, or participation funding constraints prevented completion.
+As of November 2026, completed presentations include the ILERA Asian Regional Congress in Tokyo, the IIAS Conference in Seoul, and the Midlands Conference in Critical Thought. A paper presentation has also been accepted to the Scientific Track of the ILERA World Congress 2027 in Sydney; participation remains subject to registration and scheduling. Other accepted contributions — AoIR 2026, EASST 2026, EGOV-CeDEM-ePart / IFIP EGOV 2026, BSA Work, Employment & Society 2026, HCII / AI-HCI 2026, and the IPSA Regional Conference in Wrocław 2026 — were not converted because registration, travel, accommodation, proceedings, or participation funding constraints prevented completion. The public record for 4S 2026 still requires a final participation-status update.
 
 Six working papers are publicly available on SSRN.
 
@@ -90,6 +90,12 @@ Working paper, Version 1.2, July 2026. SSRN Abstract ID: 7174178.
 
 ## Presented / completed conference work
 
+### IIAS Conference 2026
+
+**Kim, Jooyeol.** 2026. “From Training to First Credibility: Public Governance of Reciprocal Labour-Market Legibility.”  
+**Sole-authored.** Accepted for the IIAS Conference 2026, Seoul, Republic of Korea, 17–20 November 2026 (submission ID: 247); oral presentation completed on 18 November 2026. Conference presentation does not imply subsequent journal or proceedings publication.  
+[Public acceptance record PDF](records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf)
+
 ### ILERA Asian Regional Congress 2026
 
 **Kim, Jooyeol.** 2026. “Demographic Aging, Structural Labour Pressure, and Time Absorption: A Conceptual Industrial Relations Perspective.”  
@@ -110,16 +116,20 @@ Working paper, Version 1.2, July 2026. SSRN Abstract ID: 7174178.
 
 ## Forthcoming / accepted conference work
 
-### IIAS Conference 2026
+### ILERA World Congress 2027
 
-**Kim, Jooyeol.** 2026. “From Training to First Credibility: Public Governance of Reciprocal Labour-Market Legibility.”  
-**Sole-authored.** Accepted to the IIAS Conference 2026, Seoul, Republic of Korea, 17–20 November 2026. Submission ID: 247. Full-paper and registration deadline: 31 October 2026.
-[Public acceptance record PDF](records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf)
+**Kim, Jooyeol.** 2027. “The Junior Workforce Paradox: Production Efficiency and Organizational Reproduction in the Age of AI.”  
+**Sole-authored.** Accepted as a Paper Presentation (Scientific Track), Track 4: Decent and Productive Work in the Digital Age, at the 21st ILERA World Congress, Sydney, Australia, 31 August–3 September 2027. Paper #518; acceptance notified on 23 November 2026. Final programme inclusion is conditional on presenter registration and payment by 8 February 2027 (11:59 PM AEST). Presentation day and timeslot have not yet been assigned. Not yet presented or published.  
+[ILERA 2027 Congress website](https://www.ilera2027.com/)
+
+---
+
+## Past acceptance — participation status pending verification
 
 ### 4S 2026 / Society for Social Studies of Science
 
 **Kim, Jooyeol.** 2026. “No Warranty, No Rollback: Critical AI Literacy After Black-Box Automation.”  
-**Sole-authored.** Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, 7–10 October 2026. Hybrid participation is supported. As of September 2026, final participation remains unresolved because registration remains a material cost constraint.  
+**Sole-authored.** Accepted to the 4S 2026 Conference: TechnoPower • Technoscientific Futures, Toronto, Canada, 7–10 October 2026. Hybrid participation is supported. The acceptance is documented, but this public record has not yet been updated with a verified final participation or conversion outcome.  
 [Public record PDF](records/4S_2026_Accepted_Abstract_Record_JooyeolKim.pdf)
 
 ---
