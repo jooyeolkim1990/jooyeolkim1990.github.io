@@ -10,7 +10,7 @@ Research on institutions, governance, work, technological change, and how respon
 This page is a first-meeting view of work that is moving now. It is selective rather than exhaustive: each item points to a live research question, its current stage, and where collaboration could be useful.
 
 <div class="page-note">
-<strong>IIAS Conference 2026 · Seoul.</strong> I am presenting <em>From Training to First Credibility: Public Governance of Reciprocal Labour-Market Legibility</em>, a collaborative-governance design for the credibility gap facing people without established work histories when polished output becomes cheap. <a href="/records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf">IIAS public record →</a> <a href="#first-credibility">Current project ↓</a>
+<strong>Conference updates · November 2026.</strong> I presented <em>From Training to First Credibility</em> at IIAS 2026 in Seoul on 18 November. <em>The Junior Workforce Paradox</em> has been accepted as a Scientific Track paper presentation for the ILERA World Congress 2027 in Sydney, subject to registration and scheduling. <a href="/cv.html">Verify conference status →</a> <a href="#junior-workforce-paradox">Current ILERA project ↓</a>
 </div>
 
 ## Governance & institutional systems
@@ -24,7 +24,7 @@ This page is a first-meeting view of work that is moving now. It is selective ra
     <div class="current-work-body">
       <span class="card-label">Public governance · labour-market entry · credibility · public employment services</span>
       <p>This project examines the credibility bottleneck facing people without established work histories and asks how public employment services might govern expert review without creating purchasable endorsement or one-sided candidate transparency. The design separates capability evidence, first credibility, employer-side job definition, and later job-specific verification rather than collapsing them into a single score.</p>
-      <p><strong>Current stage:</strong> IIAS Conference 2026 presentation; collaborative-governance design using cross-national institutional sequence mapping across training, capability evidence, credibility formation, employer verification, and selection.</p>
+      <p><strong>Current stage:</strong> IIAS Conference 2026 oral presentation completed on 18 November 2026; ongoing collaborative-governance design using cross-national institutional sequence mapping across training, capability evidence, credibility formation, employer verification, and selection.</p>
       <p><strong>Collaboration:</strong> public employment services, recruitment, labour-market entry, skills signalling, early careers, credentialing, AI-assisted work, collaborative governance.</p>
       <p><a href="/records/IIAS_2026_Accepted_Contribution_Record_JooyeolKim.pdf">View IIAS public record →</a></p>
     </div>
@@ -101,6 +101,24 @@ This page is a first-meeting view of work that is moving now. It is selective ra
 </div>
 
 ## Work, households & political economy
+
+<div class="section-kicker">AI, workforce entry &amp; organizational reproduction</div>
+<div class="current-work-list">
+  <details class="current-work-item" id="junior-workforce-paradox">
+    <summary>
+      <span class="current-work-title">The Junior Workforce Paradox</span>
+      <span class="current-work-hook">If firms automate junior production tasks, who develops the next generation of experienced workers?</span>
+    </summary>
+    <div class="current-work-body">
+      <span class="card-label">AI and work · entry-level employment · organizational reproduction · skill formation</span>
+      <p>This project distinguishes the demand for junior workers in current production from the junior workforce needed to develop future organizational capability. It examines a potential tension between firm-level efficiency gains from automating entry-level work and the longer-run reproduction of skilled workers through recruitment, learning, and experience. This is a proposed mechanism, not an established causal finding.</p>
+      <p><strong>Current stage:</strong> conceptual mechanism and exploratory empirical work; accepted as a Scientific Track paper presentation at ILERA World Congress 2027 (#518), pending registration and scheduling.</p>
+      <p><strong>Collaboration:</strong> longitudinal workforce data, internal labour markets, early-career hiring, training, HRM, and AI deployment.</p>
+      <p><a href="/cv.html#ilera-world-congress-2027">View conference status →</a></p>
+    </div>
+  </details>
+
+</div>
 
 <div class="section-kicker">Recent visual analysis</div>
 <div class="current-work-list">
