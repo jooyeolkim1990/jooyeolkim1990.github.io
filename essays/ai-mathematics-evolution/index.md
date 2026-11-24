@@ -39,6 +39,11 @@ The purpose of this record is personal and intellectual: to preserve how the arg
    - New AI-mathematics developments made the earlier distinction between formal solution, human understanding, and institutional control more concrete.
    - This file set was created as a retrospective record.
 
+6. **2026-11-24 — Status, expertise, and the symmetry test**
+   - Expertise was separated from symbolic authority.
+   - A status-symmetry test was formulated: hold the AI contribution, proof, understanding, verification, and release process constant, then ask whether the community's standards change when the mathematician's status changes.
+   - Discovery rights were distinguished more sharply from validation and interpretation rights.
+
 ## Current core position
 
 The mathematical community has legitimate standing to demand respect for the research norms it has built: attribution, verification, priority, responsible release, and room for independent interpretation.
